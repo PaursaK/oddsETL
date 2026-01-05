@@ -1,0 +1,4007 @@
+[
+  {
+    "id": "d4675c9f1cfcd20cf9b1d9365d76498f",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-09T19:30:00Z",
+    "home_team": "Eintracht Frankfurt",
+    "away_team": "Borussia Dortmund",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 105
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 100
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 107
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 104
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 110
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 105
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 110
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 233
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 110
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 233
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 100
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 110
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b8f9ad43df5e196ff495e727278f2d0e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "1. FC Heidenheim",
+    "away_team": "1. FC Köln",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 190
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 180
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 193
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 132
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 190
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 195
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 190
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 195
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 132
+              },
+              {
+                "name": "Draw",
+                "price": 257
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 195
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 132
+              },
+              {
+                "name": "Draw",
+                "price": 257
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 180
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 190
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "89477275520541dc360c144b21984d12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "FC St. Pauli",
+    "away_team": "RB Leipzig",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 280
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 260
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 290
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -109
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 280
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 275
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 280
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 290
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -109
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 290
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -109
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 260
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -116
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 280
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c9d652b759ac3be46550709fa7b7055e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Union Berlin",
+    "away_team": "FSV Mainz 05",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 250
+              },
+              {
+                "name": "Union Berlin",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 245
+              },
+              {
+                "name": "Union Berlin",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 270
+              },
+              {
+                "name": "Union Berlin",
+                "price": 113
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 260
+              },
+              {
+                "name": "Union Berlin",
+                "price": 108
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 250
+              },
+              {
+                "name": "Union Berlin",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 260
+              },
+              {
+                "name": "Union Berlin",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 270
+              },
+              {
+                "name": "Union Berlin",
+                "price": 114
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 270
+              },
+              {
+                "name": "Union Berlin",
+                "price": 114
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 245
+              },
+              {
+                "name": "Union Berlin",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 260
+              },
+              {
+                "name": "Union Berlin",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1bb8919c9b52a970dc7fa1cbd394cfe1",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "SC Freiburg",
+    "away_team": "Hamburger SV",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 340
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -140
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 320
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 370
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -124
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 320
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 340
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 340
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 372
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 247
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 372
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 247
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 320
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 350
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ffbb747d1852f1c638ef4b248edec557",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Werder Bremen",
+    "away_team": "TSG Hoffenheim",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 130
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 125
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 137
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 180
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 120
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 135
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 135
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:25Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 135
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 135
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 125
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 130
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fdaabc51d35000ac2c9c867a7a2d3b5d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "VfB Stuttgart",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -120
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -110
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -107
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -112
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 255
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -105
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -105
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -106
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 255
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -106
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 255
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -111
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -105
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": 250
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cdfb82b9061320bd6a62a98be790b34a",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T14:30:00Z",
+    "home_team": "Borussia Monchengladbach",
+    "away_team": "Augsburg",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 280
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 250
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 260
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -102
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 270
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 260
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 100
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 280
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 266
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -102
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 266
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -102
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 250
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -111
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 280
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3c7382bf19aacbed0fa1ea5c53769be4",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T16:30:00Z",
+    "home_team": "Bayern Munich",
+    "away_team": "VfL Wolfsburg",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -900
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1400
+              },
+              {
+                "name": "Draw",
+                "price": 700
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -900
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1100
+              },
+              {
+                "name": "Draw",
+                "price": 800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -850
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1400
+              },
+              {
+                "name": "Draw",
+                "price": 950
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -910
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1600
+              },
+              {
+                "name": "Draw",
+                "price": 800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -700
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1200
+              },
+              {
+                "name": "Draw",
+                "price": 825
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T02:45:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:45:58Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -800
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1800
+              },
+              {
+                "name": "Draw",
+                "price": 750
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -810
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1400
+              },
+              {
+                "name": "Draw",
+                "price": 970
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -810
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1400
+              },
+              {
+                "name": "Draw",
+                "price": 970
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T02:50:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:04Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -909
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1100
+              },
+              {
+                "name": "Draw",
+                "price": 800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -800
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": 1400
+              },
+              {
+                "name": "Draw",
+                "price": 850
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3937edff29d08a26dccdd8abb5030d89",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T17:30:00Z",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Eintracht Frankfurt",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 300
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 270
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 300
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 298
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -124
+              },
+              {
+                "name": "Draw",
+                "price": 292
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 298
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -124
+              },
+              {
+                "name": "Draw",
+                "price": 292
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 300
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -127
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 300
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c5bb74a25b74b505afda307b2c243469",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "FSV Mainz 05",
+    "away_team": "1. FC Heidenheim",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 430
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 380
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 415
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -141
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 415
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 415
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 430
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -157
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 425
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -140
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3a298098241a4bfbf4eda0929537f063",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Hamburger SV",
+    "away_team": "Bayer Leverkusen",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 105
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -105
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 104
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 102
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 242
+              },
+              {
+                "name": "Draw",
+                "price": 266
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 102
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 242
+              },
+              {
+                "name": "Draw",
+                "price": 266
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 102
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 105
+              },
+              {
+                "name": "Hamburger SV",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a97c467e9ff379af06f972ec25ddc407",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Borussia Dortmund",
+    "away_team": "Werder Bremen",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -320
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 700
+              },
+              {
+                "name": "Draw",
+                "price": 450
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -320
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 600
+              },
+              {
+                "name": "Draw",
+                "price": 425
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -275
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 625
+              },
+              {
+                "name": "Draw",
+                "price": 440
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -290
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 635
+              },
+              {
+                "name": "Draw",
+                "price": 455
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -290
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 635
+              },
+              {
+                "name": "Draw",
+                "price": 455
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -335
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 750
+              },
+              {
+                "name": "Draw",
+                "price": 450
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -300
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 450
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "147176b65eecb7ca66d162dd93c39e12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T17:30:00Z",
+    "home_team": "VfL Wolfsburg",
+    "away_team": "FC St. Pauli",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 300
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 275
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 305
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 310
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 300
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -116
+              },
+              {
+                "name": "Draw",
+                "price": 266
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 300
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -116
+              },
+              {
+                "name": "Draw",
+                "price": 266
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": 310
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4881e0d69bec69bababecaa1e98b5dad",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "1. FC Köln",
+    "away_team": "Bayern Munich",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 750
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -425
+              },
+              {
+                "name": "Draw",
+                "price": 500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 600
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -370
+              },
+              {
+                "name": "Draw",
+                "price": 475
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 750
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -355
+              },
+              {
+                "name": "Draw",
+                "price": 525
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 800
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -385
+              },
+              {
+                "name": "Draw",
+                "price": 525
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 705
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -347
+              },
+              {
+                "name": "Draw",
+                "price": 525
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 705
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -347
+              },
+              {
+                "name": "Draw",
+                "price": 525
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": 700
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -350
+              },
+              {
+                "name": "Draw",
+                "price": 500
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "61e314c2c7412ea1f19409f119f1e29d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "TSG Hoffenheim",
+    "away_team": "Borussia Monchengladbach",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 300
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 265
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 285
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 270
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -117
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 280
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -116
+              },
+              {
+                "name": "Draw",
+                "price": 284
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 280
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -116
+              },
+              {
+                "name": "Draw",
+                "price": 284
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": 280
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "51b47d6f758ef44421a635cfe2bd27da",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "RB Leipzig",
+    "away_team": "SC Freiburg",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -140
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 320
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -135
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 285
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -124
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 305
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -134
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -125
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 305
+              },
+              {
+                "name": "Draw",
+                "price": 289
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -125
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 305
+              },
+              {
+                "name": "Draw",
+                "price": 289
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": -125
+              },
+              {
+                "name": "SC Freiburg",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dd9ffe0d93fe6332658ea6eba405e5e8",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-15T19:30:00Z",
+    "home_team": "Augsburg",
+    "away_team": "Union Berlin",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T02:50:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:50:03Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 140
+              },
+              {
+                "name": "Union Berlin",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 135
+              },
+              {
+                "name": "Union Berlin",
+                "price": 190
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T02:49:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 141
+              },
+              {
+                "name": "Union Berlin",
+                "price": 205
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T02:49:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:13Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 148
+              },
+              {
+                "name": "Union Berlin",
+                "price": 188
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T02:48:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:26Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 139
+              },
+              {
+                "name": "Union Berlin",
+                "price": 206
+              },
+              {
+                "name": "Draw",
+                "price": 217
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T02:49:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:49:52Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 139
+              },
+              {
+                "name": "Union Berlin",
+                "price": 206
+              },
+              {
+                "name": "Draw",
+                "price": 217
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T02:48:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-05T02:48:13Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 140
+              },
+              {
+                "name": "Union Berlin",
+                "price": 200
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

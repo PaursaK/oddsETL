@@ -1,0 +1,650 @@
+[
+  {
+    "id": "d6129daee74ac8e6bf618ae2d0a63c3b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-02T03:11:00Z",
+    "completed": true,
+    "home_team": "Sacramento Kings",
+    "away_team": "Boston Celtics",
+    "scores": [
+      {
+        "name": "Sacramento Kings",
+        "score": "106"
+      },
+      {
+        "name": "Boston Celtics",
+        "score": "120"
+      }
+    ],
+    "last_update": "2026-01-02T11:28:24Z"
+  },
+  {
+    "id": "de443158bb81f3fee6a47868ca4c804b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-02T03:40:00Z",
+    "completed": true,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Utah Jazz",
+    "scores": [
+      {
+        "name": "Los Angeles Clippers",
+        "score": "118"
+      },
+      {
+        "name": "Utah Jazz",
+        "score": "101"
+      }
+    ],
+    "last_update": "2026-01-02T11:28:24Z"
+  },
+  {
+    "id": "14bc31e6584046b79f90aa3d42877f07",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T00:12:00Z",
+    "completed": true,
+    "home_team": "Washington Wizards",
+    "away_team": "Brooklyn Nets",
+    "scores": [
+      {
+        "name": "Washington Wizards",
+        "score": "119"
+      },
+      {
+        "name": "Brooklyn Nets",
+        "score": "99"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "260d8a4037ed37bae3a5ad3725c11906",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T00:12:00Z",
+    "completed": true,
+    "home_team": "Indiana Pacers",
+    "away_team": "San Antonio Spurs",
+    "scores": [
+      {
+        "name": "Indiana Pacers",
+        "score": "113"
+      },
+      {
+        "name": "San Antonio Spurs",
+        "score": "123"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "8169427a266bd81487b2136378509cac",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T00:35:00Z",
+    "completed": true,
+    "home_team": "New York Knicks",
+    "away_team": "Atlanta Hawks",
+    "scores": [
+      {
+        "name": "New York Knicks",
+        "score": "99"
+      },
+      {
+        "name": "Atlanta Hawks",
+        "score": "111"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "283f17b8fb6ac7f514f74eba96db03ac",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T00:42:00Z",
+    "completed": true,
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Denver Nuggets",
+    "scores": [
+      {
+        "name": "Cleveland Cavaliers",
+        "score": "113"
+      },
+      {
+        "name": "Denver Nuggets",
+        "score": "108"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "c8a2140f30daa18b21cf7285846c782b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T01:10:00Z",
+    "completed": true,
+    "home_team": "Chicago Bulls",
+    "away_team": "Orlando Magic",
+    "scores": [
+      {
+        "name": "Chicago Bulls",
+        "score": "121"
+      },
+      {
+        "name": "Orlando Magic",
+        "score": "114"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "8471751b12ee2bd1516db17adb92e246",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T01:11:00Z",
+    "completed": true,
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Charlotte Hornets",
+    "scores": [
+      {
+        "name": "Milwaukee Bucks",
+        "score": "122"
+      },
+      {
+        "name": "Charlotte Hornets",
+        "score": "121"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "5df215c154156e2a4bd2cc8d916bc4cc",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T01:11:00Z",
+    "completed": true,
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Portland Trail Blazers",
+    "scores": [
+      {
+        "name": "New Orleans Pelicans",
+        "score": "109"
+      },
+      {
+        "name": "Portland Trail Blazers",
+        "score": "122"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "2b41febb0964133c93ca8f77bce7ed72",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T02:11:00Z",
+    "completed": true,
+    "home_team": "Phoenix Suns",
+    "away_team": "Sacramento Kings",
+    "scores": [
+      {
+        "name": "Phoenix Suns",
+        "score": "129"
+      },
+      {
+        "name": "Sacramento Kings",
+        "score": "102"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "4337f25e5b76b9a54cc35833374a8213",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T03:13:00Z",
+    "completed": true,
+    "home_team": "Golden State Warriors",
+    "away_team": "Oklahoma City Thunder",
+    "scores": [
+      {
+        "name": "Golden State Warriors",
+        "score": "94"
+      },
+      {
+        "name": "Oklahoma City Thunder",
+        "score": "131"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "b9704c30e60eabed676cce7dcc882497",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T03:41:00Z",
+    "completed": true,
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Memphis Grizzlies",
+    "scores": [
+      {
+        "name": "Los Angeles Lakers",
+        "score": "128"
+      },
+      {
+        "name": "Memphis Grizzlies",
+        "score": "121"
+      }
+    ],
+    "last_update": "2026-01-03T11:26:02Z"
+  },
+  {
+    "id": "bf731d1bdca3b4b13794fb2cf636054d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T22:11:00Z",
+    "completed": true,
+    "home_team": "Miami Heat",
+    "away_team": "Minnesota Timberwolves",
+    "scores": [
+      {
+        "name": "Miami Heat",
+        "score": "115"
+      },
+      {
+        "name": "Minnesota Timberwolves",
+        "score": "125"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "a2d14bdf31312a6dc0ff70ca56894e69",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T00:41:00Z",
+    "completed": true,
+    "home_team": "New York Knicks",
+    "away_team": "Philadelphia 76ers",
+    "scores": [
+      {
+        "name": "New York Knicks",
+        "score": "119"
+      },
+      {
+        "name": "Philadelphia 76ers",
+        "score": "130"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "37cc8f43c363f1d128d628902c096c2e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T00:42:00Z",
+    "completed": true,
+    "home_team": "Toronto Raptors",
+    "away_team": "Atlanta Hawks",
+    "scores": [
+      {
+        "name": "Toronto Raptors",
+        "score": "134"
+      },
+      {
+        "name": "Atlanta Hawks",
+        "score": "117"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "fd9969a95c7308e171377cdc5445be4c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:10:00Z",
+    "completed": true,
+    "home_team": "Chicago Bulls",
+    "away_team": "Charlotte Hornets",
+    "scores": [
+      {
+        "name": "Chicago Bulls",
+        "score": "99"
+      },
+      {
+        "name": "Charlotte Hornets",
+        "score": "112"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "4e5f1567c38f897e5cb4a4fa445d0f3c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:12:00Z",
+    "completed": true,
+    "home_team": "San Antonio Spurs",
+    "away_team": "Portland Trail Blazers",
+    "scores": [
+      {
+        "name": "San Antonio Spurs",
+        "score": "110"
+      },
+      {
+        "name": "Portland Trail Blazers",
+        "score": "115"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "d35c2f55df0ee7e2b6ea6b57f58d50bf",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:41:00Z",
+    "completed": true,
+    "home_team": "Dallas Mavericks",
+    "away_team": "Houston Rockets",
+    "scores": [
+      {
+        "name": "Dallas Mavericks",
+        "score": "110"
+      },
+      {
+        "name": "Houston Rockets",
+        "score": "104"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "014f7ba8cfa9a886677dda52ff776544",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T03:11:00Z",
+    "completed": true,
+    "home_team": "Golden State Warriors",
+    "away_team": "Utah Jazz",
+    "scores": [
+      {
+        "name": "Golden State Warriors",
+        "score": "123"
+      },
+      {
+        "name": "Utah Jazz",
+        "score": "114"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "951987d285edeebef57679583da56cba",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T03:40:00Z",
+    "completed": true,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Boston Celtics",
+    "scores": [
+      {
+        "name": "Los Angeles Clippers",
+        "score": "115"
+      },
+      {
+        "name": "Boston Celtics",
+        "score": "146"
+      }
+    ],
+    "last_update": "2026-01-04T10:56:36Z"
+  },
+  {
+    "id": "a76401e257d96726afaa18aeaccf0751",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T19:12:00Z",
+    "completed": true,
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Detroit Pistons",
+    "scores": [
+      {
+        "name": "Cleveland Cavaliers",
+        "score": "110"
+      },
+      {
+        "name": "Detroit Pistons",
+        "score": "114"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "31898558a940481030b3a9edb15c7752",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T20:11:00Z",
+    "completed": true,
+    "home_team": "Orlando Magic",
+    "away_team": "Indiana Pacers",
+    "scores": [
+      {
+        "name": "Orlando Magic",
+        "score": "135"
+      },
+      {
+        "name": "Indiana Pacers",
+        "score": "127"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "8d6b4abe3aab876f8c65565e13ba3e88",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T20:41:00Z",
+    "completed": true,
+    "home_team": "Brooklyn Nets",
+    "away_team": "Denver Nuggets",
+    "scores": [
+      {
+        "name": "Brooklyn Nets",
+        "score": "127"
+      },
+      {
+        "name": "Denver Nuggets",
+        "score": "115"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "202bec44cb17b3fe31e1d47a35bb4311",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:10:00Z",
+    "completed": true,
+    "home_team": "Washington Wizards",
+    "away_team": "Minnesota Timberwolves",
+    "scores": [
+      {
+        "name": "Washington Wizards",
+        "score": "115"
+      },
+      {
+        "name": "Minnesota Timberwolves",
+        "score": "141"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "e565e947367f2a97276b2b942efec009",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:13:00Z",
+    "completed": true,
+    "home_team": "Miami Heat",
+    "away_team": "New Orleans Pelicans",
+    "scores": [
+      {
+        "name": "Miami Heat",
+        "score": "125"
+      },
+      {
+        "name": "New Orleans Pelicans",
+        "score": "106"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "608ad59d278d1266aefcb70a1e1bcfea",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T01:10:00Z",
+    "completed": false,
+    "home_team": "Phoenix Suns",
+    "away_team": "Oklahoma City Thunder",
+    "scores": [
+      {
+        "name": "Phoenix Suns",
+        "score": "62"
+      },
+      {
+        "name": "Oklahoma City Thunder",
+        "score": "69"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "649a52d549fd66b3f04c0eb6a5bceea0",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:10:00Z",
+    "completed": false,
+    "home_team": "Sacramento Kings",
+    "away_team": "Milwaukee Bucks",
+    "scores": [
+      {
+        "name": "Sacramento Kings",
+        "score": "34"
+      },
+      {
+        "name": "Milwaukee Bucks",
+        "score": "43"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "85525b53f1abd7179f60a447bad2579b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:42:00Z",
+    "completed": false,
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Memphis Grizzlies",
+    "scores": [
+      {
+        "name": "Los Angeles Lakers",
+        "score": "11"
+      },
+      {
+        "name": "Memphis Grizzlies",
+        "score": "14"
+      }
+    ],
+    "last_update": "2026-01-05T02:49:58Z"
+  },
+  {
+    "id": "07c210d30cdf1a467ae466394c9c7d2c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T00:10:00Z",
+    "completed": false,
+    "home_team": "Detroit Pistons",
+    "away_team": "New York Knicks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "a4735b19c22f9709d23974fe5d264665",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T00:40:00Z",
+    "completed": false,
+    "home_team": "Toronto Raptors",
+    "away_team": "Atlanta Hawks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f464229b0fe5abe7e94b312d75639617",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T00:40:00Z",
+    "completed": false,
+    "home_team": "Boston Celtics",
+    "away_team": "Chicago Bulls",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "5e38fbb5e0a6277859816fe58cf76a1e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T01:10:00Z",
+    "completed": false,
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Charlotte Hornets",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "2b779d0954e1c4a13083ebecc0fe65b2",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T01:10:00Z",
+    "completed": false,
+    "home_team": "Houston Rockets",
+    "away_team": "Phoenix Suns",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "8e0209fcea74087227f0a490e9277381",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T01:40:00Z",
+    "completed": false,
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Denver Nuggets",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "078a4d38068bc82683be486a54fc6995",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T03:10:00Z",
+    "completed": false,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Golden State Warriors",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "45d0b580462adaf7e3969a7c2b566771",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T03:10:00Z",
+    "completed": false,
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Utah Jazz",
+    "scores": null,
+    "last_update": null
+  }
+]
