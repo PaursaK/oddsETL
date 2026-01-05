@@ -3,7 +3,6 @@ from oddsETL.db import OddsDB
 import os
 import pandas as pd
 from dotenv import load_dotenv
-import requests
 from oddsETL.helpers import (
     map_sport_to_event_ids,
     get_odds_h2h,
@@ -85,16 +84,6 @@ def run_current(supabase_db: OddsDB, sports: list[SportKey]) -> None:
                     ignore_duplicates=False,
                     returning="minimal",
                 )
-
-    admin_token = os.getenv("ADMIN_TOKEN")
-    if admin_token:
-        resp = requests.post(
-            "https://pocketbets.onrender.com/api/resolve-transactions",
-            headers={"Authorization": f"Bearer {admin_token}"},
-            timeout=30,
-        )
-        print("Resolve transactions response:", resp.status_code, resp.text)
-
 
 def run() -> None:
     sports = [
