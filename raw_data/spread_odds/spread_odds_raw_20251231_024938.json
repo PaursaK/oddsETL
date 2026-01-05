@@ -1,0 +1,3787 @@
+[
+  {
+    "id": "c04b192335eb8afec1cbffcd72b658cf",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-12-31T02:06:10Z",
+    "home_team": "TCU Horned Frogs",
+    "away_team": "USC Trojans",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": -125,
+                "point": 1.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -106,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": 113,
+                "point": -1.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -150,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -125,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -118,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:47:55Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:55Z",
+            "outcomes": [
+              {
+                "name": "TCU Horned Frogs",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e4eae563eb44ef3d6809bf83c6f022ed",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-12-31T17:00:00Z",
+    "home_team": "Vanderbilt Commodores",
+    "away_team": "Iowa Hawkeyes",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -112,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -108,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -106,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -106,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -115,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -105,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -109,
+                "point": 5.0
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -114,
+                "point": -5.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Iowa Hawkeyes",
+                "price": -110,
+                "point": 5.0
+              },
+              {
+                "name": "Vanderbilt Commodores",
+                "price": -110,
+                "point": -5.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "be58b6906c480e3440f3c4b65a068f3e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-12-31T19:00:00Z",
+    "home_team": "Duke Blue Devils",
+    "away_team": "Arizona State Sun Devils",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -102,
+                "point": 3.0
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -118,
+                "point": -3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -111,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -101,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -105,
+                "point": 3.0
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -115,
+                "point": -3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -120,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": 100,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Arizona State Sun Devils",
+                "price": -120,
+                "point": 3.5
+              },
+              {
+                "name": "Duke Blue Devils",
+                "price": -108,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19a577346818332b03e9737e6aadf808",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-12-31T20:00:00Z",
+    "home_team": "Texas Longhorns",
+    "away_team": "Michigan Wolverines",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -105,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -111,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -101,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -105,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -118,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -104,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -105,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -114,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -106,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -120,
+                "point": 7.5
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": 100,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Michigan Wolverines",
+                "price": -112,
+                "point": 7.0
+              },
+              {
+                "name": "Texas Longhorns",
+                "price": -112,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6f364b2f9038410b7cfedad799afddfb",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2025-12-31T20:30:00Z",
+    "home_team": "Utah Utes",
+    "away_team": "Nebraska Cornhuskers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -110,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -120,
+                "point": 14.5
+              },
+              {
+                "name": "Utah Utes",
+                "price": -102,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -105,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -115,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -110,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -108,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -112,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -105,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -115,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -110,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -105,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -115,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -108,
+                "point": 14.0
+              },
+              {
+                "name": "Utah Utes",
+                "price": -115,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d05ae1f8060582994d6d724ccbb5e21a",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-01T00:30:00Z",
+    "home_team": "Ohio State Buckeyes",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -108,
+                "point": 9.0
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -104,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -112,
+                "point": 9.0
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -108,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -112,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -109,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -109,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -114,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 9.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "22c2cdc4f691ac3a9138cdf71231bb81",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-01T17:00:00Z",
+    "home_team": "Texas Tech Red Raiders",
+    "away_team": "Oregon Ducks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -108,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -112,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -103,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -109,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -107,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -113,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -114,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -106,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -112,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -109,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -109,
+                "point": -2.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -114,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7678978564e7c8a1d1913f8c1d4463e5",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-01T21:00:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Alabama Crimson Tide",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -108,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -112,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -101,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -111,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -122,
+                "point": 7.5
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": 100,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -108,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -113,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -108,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": 100,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -120,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Indiana Hoosiers",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7203b3b2119a74b5e3506cbba10db3ef",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T01:00:00Z",
+    "home_team": "Georgia Bulldogs",
+    "away_team": "Ole Miss Rebels",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -108,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -112,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -109,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -111,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -107,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -114,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -109,
+                "point": -6.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -114,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -115,
+                "point": -6.0
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -105,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "930671ccd2f2eb35afc046e27c999b03",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T18:00:00Z",
+    "home_team": "Texas State Bobcats",
+    "away_team": "Rice Owls",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -118,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -104,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -115,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -105,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -117,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -104,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -106,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -106,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -110,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -110,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -115,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -105,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -110,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -110,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -110,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -110,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -109,
+                "point": 14.0
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -113,
+                "point": -14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Rice Owls",
+                "price": -115,
+                "point": 14.5
+              },
+              {
+                "name": "Texas State Bobcats",
+                "price": -105,
+                "point": -14.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5bb624eddcdb91f1604d15e869b67fe6",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T21:30:00Z",
+    "home_team": "Cincinnati Bearcats",
+    "away_team": "Navy Midshipmen",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -108,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -112,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -101,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -111,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -122,
+                "point": 7.5
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": 100,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -109,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -112,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -105,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -115,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -115,
+                "point": 7.0
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -105,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Cincinnati Bearcats",
+                "price": -115,
+                "point": 7.5
+              },
+              {
+                "name": "Navy Midshipmen",
+                "price": -108,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "485c875626910603ddd6d457d9f97e43",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-03T01:00:00Z",
+    "home_team": "SMU Mustangs",
+    "away_team": "Arizona Wildcats",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -118,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -104,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -113,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -107,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -111,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -101,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -105,
+                "point": -3.0
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -115,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -120,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": 100,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -108,
+                "point": -3.0
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -115,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Arizona Wildcats",
+                "price": -115,
+                "point": -2.5
+              },
+              {
+                "name": "SMU Mustangs",
+                "price": -105,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bd6818aa5f43e7496cc108c90adf335d",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-03T01:00:00Z",
+    "home_team": "Mississippi State Bulldogs",
+    "away_team": "Wake Forest Demon Deacons",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -102,
+                "point": -3.5
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -120,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -112,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -108,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -109,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -111,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -101,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -115,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -105,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -110,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -110,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -115,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -105,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:46Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -115,
+                "point": -3.0
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -105,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:12Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:12Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": -107,
+                "point": -3.5
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Mississippi State Bulldogs",
+                "price": 100,
+                "point": -3.5
+              },
+              {
+                "name": "Wake Forest Demon Deacons",
+                "price": -120,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -110,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -110,
+                "point": 11.0
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -11.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:48:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:48:44Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -110,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-31T02:47:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:47:47Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -109,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0983eaf1f34d2820503b25a9bc5ced6f",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Georgia Bulldogs",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -108,
+                "point": -3.5
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": -112,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -106,
+                "point": -3.5
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": -106,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "202c450d9ff6398e9ad98e7d9d6e9e35",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ohio State Buckeyes",
+    "away_team": "Georgia Bulldogs",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -110,
+                "point": 5.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -114,
+                "point": 5.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": 102,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Georgia Bulldogs",
+                "price": -118,
+                "point": 5.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -102,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -1.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "176037d5736e9239feb4521785de46ff",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ohio State Buckeyes",
+    "away_team": "Ole Miss Rebels",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -108,
+                "point": -10.0
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -112,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -122,
+                "point": -9.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": 100,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -115,
+                "point": -9.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -105,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "684cd6a0054de1920ea49fdb358b195b",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Oregon Ducks",
+    "away_team": "Alabama Crimson Tide",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -110,
+                "point": 4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -118,
+                "point": 3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -104,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -101,
+                "point": 3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -111,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -105,
+                "point": 3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8be641ff606273aed9428222113ef65f",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Texas Tech Red Raiders",
+    "away_team": "Alabama Crimson Tide",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -112,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -108,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -111,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -101,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Alabama Crimson Tide",
+                "price": -115,
+                "point": 3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -105,
+                "point": -3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -101,
+                "point": -3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -111,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -3.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bdd39d25f75126c0190b31313764980e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Texas Tech Red Raiders",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-31T02:49:26Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:26Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -108,
+                "point": -4.0
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -112,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-31T02:49:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:11Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -106,
+                "point": -3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -106,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:00Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-31T02:49:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Texas Tech Red Raiders",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

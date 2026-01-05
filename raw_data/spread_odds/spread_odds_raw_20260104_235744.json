@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "3ef452727d1dbb6295a27d1b76eab880",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T14:00:00Z",
+    "home_team": "Pisa",
+    "away_team": "Como",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -101,
+                "point": -0.75
+              },
+              {
+                "name": "Pisa",
+                "price": -119,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -101,
+                "point": -0.75
+              },
+              {
+                "name": "Pisa",
+                "price": -119,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -102,
+                "point": -0.75
+              },
+              {
+                "name": "Pisa",
+                "price": -118,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9314be4eb0a4f1a1094d4d19ce6f3658",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T17:00:00Z",
+    "home_team": "Lecce",
+    "away_team": "AS Roma",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -103,
+                "point": -0.75
+              },
+              {
+                "name": "Lecce",
+                "price": -117,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -103,
+                "point": -0.75
+              },
+              {
+                "name": "Lecce",
+                "price": -117,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -102,
+                "point": -0.75
+              },
+              {
+                "name": "Lecce",
+                "price": -118,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -134,
+                "point": -0.5
+              },
+              {
+                "name": "Lecce",
+                "price": 114,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a344837a502a1079b9b86ef01cefd1c3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T19:45:00Z",
+    "home_team": "Sassuolo",
+    "away_team": "Juventus",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "Sassuolo",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "Sassuolo",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "Sassuolo",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bb851b5abe60d9906ee775bd4f682ace",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Bologna",
+    "away_team": "Atalanta BC",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": -118,
+                "point": 0.0
+              },
+              {
+                "name": "Bologna",
+                "price": -102,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": -117,
+                "point": 0.0
+              },
+              {
+                "name": "Bologna",
+                "price": -103,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": -117,
+                "point": 0.0
+              },
+              {
+                "name": "Bologna",
+                "price": -103,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": -115,
+                "point": 0.0
+              },
+              {
+                "name": "Bologna",
+                "price": -105,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d7c371529e9be91f6d5cc1d2bc73d0a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Napoli",
+    "away_team": "Hellas Verona",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -110,
+                "point": 1.25
+              },
+              {
+                "name": "Napoli",
+                "price": -110,
+                "point": -1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -110,
+                "point": 1.25
+              },
+              {
+                "name": "Napoli",
+                "price": -110,
+                "point": -1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -118,
+                "point": 1.25
+              },
+              {
+                "name": "Napoli",
+                "price": -102,
+                "point": -1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -140,
+                "point": 1.5
+              },
+              {
+                "name": "Napoli",
+                "price": 120,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1911775aa84bf778126a7a6a1c61a188",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Lazio",
+    "away_team": "Fiorentina",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": -117,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -103,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": -117,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -103,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": -108,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -112,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": -155,
+                "point": 0.5
+              },
+              {
+                "name": "Lazio",
+                "price": 135,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "494261cb09d86dfd909684a93847faf3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Parma",
+    "away_team": "Inter Milan",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -110,
+                "point": -1.25
+              },
+              {
+                "name": "Parma",
+                "price": -110,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -112,
+                "point": -1.25
+              },
+              {
+                "name": "Parma",
+                "price": -108,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -112,
+                "point": -1.25
+              },
+              {
+                "name": "Parma",
+                "price": -108,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": 115,
+                "point": -1.5
+              },
+              {
+                "name": "Parma",
+                "price": -135,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "103fb449c751da1dea5d42fc8a45b94d",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Torino",
+    "away_team": "Udinese",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": -102,
+                "point": -0.25
+              },
+              {
+                "name": "Udinese",
+                "price": -118,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": -102,
+                "point": -0.25
+              },
+              {
+                "name": "Udinese",
+                "price": -118,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": -102,
+                "point": -0.25
+              },
+              {
+                "name": "Udinese",
+                "price": -118,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:23Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 130,
+                "point": -0.5
+              },
+              {
+                "name": "Udinese",
+                "price": -150,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "49de426e3e52510371c75329757210a4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T17:30:00Z",
+    "home_team": "Cremonese",
+    "away_team": "Cagliari",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": -117,
+                "point": 0.25
+              },
+              {
+                "name": "Cremonese",
+                "price": -103,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": -117,
+                "point": 0.25
+              },
+              {
+                "name": "Cremonese",
+                "price": -103,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": -118,
+                "point": 0.25
+              },
+              {
+                "name": "Cremonese",
+                "price": -102,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52353b6172b3b45e014a449098fea935",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T19:45:00Z",
+    "home_team": "AC Milan",
+    "away_team": "Genoa",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -101,
+                "point": -1.25
+              },
+              {
+                "name": "Genoa",
+                "price": -119,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -101,
+                "point": -1.25
+              },
+              {
+                "name": "Genoa",
+                "price": -119,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:58Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:56:58Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": 100,
+                "point": -1.25
+              },
+              {
+                "name": "Genoa",
+                "price": -120,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0b55d463b885859c77825781292237d2",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T14:00:00Z",
+    "home_team": "Como",
+    "away_team": "Bologna",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 100,
+                "point": 0.25
+              },
+              {
+                "name": "Como",
+                "price": -120,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 101,
+                "point": 0.25
+              },
+              {
+                "name": "Como",
+                "price": -121,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 101,
+                "point": 0.25
+              },
+              {
+                "name": "Como",
+                "price": -121,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "697869ca5876855cf7a185f7dad738ef",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T14:00:00Z",
+    "home_team": "Udinese",
+    "away_team": "Pisa",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Pisa",
+                "price": -115,
+                "point": 0.5
+              },
+              {
+                "name": "Udinese",
+                "price": -105,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Pisa",
+                "price": -113,
+                "point": 0.5
+              },
+              {
+                "name": "Udinese",
+                "price": -107,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Pisa",
+                "price": -113,
+                "point": 0.5
+              },
+              {
+                "name": "Udinese",
+                "price": -107,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8a8c6213efddb8a91e079cfbbe47813c",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T17:00:00Z",
+    "home_team": "AS Roma",
+    "away_team": "Sassuolo",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -108,
+                "point": -1.0
+              },
+              {
+                "name": "Sassuolo",
+                "price": -112,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -108,
+                "point": -1.0
+              },
+              {
+                "name": "Sassuolo",
+                "price": -112,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c886a9c8d2c702269e9f17b6d7469977",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T19:45:00Z",
+    "home_team": "Atalanta BC",
+    "away_team": "Torino",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 105,
+                "point": -1.0
+              },
+              {
+                "name": "Torino",
+                "price": -125,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 106,
+                "point": -1.0
+              },
+              {
+                "name": "Torino",
+                "price": -126,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 106,
+                "point": -1.0
+              },
+              {
+                "name": "Torino",
+                "price": -126,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d3b1c2fe05ddcffc704a6495d8268971",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T11:30:00Z",
+    "home_team": "Lecce",
+    "away_team": "Parma",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Lecce",
+                "price": -125,
+                "point": 0.0
+              },
+              {
+                "name": "Parma",
+                "price": 105,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Lecce",
+                "price": -124,
+                "point": 0.0
+              },
+              {
+                "name": "Parma",
+                "price": 104,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Lecce",
+                "price": -124,
+                "point": 0.0
+              },
+              {
+                "name": "Parma",
+                "price": 104,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32a86b2b69ba8c8749861199a8fdc52a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T14:00:00Z",
+    "home_team": "Fiorentina",
+    "away_team": "AC Milan",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -105,
+                "point": -0.5
+              },
+              {
+                "name": "Fiorentina",
+                "price": -115,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -105,
+                "point": -0.5
+              },
+              {
+                "name": "Fiorentina",
+                "price": -115,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -105,
+                "point": -0.5
+              },
+              {
+                "name": "Fiorentina",
+                "price": -115,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5be8dbb3ee9d2c2d09a813a73fe73a34",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T17:00:00Z",
+    "home_team": "Hellas Verona",
+    "away_team": "Lazio",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -105,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -115,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -105,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -115,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": -105,
+                "point": 0.25
+              },
+              {
+                "name": "Lazio",
+                "price": -115,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "36412b11274ae69ce0b6b60075df28b3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T19:45:00Z",
+    "home_team": "Inter Milan",
+    "away_team": "Napoli",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": 100,
+                "point": -0.75
+              },
+              {
+                "name": "Napoli",
+                "price": -120,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": 100,
+                "point": -0.75
+              },
+              {
+                "name": "Napoli",
+                "price": -120,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": 100,
+                "point": -0.75
+              },
+              {
+                "name": "Napoli",
+                "price": -120,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d66ea58ddb00d545b4d31988f2632b84",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-12T17:30:00Z",
+    "home_team": "Genoa",
+    "away_team": "Cagliari",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 108,
+                "point": 0.25
+              },
+              {
+                "name": "Genoa",
+                "price": -128,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 107,
+                "point": 0.25
+              },
+              {
+                "name": "Genoa",
+                "price": -127,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 107,
+                "point": 0.25
+              },
+              {
+                "name": "Genoa",
+                "price": -127,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "daa2bb9fe4c0697c33a13df8bdf388d2",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-12T19:45:00Z",
+    "home_team": "Juventus",
+    "away_team": "Cremonese",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:55:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:55:57Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": -120,
+                "point": 1.75
+              },
+              {
+                "name": "Juventus",
+                "price": 100,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:34Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": -120,
+                "point": 1.75
+              },
+              {
+                "name": "Juventus",
+                "price": 100,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:57:10Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": -120,
+                "point": 1.75
+              },
+              {
+                "name": "Juventus",
+                "price": 100,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "c1cef082530d156e4cdd5584f8cc5f15",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-02T20:00:00Z",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Getafe",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 105,
+                "point": 0.25
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -125,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 101,
+                "point": 0.25
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -121,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 101,
+                "point": 0.25
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -121,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "691cd767b631199392b972a4870d77fe",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-03T13:00:00Z",
+    "home_team": "Celta Vigo",
+    "away_team": "Valencia",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": -105,
+                "point": -0.5
+              },
+              {
+                "name": "Valencia",
+                "price": -115,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": -102,
+                "point": -0.5
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": -102,
+                "point": -0.5
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:29:51Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:50Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": -102,
+                "point": -0.5
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d18b1e775c1c749b16a15da111db0636",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-03T15:15:00Z",
+    "home_team": "CA Osasuna",
+    "away_team": "Athletic Bilbao",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -134,
+                "point": 0.0
+              },
+              {
+                "name": "CA Osasuna",
+                "price": 112,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -132,
+                "point": 0.0
+              },
+              {
+                "name": "CA Osasuna",
+                "price": 112,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -132,
+                "point": 0.0
+              },
+              {
+                "name": "CA Osasuna",
+                "price": 112,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:29:51Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:50Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": -134,
+                "point": 0.0
+              },
+              {
+                "name": "CA Osasuna",
+                "price": 114,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5e1c0d22fcfa9000c6cee06383a7e6d6",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-03T17:30:00Z",
+    "home_team": "Elche CF",
+    "away_team": "Villarreal",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 102,
+                "point": 0.25
+              },
+              {
+                "name": "Villarreal",
+                "price": -122,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -110,
+                "point": 0.25
+              },
+              {
+                "name": "Villarreal",
+                "price": -110,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -110,
+                "point": 0.25
+              },
+              {
+                "name": "Villarreal",
+                "price": -110,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e47132a3b5a35235ab8fea1dd64e2189",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-03T20:00:00Z",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -112,
+                "point": -1.0
+              },
+              {
+                "name": "Espanyol",
+                "price": -108,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": 100,
+                "point": -1.25
+              },
+              {
+                "name": "Espanyol",
+                "price": -120,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": 100,
+                "point": -1.25
+              },
+              {
+                "name": "Espanyol",
+                "price": -120,
+                "point": 1.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2458cbd77b28efe6311a4819377e7ebe",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T13:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Levante",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 105,
+                "point": 0.5
+              },
+              {
+                "name": "Sevilla",
+                "price": -125,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 104,
+                "point": 0.5
+              },
+              {
+                "name": "Sevilla",
+                "price": -124,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 104,
+                "point": 0.5
+              },
+              {
+                "name": "Sevilla",
+                "price": -124,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4cc9478826dabe3b58fd4d51d5efc3f6",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T15:15:00Z",
+    "home_team": "Real Madrid",
+    "away_team": "Real Betis",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": -115,
+                "point": 1.5
+              },
+              {
+                "name": "Real Madrid",
+                "price": -105,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": -112,
+                "point": 1.5
+              },
+              {
+                "name": "Real Madrid",
+                "price": -108,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": -112,
+                "point": 1.5
+              },
+              {
+                "name": "Real Madrid",
+                "price": -108,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:29:51Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:50Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": -112,
+                "point": 1.5
+              },
+              {
+                "name": "Real Madrid",
+                "price": -108,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "101e3ed874173cf19146ddc5b569500b",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "home_team": "Alavés",
+    "away_team": "Oviedo",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": -0.5
+              },
+              {
+                "name": "Oviedo",
+                "price": -102,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": -0.5
+              },
+              {
+                "name": "Oviedo",
+                "price": -102,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": -0.5
+              },
+              {
+                "name": "Oviedo",
+                "price": -102,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:29:51Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:50Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": -0.5
+              },
+              {
+                "name": "Oviedo",
+                "price": -102,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fa7fe17e03f49aa86cbf75ac720f7ded",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "home_team": "Mallorca",
+    "away_team": "Girona",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": -115,
+                "point": 0.25
+              },
+              {
+                "name": "Mallorca",
+                "price": -105,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": -109,
+                "point": 0.25
+              },
+              {
+                "name": "Mallorca",
+                "price": -111,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": -109,
+                "point": 0.25
+              },
+              {
+                "name": "Mallorca",
+                "price": -111,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "87610f91e341dcfd2487d7609208b633",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T20:00:00Z",
+    "home_team": "Real Sociedad",
+    "away_team": "Atlético Madrid",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": 105,
+                "point": -0.5
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -125,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": 105,
+                "point": -0.5
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -125,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": 105,
+                "point": -0.5
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -125,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:29:51Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:50Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": 108,
+                "point": -0.5
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -128,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d0ae596c4bec15e99e4e791aeb8c503",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-09T20:00:00Z",
+    "home_team": "Getafe",
+    "away_team": "Real Sociedad",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": -102,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -118,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:53Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": -101,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -119,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": -101,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -119,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ae717a6e4141ae3cc154c976538cc78a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T13:00:00Z",
+    "home_team": "Oviedo",
+    "away_team": "Real Betis",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -115,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -105,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -114,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -106,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -114,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -106,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33adb7f62df9e1843f4c64c960d9c895",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T15:15:00Z",
+    "home_team": "Villarreal",
+    "away_team": "Alavés",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -125,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": 105,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -123,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": 103,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -123,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": 103,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2fa0c69e407576a1beac74b13074ec2",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Girona",
+    "away_team": "CA Osasuna",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -132,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 111,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -131,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 111,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -131,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 111,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac7fdf3f88257521894bf1895af2fc3e",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T20:00:00Z",
+    "home_team": "Valencia",
+    "away_team": "Elche CF",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -108,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -112,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -102,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -102,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8ecd2a8b4db1916e9aa1fff560810fa8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T13:00:00Z",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Mallorca",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": -120,
+                "point": 0.75
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": 100,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": -120,
+                "point": 0.75
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": 100,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": -120,
+                "point": 0.75
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": 100,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cd15bfc6667962f56247207f3abd6291",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T15:15:00Z",
+    "home_team": "Levante",
+    "away_team": "Espanyol",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 108,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -128,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 106,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -126,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 106,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -126,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7cdfdb81a5bdb695c97d08daf34478b7",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "95909c45c3ee5420fe50e8f035167bc9",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "30f6f08d42940047b836af2153d681bd",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-12T20:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Celta Vigo",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:30:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:23Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 100,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -120,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:29:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:29:54Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 100,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -120,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:30:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-29T23:30:24Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 100,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -120,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "b0362ad1064234a482e1672ab3d1c4eb",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-01T00:11:00Z",
+    "completed": true,
+    "home_team": "Chicago Bulls",
+    "away_team": "New Orleans Pelicans",
+    "scores": [
+      {
+        "name": "Chicago Bulls",
+        "score": "134"
+      },
+      {
+        "name": "New Orleans Pelicans",
+        "score": "118"
+      }
+    ],
+    "last_update": "2026-01-01T08:51:26Z"
+  },
+  {
+    "id": "da1f30e39aa879eeca4dcc42cde3cfbe",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-01T00:11:00Z",
+    "completed": true,
+    "home_team": "San Antonio Spurs",
+    "away_team": "New York Knicks",
+    "scores": [
+      {
+        "name": "San Antonio Spurs",
+        "score": "134"
+      },
+      {
+        "name": "New York Knicks",
+        "score": "132"
+      }
+    ],
+    "last_update": "2026-01-01T08:51:26Z"
+  },
+  {
+    "id": "95fe64ebf512b70546be9938007b1a8c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-01T00:42:00Z",
+    "completed": true,
+    "home_team": "Toronto Raptors",
+    "away_team": "Denver Nuggets",
+    "scores": [
+      {
+        "name": "Toronto Raptors",
+        "score": "103"
+      },
+      {
+        "name": "Denver Nuggets",
+        "score": "106"
+      }
+    ],
+    "last_update": "2026-01-01T08:51:26Z"
+  },
+  {
+    "id": "3267add7bc04a110d6596463f7c8a495",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-01T01:11:00Z",
+    "completed": true,
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Washington Wizards",
+    "scores": [
+      {
+        "name": "Milwaukee Bucks",
+        "score": "113"
+      },
+      {
+        "name": "Washington Wizards",
+        "score": "114"
+      }
+    ],
+    "last_update": "2026-01-01T08:51:26Z"
+  },
+  {
+    "id": "08d7e57dd2b795455b1abb447f608705",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-01T01:11:00Z",
+    "completed": true,
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Portland Trail Blazers",
+    "scores": [
+      {
+        "name": "Oklahoma City Thunder",
+        "score": "124"
+      },
+      {
+        "name": "Portland Trail Blazers",
+        "score": "95"
+      }
+    ],
+    "last_update": "2026-01-01T08:51:26Z"
+  }
+]

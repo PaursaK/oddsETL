@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "8db02bc3086459d6f01e3fae5eebde04",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T18:00:00Z",
+    "home_team": "AS Monaco",
+    "away_team": "Lorient",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -190
+              },
+              {
+                "name": "Lorient",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -175
+              },
+              {
+                "name": "Lorient",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -175
+              },
+              {
+                "name": "Lorient",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 335
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -175
+              },
+              {
+                "name": "Lorient",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 325
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -170
+              },
+              {
+                "name": "Lorient",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": -170
+              },
+              {
+                "name": "Lorient",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "81c8d8f5a9c64d4f79302689372beb61",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T20:00:00Z",
+    "home_team": "Paris Saint Germain",
+    "away_team": "Lille",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 500
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 500
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -210
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 475
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -208
+              },
+              {
+                "name": "Draw",
+                "price": 355
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 525
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -220
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 500
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -210
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": 525
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -200
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7c31284c2c36f12fd3cdce8b23ac9ee2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T16:00:00Z",
+    "home_team": "RC Lens",
+    "away_team": "Auxerre",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 550
+              },
+              {
+                "name": "RC Lens",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 550
+              },
+              {
+                "name": "RC Lens",
+                "price": -220
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 575
+              },
+              {
+                "name": "RC Lens",
+                "price": -214
+              },
+              {
+                "name": "Draw",
+                "price": 325
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 575
+              },
+              {
+                "name": "RC Lens",
+                "price": -210
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 600
+              },
+              {
+                "name": "RC Lens",
+                "price": -225
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 650
+              },
+              {
+                "name": "RC Lens",
+                "price": -220
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "540a9a67c337cf21bee313e260efaf69",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T18:00:00Z",
+    "home_team": "Toulouse",
+    "away_team": "Nice",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 300
+              },
+              {
+                "name": "Toulouse",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 275
+              },
+              {
+                "name": "Toulouse",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 290
+              },
+              {
+                "name": "Toulouse",
+                "price": -113
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 300
+              },
+              {
+                "name": "Toulouse",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 300
+              },
+              {
+                "name": "Toulouse",
+                "price": -115
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Nice",
+                "price": 300
+              },
+              {
+                "name": "Toulouse",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ffe24fdea2d5ad6483292eb749b97506",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T20:05:00Z",
+    "home_team": "Angers",
+    "away_team": "Marseille",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 450
+              },
+              {
+                "name": "Marseille",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 425
+              },
+              {
+                "name": "Marseille",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 440
+              },
+              {
+                "name": "Marseille",
+                "price": -168
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 480
+              },
+              {
+                "name": "Marseille",
+                "price": -177
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 450
+              },
+              {
+                "name": "Marseille",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 475
+              },
+              {
+                "name": "Marseille",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "890935e813405256ab29af3d12eab246",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T14:00:00Z",
+    "home_team": "Strasbourg",
+    "away_team": "Metz",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 470
+              },
+              {
+                "name": "Strasbourg",
+                "price": -195
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 425
+              },
+              {
+                "name": "Strasbourg",
+                "price": -190
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 440
+              },
+              {
+                "name": "Strasbourg",
+                "price": -188
+              },
+              {
+                "name": "Draw",
+                "price": 345
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 475
+              },
+              {
+                "name": "Strasbourg",
+                "price": -195
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 450
+              },
+              {
+                "name": "Strasbourg",
+                "price": -180
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Metz",
+                "price": 450
+              },
+              {
+                "name": "Strasbourg",
+                "price": -180
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "70790674ffb1f584124b617bbb1f3dfa",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "home_team": "Rennes",
+    "away_team": "Le Havre",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 430
+              },
+              {
+                "name": "Rennes",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 370
+              },
+              {
+                "name": "Rennes",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 370
+              },
+              {
+                "name": "Rennes",
+                "price": -144
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 440
+              },
+              {
+                "name": "Rennes",
+                "price": -167
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 400
+              },
+              {
+                "name": "Rennes",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Le Havre",
+                "price": 425
+              },
+              {
+                "name": "Rennes",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0d51cc2b1f298a9974fc19f6c5692ad2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "home_team": "Nantes",
+    "away_team": "Paris FC",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 240
+              },
+              {
+                "name": "Paris FC",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 230
+              },
+              {
+                "name": "Paris FC",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 240
+              },
+              {
+                "name": "Paris FC",
+                "price": 116
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 245
+              },
+              {
+                "name": "Paris FC",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 240
+              },
+              {
+                "name": "Paris FC",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 240
+              },
+              {
+                "name": "Paris FC",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b8268290e25d0cf4b9aa64b521c3ad5a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T19:45:00Z",
+    "home_team": "Lyon",
+    "away_team": "Brest",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 430
+              },
+              {
+                "name": "Lyon",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:39:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:01Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 400
+              },
+              {
+                "name": "Lyon",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:38:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:15Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 410
+              },
+              {
+                "name": "Lyon",
+                "price": -163
+              },
+              {
+                "name": "Draw",
+                "price": 305
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:38:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:48Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 460
+              },
+              {
+                "name": "Lyon",
+                "price": -177
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:38:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:24Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 425
+              },
+              {
+                "name": "Lyon",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:38:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:38:50Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 450
+              },
+              {
+                "name": "Lyon",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5151344c7feddd635e13fe24d63bbddc",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-23T19:00:00Z",
+    "home_team": "Auxerre",
+    "away_team": "Paris Saint Germain",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 700
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -320
+              },
+              {
+                "name": "Draw",
+                "price": 430
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Auxerre",
+                "price": 650
+              },
+              {
+                "name": "Paris Saint Germain",
+                "price": -300
+              },
+              {
+                "name": "Draw",
+                "price": 440
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f6c5f7f92c41d6c12e55870819dd419d",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T16:00:00Z",
+    "home_team": "Rennes",
+    "away_team": "Lorient",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Lorient",
+                "price": 360
+              },
+              {
+                "name": "Rennes",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Lorient",
+                "price": 360
+              },
+              {
+                "name": "Rennes",
+                "price": -141
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "70515793c70633c192edc4f52444db3b",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T18:00:00Z",
+    "home_team": "Le Havre",
+    "away_team": "AS Monaco",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": 110
+              },
+              {
+                "name": "Le Havre",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "AS Monaco",
+                "price": 103
+              },
+              {
+                "name": "Le Havre",
+                "price": 235
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "98e55b8d48476f5c58e3e3e525907a7a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T20:05:00Z",
+    "home_team": "Marseille",
+    "away_team": "RC Lens",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Marseille",
+                "price": -105
+              },
+              {
+                "name": "RC Lens",
+                "price": 270
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Marseille",
+                "price": -106
+              },
+              {
+                "name": "RC Lens",
+                "price": 260
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "798588eee18cc212f748c619f024a1d8",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T14:00:00Z",
+    "home_team": "Nantes",
+    "away_team": "Nice",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 210
+              },
+              {
+                "name": "Nice",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Nantes",
+                "price": 220
+              },
+              {
+                "name": "Nice",
+                "price": 121
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "259ba4ae53e75f1718871fe49017d240",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Paris FC",
+    "away_team": "Angers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 340
+              },
+              {
+                "name": "Paris FC",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Angers",
+                "price": 375
+              },
+              {
+                "name": "Paris FC",
+                "price": -123
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4e68520a4a47d11007f23dc29f08eea4",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Brest",
+    "away_team": "Toulouse",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 190
+              },
+              {
+                "name": "Toulouse",
+                "price": 145
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Brest",
+                "price": 180
+              },
+              {
+                "name": "Toulouse",
+                "price": 180
+              },
+              {
+                "name": "Draw",
+                "price": 185
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b12927a56bc19fb041ef8131b7610f23",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Metz",
+    "away_team": "Lyon",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Lyon",
+                "price": -141
+              },
+              {
+                "name": "Metz",
+                "price": 345
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "87e6aa9bade1d15a02900e9dbd73d6d5",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T19:45:00Z",
+    "home_team": "Lille",
+    "away_team": "Strasbourg",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:39:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:39:15Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": -145
+              },
+              {
+                "name": "Strasbourg",
+                "price": 360
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:36:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-04T23:36:08Z",
+            "outcomes": [
+              {
+                "name": "Lille",
+                "price": -135
+              },
+              {
+                "name": "Strasbourg",
+                "price": 335
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

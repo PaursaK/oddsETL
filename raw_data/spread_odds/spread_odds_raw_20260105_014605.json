@@ -1,0 +1,4103 @@
+[
+  {
+    "id": "21f68b14344b13e5243b5bc283109157",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:02:20Z",
+    "home_team": "Santa Clara Broncos",
+    "away_team": "San Diego Toreros",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": -108,
+                "point": 19.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -122,
+                "point": -19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": 110,
+                "point": 19.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -140,
+                "point": -19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": 100,
+                "point": 19.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -130,
+                "point": -19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": -110,
+                "point": 20.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -120,
+                "point": -20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": -120,
+                "point": 22.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -110,
+                "point": -22.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": -110,
+                "point": 16.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": -110,
+                "point": -16.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:44:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:46Z",
+            "outcomes": [
+              {
+                "name": "San Diego Toreros",
+                "price": -150,
+                "point": 22.5
+              },
+              {
+                "name": "Santa Clara Broncos",
+                "price": 105,
+                "point": -22.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a23acde025fe8ced9cf8293f5ce5c28c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:02:50Z",
+    "home_team": "Pacific Tigers",
+    "away_team": "Pepperdine Waves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -110,
+                "point": -5.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -120,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -120,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -115,
+                "point": -5.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -115,
+                "point": 5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -115,
+                "point": -6.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -115,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -125,
+                "point": -6.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -105,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": -110,
+                "point": -11.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -110,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Pacific Tigers",
+                "price": 102,
+                "point": -6.5
+              },
+              {
+                "name": "Pepperdine Waves",
+                "price": -150,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "43c969ee85b4eb0826e028d73380ccfe",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:03:31Z",
+    "home_team": "San Francisco Dons",
+    "away_team": "Portland Pilots",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -118,
+                "point": 11.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -114,
+                "point": -11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -125,
+                "point": 12.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -105,
+                "point": -12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -130,
+                "point": 13.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": 100,
+                "point": -13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": 100,
+                "point": 11.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -130,
+                "point": -11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -105,
+                "point": 10.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -125,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -115,
+                "point": 10.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -105,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Portland Pilots",
+                "price": -121,
+                "point": 13.5
+              },
+              {
+                "name": "San Francisco Dons",
+                "price": -121,
+                "point": -13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b67d8c7b2c4fc69b35c6042148e74111",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:33:30Z",
+    "home_team": "Washington St Cougars",
+    "away_team": "Oregon St Beavers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -122,
+                "point": 21.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -108,
+                "point": -21.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -115,
+                "point": 19.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -115,
+                "point": -19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -118,
+                "point": 20.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -110,
+                "point": -20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": 100,
+                "point": 20.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -130,
+                "point": -20.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -115,
+                "point": 19.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -115,
+                "point": -19.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Oregon St Beavers",
+                "price": -127,
+                "point": 20.5
+              },
+              {
+                "name": "Washington St Cougars",
+                "price": -114,
+                "point": -20.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b6bfc643d7bd18f239377411a34d2596",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:02:27Z",
+    "home_team": "Saint Mary's Gaels",
+    "away_team": "Seattle Redhawks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Saint Mary's Gaels",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Seattle Redhawks",
+                "price": -120,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Saint Mary's Gaels",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Seattle Redhawks",
+                "price": -120,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Saint Mary's Gaels",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Seattle Redhawks",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Saint Mary's Gaels",
+                "price": -110,
+                "point": -12.5
+              },
+              {
+                "name": "Seattle Redhawks",
+                "price": -110,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Saint Mary's Gaels",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Seattle Redhawks",
+                "price": -127,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0492ef4ede80dcc76d7732762527226a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:10:38Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Washington Huskies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:44:57Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:57Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -108,
+                "point": -13.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -122,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -120,
+                "point": -11.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -115,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -13.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -125,
+                "point": 13.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -125,
+                "point": -11.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -105,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -14.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -120,
+                "point": 14.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -8.0
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -115,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -12.5
+              },
+              {
+                "name": "Washington Huskies",
+                "price": -129,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "848999e09117b96aade9deb7d95a420b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T02:00:00Z",
+    "home_team": "Gonzaga Bulldogs",
+    "away_team": "Loyola Marymount Lions",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -107,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -113,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -103,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -109,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -120,
+                "point": -24.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -102,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -110,
+                "point": -25.0
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -110,
+                "point": 25.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -118,
+                "point": -24.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -102,
+                "point": 24.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -105,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -115,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -107,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -113,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -110,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -110,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-05T01:45:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:34Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -115,
+                "point": -24.0
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -105,
+                "point": 24.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Gonzaga Bulldogs",
+                "price": -112,
+                "point": -25.5
+              },
+              {
+                "name": "Loyola Marymount Lions",
+                "price": -112,
+                "point": 25.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f2b81a5d915a2e46a5d9acfa2b2dbde4",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T22:00:00Z",
+    "home_team": "Cornell Big Red",
+    "away_team": "Columbia Lions",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -106,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -106,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -114,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -106,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -110,
+                "point": 2.0
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -110,
+                "point": -2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -112,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -108,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Cornell Big Red",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9ab36d72278bdbbda627e8d8b25c38c5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T23:30:00Z",
+    "home_team": "Arkansas-Pine Bluff Golden Lions",
+    "away_team": "Alabama St Hornets",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Alabama St Hornets",
+                "price": -110,
+                "point": -2.0
+              },
+              {
+                "name": "Arkansas-Pine Bluff Golden Lions",
+                "price": -110,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Alabama St Hornets",
+                "price": -106,
+                "point": -2.0
+              },
+              {
+                "name": "Arkansas-Pine Bluff Golden Lions",
+                "price": -106,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Alabama St Hornets",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Arkansas-Pine Bluff Golden Lions",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Alabama St Hornets",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "Arkansas-Pine Bluff Golden Lions",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dfb4201cacb016c40ebe45bc2998c2ac",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T23:30:23Z",
+    "home_team": "Ohio State Buckeyes",
+    "away_team": "Nebraska Cornhuskers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -102,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -120,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -101,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -111,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -115,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -115,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -114,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -112,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Nebraska Cornhuskers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Ohio State Buckeyes",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16ff1cb4fca0f3948434c66deb14a906",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Brown Bears",
+    "away_team": "Yale Bulldogs",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -106,
+                "point": 9.0
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -106,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -120,
+                "point": 9.5
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -102,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -115,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -107,
+                "point": 8.5
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -118,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Brown Bears",
+                "price": -110,
+                "point": 9.0
+              },
+              {
+                "name": "Yale Bulldogs",
+                "price": -110,
+                "point": -9.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1ceece750c7d7f879a521f8a072271a9",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Charleston Cougars",
+    "away_team": "William & Mary Tribe",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -105,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -101,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -111,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -108,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -112,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -105,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -113,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -113,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Charleston Cougars",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "William & Mary Tribe",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "955a67941c3dad843ecc525c70205060",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Harvard Crimson",
+    "away_team": "Dartmouth Big Green",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -106,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -106,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -102,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -120,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -105,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -115,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -112,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -114,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Dartmouth Big Green",
+                "price": -110,
+                "point": 6.5
+              },
+              {
+                "name": "Harvard Crimson",
+                "price": -110,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b3923bd5fbc91b4c32557c77ccdcb1b7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Green Bay Phoenix",
+    "away_team": "Milwaukee Panthers",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -115,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -105,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -111,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -101,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -120,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -102,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -110,
+                "point": 2.0
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -110,
+                "point": -2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -115,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -105,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -115,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -105,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -113,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -113,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Green Bay Phoenix",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Milwaukee Panthers",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c4edd83dd4ec467bcb6c829250ecf620",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "SE Louisiana Lions",
+    "away_team": "Lamar Cardinals",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -106,
+                "point": -1.0
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -106,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -102,
+                "point": -1.5
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -110,
+                "point": -1.0
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -110,
+                "point": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -102,
+                "point": -1.5
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -118,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Lamar Cardinals",
+                "price": -105,
+                "point": -1.5
+              },
+              {
+                "name": "SE Louisiana Lions",
+                "price": -122,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3ba4bc74fa6c54be35fb1a3ddb4b868e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Rutgers Scarlet Knights",
+    "away_team": "Oregon Ducks",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -6.0
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -110,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -106,
+                "point": -6.0
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -106,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -6.0
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -110,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -102,
+                "point": -6.5
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -120,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -105,
+                "point": -6.5
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -115,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -6.0
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -110,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -109,
+                "point": -6.5
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -117,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": -6.0
+              },
+              {
+                "name": "Rutgers Scarlet Knights",
+                "price": -110,
+                "point": 6.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5cf11cbc5b77d58ef3ad4e6089a19377",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Princeton Tigers",
+    "away_team": "Pennsylvania Quakers",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -106,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -106,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -102,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -120,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -102,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -118,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -112,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -114,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Pennsylvania Quakers",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Princeton Tigers",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0e2307755cf1242c4596871c8965279b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Southern Jaguars",
+    "away_team": "Prairie View Panthers",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -110,
+                "point": 7.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -110,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -106,
+                "point": 7.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -106,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -102,
+                "point": 6.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -120,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -110,
+                "point": 7.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -110,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -112,
+                "point": 7.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -108,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Prairie View Panthers",
+                "price": -109,
+                "point": 7.5
+              },
+              {
+                "name": "Southern Jaguars",
+                "price": -117,
+                "point": -7.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b5cb554c821156ebe1553b06af87e250",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Grambling St Tigers",
+    "away_team": "Texas Southern Tigers",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -110,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -106,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -106,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -120,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -102,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -110,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -110,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -112,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -108,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Grambling St Tigers",
+                "price": -118,
+                "point": -6.5
+              },
+              {
+                "name": "Texas Southern Tigers",
+                "price": -108,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2b65e6db3073e9fb59a8693c8c92244d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "UT Rio Grande Valley Vaqueros",
+    "away_team": "Incarnate Word Cardinals",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -110,
+                "point": 1.0
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": -110,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -106,
+                "point": 1.0
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": -106,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -122,
+                "point": 1.5
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": 100,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -110,
+                "point": 1.0
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": -110,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -112,
+                "point": 1.5
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": -108,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Incarnate Word Cardinals",
+                "price": -120,
+                "point": 1.5
+              },
+              {
+                "name": "UT Rio Grande Valley Vaqueros",
+                "price": -107,
+                "point": -1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2ef6071212e6be9357bea5c386946ff1",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "McNeese Cowboys",
+    "away_team": "Stephen F. Austin Lumberjacks",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -106,
+                "point": -10.0
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -106,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -110,
+                "point": -10.5
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -110,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -105,
+                "point": -10.5
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -115,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "McNeese Cowboys",
+                "price": -114,
+                "point": -10.5
+              },
+              {
+                "name": "Stephen F. Austin Lumberjacks",
+                "price": -112,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c97ee405e02f09116fa108615005b29e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Nicholls St Colonels",
+    "away_team": "Northwestern St Demons",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -106,
+                "point": -8.0
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -106,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -110,
+                "point": -8.5
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -110,
+                "point": -8.5
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -110,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -105,
+                "point": -8.5
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -115,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Nicholls St Colonels",
+                "price": -118,
+                "point": -8.5
+              },
+              {
+                "name": "Northwestern St Demons",
+                "price": -108,
+                "point": 8.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "174052b1708a2765b1a4a0f1a3a1b5ea",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "Miss Valley St Delta Devils",
+    "away_team": "Alabama A&M Bulldogs",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Alabama A&M Bulldogs",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "Miss Valley St Delta Devils",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Alabama A&M Bulldogs",
+                "price": -106,
+                "point": -10.0
+              },
+              {
+                "name": "Miss Valley St Delta Devils",
+                "price": -106,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1249723cc4eb70b2e564146177e44c2d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "New Orleans Privateers",
+    "away_team": "East Texas A&M Lions",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "East Texas A&M Lions",
+                "price": -110,
+                "point": 7.0
+              },
+              {
+                "name": "New Orleans Privateers",
+                "price": -110,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "East Texas A&M Lions",
+                "price": -106,
+                "point": 7.0
+              },
+              {
+                "name": "New Orleans Privateers",
+                "price": -106,
+                "point": -7.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e1405c0269b8be5430d28a8405bd338e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "Houston Christian Huskies",
+    "away_team": "Texas A&M-CC Islanders",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Houston Christian Huskies",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Texas A&M-CC Islanders",
+                "price": -110,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Houston Christian Huskies",
+                "price": -106,
+                "point": 2.5
+              },
+              {
+                "name": "Texas A&M-CC Islanders",
+                "price": -106,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "95c4fa67fab50d74ee59ff1b20831e1f",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:30:11Z",
+    "home_team": "Michigan St Spartans",
+    "away_team": "USC Trojans",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-05T01:45:49Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:49Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -120,
+                "point": -9.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -102,
+                "point": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "USC Trojans",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-05T01:45:11Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:11Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -106,
+                "point": -10.0
+              },
+              {
+                "name": "USC Trojans",
+                "price": -106,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-05T01:45:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:38Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "USC Trojans",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-05T01:45:36Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:36Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -102,
+                "point": -10.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -118,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-05T01:45:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:47Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": 102,
+                "point": -10.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -122,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-05T01:45:10Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:10Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "USC Trojans",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-05T01:45:35Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:45:35Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -106,
+                "point": -10.5
+              },
+              {
+                "name": "USC Trojans",
+                "price": -121,
+                "point": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-05T01:44:29Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-05T01:44:29Z",
+            "outcomes": [
+              {
+                "name": "Michigan St Spartans",
+                "price": -110,
+                "point": -10.0
+              },
+              {
+                "name": "USC Trojans",
+                "price": -110,
+                "point": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "ea5fe5f603483c8d46f83081cf780397",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2025-12-30T01:15:00Z",
+    "home_team": "Atlanta Falcons",
+    "away_team": "Los Angeles Rams",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-29T22:51:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:27Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -355
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-29T22:51:44Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:44Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 290
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-12-29T22:50:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:50:25Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 281
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -377
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T22:51:41Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:41Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T22:51:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:16Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T22:51:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 272
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -335
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-29T22:51:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -385
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-29T22:51:28Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:28Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T22:51:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T22:51:06Z",
+            "outcomes": [
+              {
+                "name": "Atlanta Falcons",
+                "price": 280
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -360
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

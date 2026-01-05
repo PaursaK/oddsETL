@@ -1,0 +1,139 @@
+[
+  {
+    "id": "978e8cc5c5e00895f39671ab83207e0c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:41Z",
+    "completed": false,
+    "home_team": "North Texas Mean Green",
+    "away_team": "Tulsa Golden Hurricane",
+    "scores": [
+      {
+        "name": "North Texas Mean Green",
+        "score": "71"
+      },
+      {
+        "name": "Tulsa Golden Hurricane",
+        "score": "67"
+      }
+    ],
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "abc64073efec343059057878d2e4b17c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:05:00Z",
+    "completed": false,
+    "home_team": "Belmont Bruins",
+    "away_team": "Southern Illinois Salukis",
+    "scores": [
+      {
+        "name": "Belmont Bruins",
+        "score": "24"
+      },
+      {
+        "name": "Southern Illinois Salukis",
+        "score": "28"
+      }
+    ],
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "f4fadac53aa0a93321fafe4e8e3a167c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:07:00Z",
+    "completed": false,
+    "home_team": "Murray St Racers",
+    "away_team": "Bradley Braves",
+    "scores": [
+      {
+        "name": "Murray St Racers",
+        "score": "50"
+      },
+      {
+        "name": "Bradley Braves",
+        "score": "32"
+      }
+    ],
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "a23acde025fe8ced9cf8293f5ce5c28c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "Pacific Tigers",
+    "away_team": "Pepperdine Waves",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "43c969ee85b4eb0826e028d73380ccfe",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "San Francisco Dons",
+    "away_team": "Portland Pilots",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "21f68b14344b13e5243b5bc283109157",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "Santa Clara Broncos",
+    "away_team": "San Diego Toreros",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "b67d8c7b2c4fc69b35c6042148e74111",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:30:00Z",
+    "completed": false,
+    "home_team": "Washington St Cougars",
+    "away_team": "Oregon St Beavers",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "0492ef4ede80dcc76d7732762527226a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Washington Huskies",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "b6bfc643d7bd18f239377411a34d2596",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "completed": false,
+    "home_team": "Saint Mary's Gaels",
+    "away_team": "Seattle Redhawks",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  },
+  {
+    "id": "848999e09117b96aade9deb7d95a420b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T02:00:00Z",
+    "completed": false,
+    "home_team": "Gonzaga Bulldogs",
+    "away_team": "Loyola Marymount Lions",
+    "scores": null,
+    "last_update": "2026-01-04T23:12:47Z"
+  }
+]

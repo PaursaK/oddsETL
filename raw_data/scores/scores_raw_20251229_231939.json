@@ -1,0 +1,13 @@
+[
+  {
+    "id": "ea5fe5f603483c8d46f83081cf780397",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2025-12-30T01:15:00Z",
+    "completed": false,
+    "home_team": "Atlanta Falcons",
+    "away_team": "Los Angeles Rams",
+    "scores": null,
+    "last_update": null
+  }
+]

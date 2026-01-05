@@ -1,0 +1,133 @@
+[
+  {
+    "id": "85acdbb2f540114ab00c144da019d360",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-28T20:41:00Z",
+    "completed": true,
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Philadelphia 76ers",
+    "scores": [
+      {
+        "name": "Oklahoma City Thunder",
+        "score": "129"
+      },
+      {
+        "name": "Philadelphia 76ers",
+        "score": "104"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "d8f2315d3e872709e62642ca705a0f0d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-28T20:42:00Z",
+    "completed": true,
+    "home_team": "Toronto Raptors",
+    "away_team": "Golden State Warriors",
+    "scores": [
+      {
+        "name": "Toronto Raptors",
+        "score": "141"
+      },
+      {
+        "name": "Golden State Warriors",
+        "score": "127"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "8dc9891348a0160cc12730e8cc27102e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-28T23:11:00Z",
+    "completed": true,
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Boston Celtics",
+    "scores": [
+      {
+        "name": "Portland Trail Blazers",
+        "score": "114"
+      },
+      {
+        "name": "Boston Celtics",
+        "score": "108"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "bec3a10efd1bdc48af2a9352c3c68f8d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-28T23:11:00Z",
+    "completed": true,
+    "home_team": "Washington Wizards",
+    "away_team": "Memphis Grizzlies",
+    "scores": [
+      {
+        "name": "Washington Wizards",
+        "score": "116"
+      },
+      {
+        "name": "Memphis Grizzlies",
+        "score": "112"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "81f37d4274076247e0a49787f852af4d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-29T02:11:00Z",
+    "completed": true,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Detroit Pistons",
+    "scores": [
+      {
+        "name": "Los Angeles Clippers",
+        "score": "112"
+      },
+      {
+        "name": "Detroit Pistons",
+        "score": "99"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "acc8dfaa22df3823017412f5b8f16239",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-29T02:41:00Z",
+    "completed": true,
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Sacramento Kings",
+    "scores": [
+      {
+        "name": "Los Angeles Lakers",
+        "score": "125"
+      },
+      {
+        "name": "Sacramento Kings",
+        "score": "101"
+      }
+    ],
+    "last_update": "2025-12-29T10:25:07Z"
+  },
+  {
+    "id": "70a4be80a3d808e9d070d82b2de22d3c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-30T01:10:00Z",
+    "completed": false,
+    "home_team": "San Antonio Spurs",
+    "away_team": "Cleveland Cavaliers",
+    "scores": null,
+    "last_update": null
+  }
+]

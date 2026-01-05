@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "202bec44cb17b3fe31e1d47a35bb4311",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Minnesota Timberwolves",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 248.5
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 248.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 249.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 249.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:55:42Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:55:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 244.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 244.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 250.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 250.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 250.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 250.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 239.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 239.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 249.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 249.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e565e947367f2a97276b2b942efec009",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:13:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "New Orleans Pelicans",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 255.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 255.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 254.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 254.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 251.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 251.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 256.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 256.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:55:42Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:55:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -111,
+                "point": 256.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 256.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 246.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 246.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 251.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 251.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "608ad59d278d1266aefcb70a1e1bcfea",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T01:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Oklahoma City Thunder",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:55:42Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:55:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 228.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 228.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 231.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 231.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 229.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 229.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "649a52d549fd66b3f04c0eb6a5bceea0",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:10:00Z",
+    "home_team": "Sacramento Kings",
+    "away_team": "Milwaukee Bucks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:55:42Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:55:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 228.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 228.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 227.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 227.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "85525b53f1abd7179f60a447bad2579b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:40:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Memphis Grizzlies",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 240.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 240.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 240.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 240.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 240.5
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 240.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 241.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 241.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:55:42Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:55:42Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 241.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 241.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 241.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 241.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 241.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 241.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:57:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 241.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 241.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:56:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:56:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 240.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 240.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 241.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 241.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "07c210d30cdf1a467ae466394c9c7d2c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T00:10:00Z",
+    "home_team": "Detroit Pistons",
+    "away_team": "New York Knicks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 235.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 235.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 235.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 235.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 235.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 235.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 235.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 235.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:54:19Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:54:19Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 235.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 235.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f464229b0fe5abe7e94b312d75639617",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T00:40:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Chicago Bulls",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 235.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 235.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 236.0
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 236.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 236.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 236.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "078a4d38068bc82683be486a54fc6995",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-06T03:10:00Z",
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 223.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 223.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:57:20Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:20Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 224.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 224.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:57:31Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-04T23:57:31Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 223.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 223.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

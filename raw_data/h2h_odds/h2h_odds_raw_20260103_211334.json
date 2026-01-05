@@ -1,0 +1,2785 @@
+[
+  {
+    "id": "e47132a3b5a35235ab8fea1dd64e2189",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-03T20:00:00Z",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -105
+              },
+              {
+                "name": "Espanyol",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 175
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -120
+              },
+              {
+                "name": "Espanyol",
+                "price": 450
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -125
+              },
+              {
+                "name": "Espanyol",
+                "price": 450
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -105
+              },
+              {
+                "name": "Espanyol",
+                "price": 450
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Barcelona",
+                "price": -120
+              },
+              {
+                "name": "Espanyol",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2458cbd77b28efe6311a4819377e7ebe",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T13:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Levante",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 370
+              },
+              {
+                "name": "Sevilla",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 360
+              },
+              {
+                "name": "Sevilla",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 360
+              },
+              {
+                "name": "Sevilla",
+                "price": -133
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 360
+              },
+              {
+                "name": "Sevilla",
+                "price": -137
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 350
+              },
+              {
+                "name": "Sevilla",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 383
+              },
+              {
+                "name": "Sevilla",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 383
+              },
+              {
+                "name": "Sevilla",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 333
+              },
+              {
+                "name": "Sevilla",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Levante",
+                "price": 355
+              },
+              {
+                "name": "Sevilla",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4cc9478826dabe3b58fd4d51d5efc3f6",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T15:15:00Z",
+    "home_team": "Real Madrid",
+    "away_team": "Real Betis",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 500
+              },
+              {
+                "name": "Real Madrid",
+                "price": -220
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 550
+              },
+              {
+                "name": "Real Madrid",
+                "price": -215
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 550
+              },
+              {
+                "name": "Real Madrid",
+                "price": -227
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 540
+              },
+              {
+                "name": "Real Madrid",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 500
+              },
+              {
+                "name": "Real Madrid",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 572
+              },
+              {
+                "name": "Real Madrid",
+                "price": -208
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 572
+              },
+              {
+                "name": "Real Madrid",
+                "price": -208
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 475
+              },
+              {
+                "name": "Real Madrid",
+                "price": -200
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Real Betis",
+                "price": 550
+              },
+              {
+                "name": "Real Madrid",
+                "price": -218
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "101e3ed874173cf19146ddc5b569500b",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "home_team": "Alavés",
+    "away_team": "Oviedo",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -115
+              },
+              {
+                "name": "Oviedo",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -115
+              },
+              {
+                "name": "Oviedo",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -117
+              },
+              {
+                "name": "Oviedo",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -130
+              },
+              {
+                "name": "Oviedo",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -112
+              },
+              {
+                "name": "Oviedo",
+                "price": 433
+              },
+              {
+                "name": "Draw",
+                "price": 213
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -112
+              },
+              {
+                "name": "Oviedo",
+                "price": 433
+              },
+              {
+                "name": "Draw",
+                "price": 213
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -115
+              },
+              {
+                "name": "Oviedo",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -116
+              },
+              {
+                "name": "Oviedo",
+                "price": 420
+              },
+              {
+                "name": "Draw",
+                "price": 205
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fa7fe17e03f49aa86cbf75ac720f7ded",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "home_team": "Mallorca",
+    "away_team": "Girona",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 250
+              },
+              {
+                "name": "Mallorca",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 250
+              },
+              {
+                "name": "Mallorca",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 250
+              },
+              {
+                "name": "Mallorca",
+                "price": 122
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 240
+              },
+              {
+                "name": "Mallorca",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 262
+              },
+              {
+                "name": "Mallorca",
+                "price": 122
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 262
+              },
+              {
+                "name": "Mallorca",
+                "price": 122
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 250
+              },
+              {
+                "name": "Mallorca",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 260
+              },
+              {
+                "name": "Mallorca",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Girona",
+                "price": 255
+              },
+              {
+                "name": "Mallorca",
+                "price": 119
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "87610f91e341dcfd2487d7609208b633",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-04T20:00:00Z",
+    "home_team": "Real Sociedad",
+    "away_team": "Atlético Madrid",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -110
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -105
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 280
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -105
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 275
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -118
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 295
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -102
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 288
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -102
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 288
+              },
+              {
+                "name": "Draw",
+                "price": 267
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -105
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -105
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 290
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Atlético Madrid",
+                "price": -105
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 275
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d0ae596c4bec15e99e4e791aeb8c503",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-09T20:00:00Z",
+    "home_team": "Getafe",
+    "away_team": "Real Sociedad",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 190
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 178
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 200
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 175
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 200
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 198
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 178
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 198
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 178
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 200
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 185
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 163
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ae717a6e4141ae3cc154c976538cc78a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T13:00:00Z",
+    "home_team": "Oviedo",
+    "away_team": "Real Betis",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 290
+              },
+              {
+                "name": "Real Betis",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 285
+              },
+              {
+                "name": "Real Betis",
+                "price": -104
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 275
+              },
+              {
+                "name": "Real Betis",
+                "price": 100
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 286
+              },
+              {
+                "name": "Real Betis",
+                "price": -106
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 286
+              },
+              {
+                "name": "Real Betis",
+                "price": -106
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 280
+              },
+              {
+                "name": "Real Betis",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": 330
+              },
+              {
+                "name": "Real Betis",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33adb7f62df9e1843f4c64c960d9c895",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T15:15:00Z",
+    "home_team": "Villarreal",
+    "away_team": "Alavés",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 500
+              },
+              {
+                "name": "Villarreal",
+                "price": -200
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 500
+              },
+              {
+                "name": "Villarreal",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 500
+              },
+              {
+                "name": "Villarreal",
+                "price": -175
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 500
+              },
+              {
+                "name": "Villarreal",
+                "price": -172
+              },
+              {
+                "name": "Draw",
+                "price": 283
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 500
+              },
+              {
+                "name": "Villarreal",
+                "price": -172
+              },
+              {
+                "name": "Draw",
+                "price": 283
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 475
+              },
+              {
+                "name": "Villarreal",
+                "price": -170
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": 540
+              },
+              {
+                "name": "Villarreal",
+                "price": -205
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2fa0c69e407576a1beac74b13074ec2",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Girona",
+    "away_team": "CA Osasuna",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 185
+              },
+              {
+                "name": "Girona",
+                "price": 145
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 205
+              },
+              {
+                "name": "Girona",
+                "price": 142
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 200
+              },
+              {
+                "name": "Girona",
+                "price": 145
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 205
+              },
+              {
+                "name": "Girona",
+                "price": 142
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 205
+              },
+              {
+                "name": "Girona",
+                "price": 142
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 190
+              },
+              {
+                "name": "Girona",
+                "price": 140
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": 190
+              },
+              {
+                "name": "Girona",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac7fdf3f88257521894bf1895af2fc3e",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T20:00:00Z",
+    "home_team": "Valencia",
+    "away_team": "Elche CF",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 250
+              },
+              {
+                "name": "Valencia",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 260
+              },
+              {
+                "name": "Valencia",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 255
+              },
+              {
+                "name": "Valencia",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 260
+              },
+              {
+                "name": "Valencia",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 205
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 260
+              },
+              {
+                "name": "Valencia",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 205
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 250
+              },
+              {
+                "name": "Valencia",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": 270
+              },
+              {
+                "name": "Valencia",
+                "price": 104
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8ecd2a8b4db1916e9aa1fff560810fa8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T13:00:00Z",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Mallorca",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 410
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -140
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 410
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 390
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 410
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -134
+              },
+              {
+                "name": "Draw",
+                "price": 244
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 410
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -134
+              },
+              {
+                "name": "Draw",
+                "price": 244
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 400
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 390
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -139
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cd15bfc6667962f56247207f3abd6291",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T15:15:00Z",
+    "home_team": "Levante",
+    "away_team": "Espanyol",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 140
+              },
+              {
+                "name": "Levante",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 136
+              },
+              {
+                "name": "Levante",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 135
+              },
+              {
+                "name": "Levante",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 134
+              },
+              {
+                "name": "Levante",
+                "price": 198
+              },
+              {
+                "name": "Draw",
+                "price": 236
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 134
+              },
+              {
+                "name": "Levante",
+                "price": 198
+              },
+              {
+                "name": "Draw",
+                "price": 236
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 135
+              },
+              {
+                "name": "Levante",
+                "price": 190
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 133
+              },
+              {
+                "name": "Levante",
+                "price": 190
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7cdfdb81a5bdb695c97d08daf34478b7",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "95909c45c3ee5420fe50e8f035167bc9",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "30f6f08d42940047b836af2153d681bd",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-12T20:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Celta Vigo",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:24Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 180
+              },
+              {
+                "name": "Sevilla",
+                "price": 155
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 178
+              },
+              {
+                "name": "Sevilla",
+                "price": 155
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 180
+              },
+              {
+                "name": "Sevilla",
+                "price": 150
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 177
+              },
+              {
+                "name": "Sevilla",
+                "price": 153
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:12:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:12:43Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 177
+              },
+              {
+                "name": "Sevilla",
+                "price": 153
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:32Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 175
+              },
+              {
+                "name": "Sevilla",
+                "price": 150
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:13:19Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 175
+              },
+              {
+                "name": "Sevilla",
+                "price": 138
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

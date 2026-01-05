@@ -1,0 +1,201 @@
+[
+  {
+    "id": "70a4be80a3d808e9d070d82b2de22d3c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-30T01:10:00Z",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Cleveland Cavaliers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-29T23:32:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:32:03Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 130
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -154
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-12-29T23:31:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:31:24Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 127
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -156
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-29T23:31:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:31:36Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 130
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -155
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-29T23:32:03Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:32:03Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 123
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -155
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-29T23:31:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:31:36Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 131
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -148
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-29T23:32:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:32:16Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 129
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -149
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-29T23:31:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:31:38Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 125
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -145
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-29T23:31:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:31:36Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 125
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -155
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-29T23:32:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2025-12-29T23:32:15Z",
+            "outcomes": [
+              {
+                "name": "Cleveland Cavaliers",
+                "price": 130
+              },
+              {
+                "name": "San Antonio Spurs",
+                "price": -150
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

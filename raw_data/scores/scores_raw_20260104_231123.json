@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "61ae884ed40193635856e8c8c8930652",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:00:00Z",
+    "completed": true,
+    "home_team": "Queens University Royals",
+    "away_team": "Bellarmine Knights",
+    "scores": [
+      {
+        "name": "Queens University Royals",
+        "score": "98"
+      },
+      {
+        "name": "Bellarmine Knights",
+        "score": "76"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "db482dc9a8450afc7e82cf5dce598cc8",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:00:00Z",
+    "completed": true,
+    "home_team": "Central Michigan Chippewas",
+    "away_team": "Toledo Rockets",
+    "scores": [
+      {
+        "name": "Central Michigan Chippewas",
+        "score": "75"
+      },
+      {
+        "name": "Toledo Rockets",
+        "score": "78"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ac53d6c09b4adaf1c36ae4edcf23be43",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:00:00Z",
+    "completed": true,
+    "home_team": "North Alabama Lions",
+    "away_team": "Florida Gulf Coast Eagles",
+    "scores": [
+      {
+        "name": "North Alabama Lions",
+        "score": "55"
+      },
+      {
+        "name": "Florida Gulf Coast Eagles",
+        "score": "72"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "769bf1a053765a395759287e008a8c47",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:00:33Z",
+    "completed": true,
+    "home_team": "Arkansas Razorbacks",
+    "away_team": "Tennessee Volunteers",
+    "scores": [
+      {
+        "name": "Arkansas Razorbacks",
+        "score": "86"
+      },
+      {
+        "name": "Tennessee Volunteers",
+        "score": "75"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "474e0b3ce7fcfc64e9948f0789eaba18",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:00:56Z",
+    "completed": true,
+    "home_team": "Arkansas St Red Wolves",
+    "away_team": "James Madison Dukes",
+    "scores": [
+      {
+        "name": "Arkansas St Red Wolves",
+        "score": "74"
+      },
+      {
+        "name": "James Madison Dukes",
+        "score": "78"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "d109bbd17d154a229236e288e7defce1",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:01:59Z",
+    "completed": true,
+    "home_team": "Rice Owls",
+    "away_team": "Memphis Tigers",
+    "scores": [
+      {
+        "name": "Rice Owls",
+        "score": "70"
+      },
+      {
+        "name": "Memphis Tigers",
+        "score": "76"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ebbacdb2033d87704860622ba46cbdd8",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:30:00Z",
+    "completed": true,
+    "home_team": "Miami (OH) RedHawks",
+    "away_team": "Akron Zips",
+    "scores": [
+      {
+        "name": "Miami (OH) RedHawks",
+        "score": "76"
+      },
+      {
+        "name": "Akron Zips",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "67eefc0f72d8a4e5f6102ab411020029",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:30:00Z",
+    "completed": true,
+    "home_team": "Bethune-Cookman Wildcats",
+    "away_team": "Florida A&M Rattlers",
+    "scores": [
+      {
+        "name": "Bethune-Cookman Wildcats",
+        "score": "87"
+      },
+      {
+        "name": "Florida A&M Rattlers",
+        "score": "83"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "a7b4479ff4ce2e8ba7b5dd1b94134449",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:30:22Z",
+    "completed": true,
+    "home_team": "Oklahoma Sooners",
+    "away_team": "Ole Miss Rebels",
+    "scores": [
+      {
+        "name": "Oklahoma Sooners",
+        "score": "86"
+      },
+      {
+        "name": "Ole Miss Rebels",
+        "score": "70"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "2a28878245ab91312ac446cfeb1462bd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:45:45Z",
+    "completed": true,
+    "home_team": "UL Monroe Warhawks",
+    "away_team": "Texas State Bobcats",
+    "scores": [
+      {
+        "name": "UL Monroe Warhawks",
+        "score": "79"
+      },
+      {
+        "name": "Texas State Bobcats",
+        "score": "84"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "8a8572eb213193ff68394dfdc20f349c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:48:03Z",
+    "completed": true,
+    "home_team": "Old Dominion Monarchs",
+    "away_team": "Georgia Southern Eagles",
+    "scores": [
+      {
+        "name": "Old Dominion Monarchs",
+        "score": "86"
+      },
+      {
+        "name": "Georgia Southern Eagles",
+        "score": "93"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "4cc1f616bfd6c49d1115b9208d5cd77d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T20:55:21Z",
+    "completed": true,
+    "home_team": "Florida St Seminoles",
+    "away_team": "Duke Blue Devils",
+    "scores": [
+      {
+        "name": "Florida St Seminoles",
+        "score": "87"
+      },
+      {
+        "name": "Duke Blue Devils",
+        "score": "91"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7a3e4eb6cc2d7e8ab3c4e5d383ccae3e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:00:00Z",
+    "completed": true,
+    "home_team": "Arkansas-Little Rock Trojans",
+    "away_team": "Tennessee St Tigers",
+    "scores": [
+      {
+        "name": "Arkansas-Little Rock Trojans",
+        "score": "79"
+      },
+      {
+        "name": "Tennessee St Tigers",
+        "score": "84"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "b3a88e40ff8ae69d8f0b8426dbd7ba48",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:20Z",
+    "completed": true,
+    "home_team": "CSU Northridge Matadors",
+    "away_team": "UC Santa Barbara Gauchos",
+    "scores": [
+      {
+        "name": "CSU Northridge Matadors",
+        "score": "74"
+      },
+      {
+        "name": "UC Santa Barbara Gauchos",
+        "score": "65"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "de208ca983279a26394079301f3655cf",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:22Z",
+    "completed": true,
+    "home_team": "Stony Brook Seawolves",
+    "away_team": "North Carolina A&T Aggies",
+    "scores": [
+      {
+        "name": "Stony Brook Seawolves",
+        "score": "81"
+      },
+      {
+        "name": "North Carolina A&T Aggies",
+        "score": "80"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "d797ef442c2df9f85d2781b7097f54ac",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:26Z",
+    "completed": true,
+    "home_team": "UNC Greensboro Spartans",
+    "away_team": "Samford Bulldogs",
+    "scores": [
+      {
+        "name": "UNC Greensboro Spartans",
+        "score": "89"
+      },
+      {
+        "name": "Samford Bulldogs",
+        "score": "82"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7c6a3d4a6a1dfe7916bd7247d6b55f15",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:28Z",
+    "completed": true,
+    "home_team": "Abilene Christian Wildcats",
+    "away_team": "Utah Valley Wolverines",
+    "scores": [
+      {
+        "name": "Abilene Christian Wildcats",
+        "score": "85"
+      },
+      {
+        "name": "Utah Valley Wolverines",
+        "score": "68"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7e321fc0c52ded619f7dcd9ae329a600",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:32Z",
+    "completed": true,
+    "home_team": "Furman Paladins",
+    "away_team": "Western Carolina Catamounts",
+    "scores": [
+      {
+        "name": "Furman Paladins",
+        "score": "77"
+      },
+      {
+        "name": "Western Carolina Catamounts",
+        "score": "80"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "b448c6c06ef2d899ba14c191908c1048",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:39Z",
+    "completed": true,
+    "home_team": "Winthrop Eagles",
+    "away_team": "Gardner-Webb Bulldogs",
+    "scores": [
+      {
+        "name": "Winthrop Eagles",
+        "score": "88"
+      },
+      {
+        "name": "Gardner-Webb Bulldogs",
+        "score": "77"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "776511deb095b19abddcc49463611110",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:40Z",
+    "completed": true,
+    "home_team": "East Tennessee St Buccaneers",
+    "away_team": "Mercer Bears",
+    "scores": [
+      {
+        "name": "East Tennessee St Buccaneers",
+        "score": "77"
+      },
+      {
+        "name": "Mercer Bears",
+        "score": "71"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "0400d1fa519d4c821b8422d08e0711dd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:48Z",
+    "completed": true,
+    "home_team": "Marshall Thundering Herd",
+    "away_team": "Appalachian St Mountaineers",
+    "scores": [
+      {
+        "name": "Marshall Thundering Herd",
+        "score": "88"
+      },
+      {
+        "name": "Appalachian St Mountaineers",
+        "score": "81"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "4b8a8dce0d5cd258db04705ba70a3fdd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:02:57Z",
+    "completed": true,
+    "home_team": "Utah Utes",
+    "away_team": "Arizona Wildcats",
+    "scores": [
+      {
+        "name": "Utah Utes",
+        "score": "78"
+      },
+      {
+        "name": "Arizona Wildcats",
+        "score": "97"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ac0a122c84c284e03cfe1ec0970a92a6",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:04:26Z",
+    "completed": true,
+    "home_team": "Utah State Aggies",
+    "away_team": "San José St Spartans",
+    "scores": [
+      {
+        "name": "Utah State Aggies",
+        "score": "96"
+      },
+      {
+        "name": "San José St Spartans",
+        "score": "78"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "080eaa09ae791607235004c0e1e6fcc7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:05:37Z",
+    "completed": true,
+    "home_team": "George Mason Patriots",
+    "away_team": "Rhode Island Rams",
+    "scores": [
+      {
+        "name": "George Mason Patriots",
+        "score": "61"
+      },
+      {
+        "name": "Rhode Island Rams",
+        "score": "50"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "1fb3ceb56f5856233e5a2755bd7cb704",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:05:43Z",
+    "completed": true,
+    "home_team": "Texas A&M Aggies",
+    "away_team": "LSU Tigers",
+    "scores": [
+      {
+        "name": "Texas A&M Aggies",
+        "score": "75"
+      },
+      {
+        "name": "LSU Tigers",
+        "score": "72"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "af461fb56d9143affd106b847657c767",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:11:41Z",
+    "completed": true,
+    "home_team": "North Dakota St Bison",
+    "away_team": "Oral Roberts Golden Eagles",
+    "scores": [
+      {
+        "name": "North Dakota St Bison",
+        "score": "79"
+      },
+      {
+        "name": "Oral Roberts Golden Eagles",
+        "score": "77"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "6fbbecc1c8e5b9f42fa1cfc5608dec8f",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:30:00Z",
+    "completed": true,
+    "home_team": "Maryland-Eastern Shore Hawks",
+    "away_team": "Morgan St Bears",
+    "scores": [
+      {
+        "name": "Maryland-Eastern Shore Hawks",
+        "score": "66"
+      },
+      {
+        "name": "Morgan St Bears",
+        "score": "49"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "4c8598d8d1920dc32840a7eb855206c8",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:30:00Z",
+    "completed": true,
+    "home_team": "Northwestern St Demons",
+    "away_team": "New Orleans Privateers",
+    "scores": [
+      {
+        "name": "Northwestern St Demons",
+        "score": "74"
+      },
+      {
+        "name": "New Orleans Privateers",
+        "score": "68"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "fb26d367dc4601d16b2c23008257f845",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:30:00Z",
+    "completed": true,
+    "home_team": "North Carolina Central Eagles",
+    "away_team": "Norfolk St Spartans",
+    "scores": [
+      {
+        "name": "North Carolina Central Eagles",
+        "score": "69"
+      },
+      {
+        "name": "Norfolk St Spartans",
+        "score": "67"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "d93e34e43c0d035eb38f99df050fe35e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:30:00Z",
+    "completed": true,
+    "home_team": "SE Louisiana Lions",
+    "away_team": "Stephen F. Austin Lumberjacks",
+    "scores": [
+      {
+        "name": "SE Louisiana Lions",
+        "score": "63"
+      },
+      {
+        "name": "Stephen F. Austin Lumberjacks",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "e8c7585ea3e4016a0a370f8a67a88b45",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:32:29Z",
+    "completed": true,
+    "home_team": "Troy Trojans",
+    "away_team": "South Alabama Jaguars",
+    "scores": [
+      {
+        "name": "Troy Trojans",
+        "score": "59"
+      },
+      {
+        "name": "South Alabama Jaguars",
+        "score": "49"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "e57945b524f49791cd2220e15f1c62ed",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:33:06Z",
+    "completed": true,
+    "home_team": "Lindenwood Lions",
+    "away_team": "Southern Indiana Screaming Eagles",
+    "scores": [
+      {
+        "name": "Lindenwood Lions",
+        "score": "83"
+      },
+      {
+        "name": "Southern Indiana Screaming Eagles",
+        "score": "80"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7f6e362ea60438e92d770cd02c56e08a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:33:35Z",
+    "completed": true,
+    "home_team": "Jackson St Tigers",
+    "away_team": "Alcorn St Braves",
+    "scores": [
+      {
+        "name": "Jackson St Tigers",
+        "score": "89"
+      },
+      {
+        "name": "Alcorn St Braves",
+        "score": "86"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "0b68b873bec1fa5792eae3bdc8ccef0e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:34:06Z",
+    "completed": true,
+    "home_team": "Tenn-Martin Skyhawks",
+    "away_team": "Eastern Illinois Panthers",
+    "scores": [
+      {
+        "name": "Tenn-Martin Skyhawks",
+        "score": "65"
+      },
+      {
+        "name": "Eastern Illinois Panthers",
+        "score": "61"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7fd00b215a7647b00f04f5084d6d59e8",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:36:26Z",
+    "completed": true,
+    "home_team": "SIU-Edwardsville Cougars",
+    "away_team": "Morehead St Eagles",
+    "scores": [
+      {
+        "name": "SIU-Edwardsville Cougars",
+        "score": "72"
+      },
+      {
+        "name": "Morehead St Eagles",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "63827f88044a892dd22e230adb087716",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:37:49Z",
+    "completed": true,
+    "home_team": "Nicholls St Colonels",
+    "away_team": "East Texas A&M Lions",
+    "scores": [
+      {
+        "name": "Nicholls St Colonels",
+        "score": "80"
+      },
+      {
+        "name": "East Texas A&M Lions",
+        "score": "58"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "180fee6670e573ea70669519a822745c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:41:43Z",
+    "completed": true,
+    "home_team": "South Carolina St Bulldogs",
+    "away_team": "Howard Bison",
+    "scores": [
+      {
+        "name": "South Carolina St Bulldogs",
+        "score": "58"
+      },
+      {
+        "name": "Howard Bison",
+        "score": "57"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "a7cea1fb0587fdc27874b1d38138c5bd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T21:45:00Z",
+    "completed": true,
+    "home_team": "SE Missouri St Redhawks",
+    "away_team": "Western Illinois Leathernecks",
+    "scores": [
+      {
+        "name": "SE Missouri St Redhawks",
+        "score": "73"
+      },
+      {
+        "name": "Western Illinois Leathernecks",
+        "score": "50"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "474bc3ab7427744880ddd0dfd9b5882d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:02:35Z",
+    "completed": true,
+    "home_team": "Tarleton State Texans",
+    "away_team": "Cal Baptist Lancers",
+    "scores": [
+      {
+        "name": "Tarleton State Texans",
+        "score": "81"
+      },
+      {
+        "name": "Cal Baptist Lancers",
+        "score": "76"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "5dac021fe64c1d77b87abdc41b07615a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:03:48Z",
+    "completed": true,
+    "home_team": "Austin Peay Governors",
+    "away_team": "Jacksonville Dolphins",
+    "scores": [
+      {
+        "name": "Austin Peay Governors",
+        "score": "71"
+      },
+      {
+        "name": "Jacksonville Dolphins",
+        "score": "68"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "c88f0ef8b340f3d002b7b7928a9bb908",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:05:00Z",
+    "completed": true,
+    "home_team": "Bucknell Bison",
+    "away_team": "Lehigh Mountain Hawks",
+    "scores": [
+      {
+        "name": "Bucknell Bison",
+        "score": "72"
+      },
+      {
+        "name": "Lehigh Mountain Hawks",
+        "score": "65"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "b9229b2cd8eefc659c6976069933dc1e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:05:09Z",
+    "completed": true,
+    "home_team": "UNLV Rebels",
+    "away_team": "Air Force Falcons",
+    "scores": [
+      {
+        "name": "UNLV Rebels",
+        "score": "67"
+      },
+      {
+        "name": "Air Force Falcons",
+        "score": "39"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "0b768354f2bc86ad62485e9451de24b3",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:09:11Z",
+    "completed": true,
+    "home_team": "UC Davis Aggies",
+    "away_team": "CSU Bakersfield Roadrunners",
+    "scores": [
+      {
+        "name": "UC Davis Aggies",
+        "score": "79"
+      },
+      {
+        "name": "CSU Bakersfield Roadrunners",
+        "score": "81"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "cbd03fd6d5e4424effeb2c360034652b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:10:48Z",
+    "completed": true,
+    "home_team": "Arizona St Sun Devils",
+    "away_team": "Colorado Buffaloes",
+    "scores": [
+      {
+        "name": "Arizona St Sun Devils",
+        "score": "89"
+      },
+      {
+        "name": "Colorado Buffaloes",
+        "score": "95"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "b26be456e1fc307d7b584916e27e8351",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:02:12Z",
+    "completed": true,
+    "home_team": "Northwestern Wildcats",
+    "away_team": "Minnesota Golden Gophers",
+    "scores": [
+      {
+        "name": "Northwestern Wildcats",
+        "score": "78"
+      },
+      {
+        "name": "Minnesota Golden Gophers",
+        "score": "84"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ffa2b053225d4c2a504e45f7b1e83abb",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:02:25Z",
+    "completed": true,
+    "home_team": "Loyola (MD) Greyhounds",
+    "away_team": "Lafayette Leopards",
+    "scores": [
+      {
+        "name": "Loyola (MD) Greyhounds",
+        "score": "64"
+      },
+      {
+        "name": "Lafayette Leopards",
+        "score": "79"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "d4acd6fbbe29b911cfdd665ba9bfa2f2",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:03:36Z",
+    "completed": true,
+    "home_team": "Lipscomb Bisons",
+    "away_team": "North Florida Ospreys",
+    "scores": [
+      {
+        "name": "Lipscomb Bisons",
+        "score": "82"
+      },
+      {
+        "name": "North Florida Ospreys",
+        "score": "74"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "cfe3191c9e73ba9156077610b04cfca3",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:04:44Z",
+    "completed": true,
+    "home_team": "Incarnate Word Cardinals",
+    "away_team": "Houston Christian Huskies",
+    "scores": [
+      {
+        "name": "Incarnate Word Cardinals",
+        "score": "73"
+      },
+      {
+        "name": "Houston Christian Huskies",
+        "score": "56"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7ba8a55e2da34a409040b3557b3ef06e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:05:00Z",
+    "completed": true,
+    "home_team": "Idaho Vandals",
+    "away_team": "Eastern Washington Eagles",
+    "scores": [
+      {
+        "name": "Idaho Vandals",
+        "score": "84"
+      },
+      {
+        "name": "Eastern Washington Eagles",
+        "score": "81"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "28bed9b90035aff07400cf654d7e260e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:27:26Z",
+    "completed": true,
+    "home_team": "Grambling St Tigers",
+    "away_team": "Prairie View Panthers",
+    "scores": [
+      {
+        "name": "Grambling St Tigers",
+        "score": "76"
+      },
+      {
+        "name": "Prairie View Panthers",
+        "score": "72"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "aaeb1edd6be7a629e5e556262ef91aee",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T22:30:00Z",
+    "completed": true,
+    "home_team": "UT Rio Grande Valley Vaqueros",
+    "away_team": "Texas A&M-CC Islanders",
+    "scores": [
+      {
+        "name": "UT Rio Grande Valley Vaqueros",
+        "score": "59"
+      },
+      {
+        "name": "Texas A&M-CC Islanders",
+        "score": "63"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "3000ec8118f181f7add336c99630cb39",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:00:31Z",
+    "completed": true,
+    "home_team": "Iowa Hawkeyes",
+    "away_team": "UCLA Bruins",
+    "scores": [
+      {
+        "name": "Iowa Hawkeyes",
+        "score": "74"
+      },
+      {
+        "name": "UCLA Bruins",
+        "score": "61"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "0c4862bda26f5d7c73990c154bb8d728",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:01:35Z",
+    "completed": true,
+    "home_team": "Texas Longhorns",
+    "away_team": "Mississippi St Bulldogs",
+    "scores": [
+      {
+        "name": "Texas Longhorns",
+        "score": "98"
+      },
+      {
+        "name": "Mississippi St Bulldogs",
+        "score": "101"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7a3fa82dbe4c0e02ce67aca669cb8816",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:02:01Z",
+    "completed": true,
+    "home_team": "Towson Tigers",
+    "away_team": "Monmouth Hawks",
+    "scores": [
+      {
+        "name": "Towson Tigers",
+        "score": "48"
+      },
+      {
+        "name": "Monmouth Hawks",
+        "score": "62"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "863b2ae67c646bed98d426064250f163",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:02:14Z",
+    "completed": true,
+    "home_team": "Montana Grizzlies",
+    "away_team": "N Colorado Bears",
+    "scores": [
+      {
+        "name": "Montana Grizzlies",
+        "score": "88"
+      },
+      {
+        "name": "N Colorado Bears",
+        "score": "79"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "619476265a958d4fbcefc4bc5b6c3872",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:03:10Z",
+    "completed": true,
+    "home_team": "Idaho State Bengals",
+    "away_team": "Portland St Vikings",
+    "scores": [
+      {
+        "name": "Idaho State Bengals",
+        "score": "87"
+      },
+      {
+        "name": "Portland St Vikings",
+        "score": "93"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "f0911a46d899f58ea93eaf7945f4d9e7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:05:45Z",
+    "completed": true,
+    "home_team": "Saint Joseph's Hawks",
+    "away_team": "Davidson Wildcats",
+    "scores": [
+      {
+        "name": "Saint Joseph's Hawks",
+        "score": "56"
+      },
+      {
+        "name": "Davidson Wildcats",
+        "score": "62"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "e884c4df7a21d1341670deeb440807c3",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:10:19Z",
+    "completed": true,
+    "home_team": "Charlotte 49ers",
+    "away_team": "Wichita St Shockers",
+    "scores": [
+      {
+        "name": "Charlotte 49ers",
+        "score": "104"
+      },
+      {
+        "name": "Wichita St Shockers",
+        "score": "100"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7d77ec4c28b1457ec229706881b9ccc3",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:13:38Z",
+    "completed": true,
+    "home_team": "Southern Jaguars",
+    "away_team": "Texas Southern Tigers",
+    "scores": [
+      {
+        "name": "Southern Jaguars",
+        "score": "84"
+      },
+      {
+        "name": "Texas Southern Tigers",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "5688037fe1cb2307793d1432ad0274fb",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:30:00Z",
+    "completed": true,
+    "home_team": "Arkansas-Pine Bluff Golden Lions",
+    "away_team": "Alabama A&M Bulldogs",
+    "scores": [
+      {
+        "name": "Arkansas-Pine Bluff Golden Lions",
+        "score": "95"
+      },
+      {
+        "name": "Alabama A&M Bulldogs",
+        "score": "83"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "1b5259ff5aa5dbde75b5b445dd05b7e5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-03T23:36:53Z",
+    "completed": true,
+    "home_team": "Miss Valley St Delta Devils",
+    "away_team": "Alabama St Hornets",
+    "scores": [
+      {
+        "name": "Miss Valley St Delta Devils",
+        "score": "69"
+      },
+      {
+        "name": "Alabama St Hornets",
+        "score": "89"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "9a7a3db10777d2e5ac60b6d4204ece88",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T00:00:00Z",
+    "completed": true,
+    "home_team": "CSU Fullerton Titans",
+    "away_team": "UC Irvine Anteaters",
+    "scores": [
+      {
+        "name": "CSU Fullerton Titans",
+        "score": "64"
+      },
+      {
+        "name": "UC Irvine Anteaters",
+        "score": "86"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "01e1f34b7ddf09359c80db439cae16df",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T00:00:00Z",
+    "completed": true,
+    "home_team": "Fresno St Bulldogs",
+    "away_team": "Nevada Wolf Pack",
+    "scores": [
+      {
+        "name": "Fresno St Bulldogs",
+        "score": "65"
+      },
+      {
+        "name": "Nevada Wolf Pack",
+        "score": "66"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "6ebb019d692ab0d7c5ca1593d19b7cf2",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T00:00:00Z",
+    "completed": true,
+    "home_team": "UNC Wilmington Seahawks",
+    "away_team": "Hampton Pirates",
+    "scores": [
+      {
+        "name": "UNC Wilmington Seahawks",
+        "score": "49"
+      },
+      {
+        "name": "Hampton Pirates",
+        "score": "45"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "0e917a3f309143967db06afd5f148001",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T00:08:28Z",
+    "completed": true,
+    "home_team": "Penn State Nittany Lions",
+    "away_team": "Illinois Fighting Illini",
+    "scores": [
+      {
+        "name": "Penn State Nittany Lions",
+        "score": "65"
+      },
+      {
+        "name": "Illinois Fighting Illini",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ab3f0efec04c978dc285352a3775f6c5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:00:00Z",
+    "completed": true,
+    "home_team": "Grand Canyon Antelopes",
+    "away_team": "Colorado St Rams",
+    "scores": [
+      {
+        "name": "Grand Canyon Antelopes",
+        "score": "60"
+      },
+      {
+        "name": "Colorado St Rams",
+        "score": "70"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "6768882057778f991fedfab718ab374b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:00:00Z",
+    "completed": true,
+    "home_team": "Montana St Bobcats",
+    "away_team": "Northern Arizona Lumberjacks",
+    "scores": [
+      {
+        "name": "Montana St Bobcats",
+        "score": "77"
+      },
+      {
+        "name": "Northern Arizona Lumberjacks",
+        "score": "68"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "b89278ae8664ad3ce92bb173ddd5ee50",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:00:00Z",
+    "completed": true,
+    "home_team": "Omaha Mavericks",
+    "away_team": "UMKC Kangaroos",
+    "scores": [
+      {
+        "name": "Omaha Mavericks",
+        "score": "66"
+      },
+      {
+        "name": "UMKC Kangaroos",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "cd02016f4604d99d55519b2abf628ced",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:00:13Z",
+    "completed": true,
+    "home_team": "Wisconsin Badgers",
+    "away_team": "Purdue Boilermakers",
+    "scores": [
+      {
+        "name": "Wisconsin Badgers",
+        "score": "73"
+      },
+      {
+        "name": "Purdue Boilermakers",
+        "score": "89"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "f688ba8dd0f01863ab8a88392b748940",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:15:00Z",
+    "completed": true,
+    "home_team": "New Mexico Lobos",
+    "away_team": "Wyoming Cowboys",
+    "scores": [
+      {
+        "name": "New Mexico Lobos",
+        "score": "78"
+      },
+      {
+        "name": "Wyoming Cowboys",
+        "score": "58"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "3ae2aa915b605eba6decf12174828e45",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:31:14Z",
+    "completed": true,
+    "home_team": "Missouri Tigers",
+    "away_team": "Florida Gators",
+    "scores": [
+      {
+        "name": "Missouri Tigers",
+        "score": "76"
+      },
+      {
+        "name": "Florida Gators",
+        "score": "74"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "7fcb4876968b828fc82d6be99e9fcfe7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T01:32:24Z",
+    "completed": true,
+    "home_team": "Southern Utah Thunderbirds",
+    "away_team": "UT-Arlington Mavericks",
+    "scores": [
+      {
+        "name": "Southern Utah Thunderbirds",
+        "score": "77"
+      },
+      {
+        "name": "UT-Arlington Mavericks",
+        "score": "86"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "5ed820e7a099d7fbde9528b11deef0b3",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T02:02:15Z",
+    "completed": true,
+    "home_team": "Long Beach St 49ers",
+    "away_team": "Cal Poly Mustangs",
+    "scores": [
+      {
+        "name": "Long Beach St 49ers",
+        "score": "74"
+      },
+      {
+        "name": "Cal Poly Mustangs",
+        "score": "66"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "12e77d14444c5df3ac6d9688377f2006",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T02:03:36Z",
+    "completed": true,
+    "home_team": "Weber State Wildcats",
+    "away_team": "Sacramento St Hornets",
+    "scores": [
+      {
+        "name": "Weber State Wildcats",
+        "score": "95"
+      },
+      {
+        "name": "Sacramento St Hornets",
+        "score": "82"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "5f6228bdfe4ce73bb2da3ee32025f1bd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T03:05:00Z",
+    "completed": true,
+    "home_team": "UC San Diego Tritons",
+    "away_team": "Hawai'i Rainbow Warriors",
+    "scores": [
+      {
+        "name": "UC San Diego Tritons",
+        "score": "83"
+      },
+      {
+        "name": "Hawai'i Rainbow Warriors",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "30f1ee170f7c4174bbfea74f8ce14347",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T03:15:00Z",
+    "completed": true,
+    "home_team": "San Diego St Aztecs",
+    "away_team": "Boise State Broncos",
+    "scores": [
+      {
+        "name": "San Diego St Aztecs",
+        "score": "110"
+      },
+      {
+        "name": "Boise State Broncos",
+        "score": "107"
+      }
+    ],
+    "last_update": "2026-01-04T21:11:24Z"
+  },
+  {
+    "id": "ac86c98058b56a33f408ea8e99a3b251",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T17:02:15Z",
+    "completed": true,
+    "home_team": "Merrimack Warriors",
+    "away_team": "Manhattan Jaspers",
+    "scores": [
+      {
+        "name": "Merrimack Warriors",
+        "score": "73"
+      },
+      {
+        "name": "Manhattan Jaspers",
+        "score": "66"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "bdb710048f992f3e877da75d7af97ccc",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T17:02:18Z",
+    "completed": true,
+    "home_team": "Seton Hall Pirates",
+    "away_team": "Creighton Bluejays",
+    "scores": [
+      {
+        "name": "Seton Hall Pirates",
+        "score": "56"
+      },
+      {
+        "name": "Creighton Bluejays",
+        "score": "54"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "0184382d4328eb0f213776429c1e94d2",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T17:02:20Z",
+    "completed": true,
+    "home_team": "Fordham Rams",
+    "away_team": "Richmond Spiders",
+    "scores": [
+      {
+        "name": "Fordham Rams",
+        "score": "75"
+      },
+      {
+        "name": "Richmond Spiders",
+        "score": "83"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "3266c41978fa9117afc96da9e4706d20",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T17:03:06Z",
+    "completed": true,
+    "home_team": "Canisius Golden Griffins",
+    "away_team": "Sacred Heart Pioneers",
+    "scores": [
+      {
+        "name": "Canisius Golden Griffins",
+        "score": "82"
+      },
+      {
+        "name": "Sacred Heart Pioneers",
+        "score": "78"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "317e66e5703bb8f7faac484bc819589f",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T18:01:17Z",
+    "completed": true,
+    "home_team": "Tulane Green Wave",
+    "away_team": "Florida Atlantic Owls",
+    "scores": [
+      {
+        "name": "Tulane Green Wave",
+        "score": "69"
+      },
+      {
+        "name": "Florida Atlantic Owls",
+        "score": "66"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "e52348babd3af9e6a04c9b7c3470bbd5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T18:02:13Z",
+    "completed": true,
+    "home_team": "South Florida Bulls",
+    "away_team": "UAB Blazers",
+    "scores": [
+      {
+        "name": "South Florida Bulls",
+        "score": "106"
+      },
+      {
+        "name": "UAB Blazers",
+        "score": "109"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "68994f60295e4167f85656b44df5e37e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T18:06:16Z",
+    "completed": true,
+    "home_team": "St. Thomas (MN) Tommies",
+    "away_team": "Denver Pioneers",
+    "scores": [
+      {
+        "name": "St. Thomas (MN) Tommies",
+        "score": "92"
+      },
+      {
+        "name": "Denver Pioneers",
+        "score": "88"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "eef2c9b1781b99b83aaf55570fd76766",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:01:43Z",
+    "completed": true,
+    "home_team": "Middle Tennessee Blue Raiders",
+    "away_team": "Sam Houston St Bearkats",
+    "scores": [
+      {
+        "name": "Middle Tennessee Blue Raiders",
+        "score": "68"
+      },
+      {
+        "name": "Sam Houston St Bearkats",
+        "score": "67"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "ddcffe7ce9532d6b12da6963c34a98cf",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:01:57Z",
+    "completed": true,
+    "home_team": "Rider Broncs",
+    "away_team": "Siena Saints",
+    "scores": [
+      {
+        "name": "Rider Broncs",
+        "score": "65"
+      },
+      {
+        "name": "Siena Saints",
+        "score": "74"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "ae9cd58e51acad90c8864aa358fdd940",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:22Z",
+    "completed": true,
+    "home_team": "IUPUI Jaguars",
+    "away_team": "Wright St Raiders",
+    "scores": [
+      {
+        "name": "IUPUI Jaguars",
+        "score": "77"
+      },
+      {
+        "name": "Wright St Raiders",
+        "score": "81"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "66bdb4a4713910709bc1864d5f68c95c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:34Z",
+    "completed": true,
+    "home_team": "Delaware Blue Hens",
+    "away_team": "Kennesaw St Owls",
+    "scores": [
+      {
+        "name": "Delaware Blue Hens",
+        "score": "67"
+      },
+      {
+        "name": "Kennesaw St Owls",
+        "score": "52"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "843ba0f61a408c2840a74a210ded9c91",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:42Z",
+    "completed": true,
+    "home_team": "UConn Huskies",
+    "away_team": "Marquette Golden Eagles",
+    "scores": [
+      {
+        "name": "UConn Huskies",
+        "score": "73"
+      },
+      {
+        "name": "Marquette Golden Eagles",
+        "score": "57"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "385f0f6b5819cea8f2d1f38368650227",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:45Z",
+    "completed": true,
+    "home_team": "Quinnipiac Bobcats",
+    "away_team": "Mt. St. Mary's Mountaineers",
+    "scores": [
+      {
+        "name": "Quinnipiac Bobcats",
+        "score": "80"
+      },
+      {
+        "name": "Mt. St. Mary's Mountaineers",
+        "score": "69"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "933f78b83db7de47d96d637354281bd9",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:47Z",
+    "completed": true,
+    "home_team": "Marist Red Foxes",
+    "away_team": "Iona Gaels",
+    "scores": [
+      {
+        "name": "Marist Red Foxes",
+        "score": "83"
+      },
+      {
+        "name": "Iona Gaels",
+        "score": "38"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "e6a1641498fae58bdff97e5f7f06e7af",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:02:53Z",
+    "completed": true,
+    "home_team": "Liberty Flames",
+    "away_team": "Jacksonville St Gamecocks",
+    "scores": [
+      {
+        "name": "Liberty Flames",
+        "score": "78"
+      },
+      {
+        "name": "Jacksonville St Gamecocks",
+        "score": "69"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "d6da7124eb05db0520b6686666ec5f17",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:03:00Z",
+    "completed": true,
+    "home_team": "Fort Wayne Mastodons",
+    "away_team": "Cleveland St Vikings",
+    "scores": [
+      {
+        "name": "Fort Wayne Mastodons",
+        "score": "74"
+      },
+      {
+        "name": "Cleveland St Vikings",
+        "score": "71"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "3db75a234ab53ddbba8a8b76bc56d4b2",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T19:03:33Z",
+    "completed": true,
+    "home_team": "Niagara Purple Eagles",
+    "away_team": "Fairfield Stags",
+    "scores": [
+      {
+        "name": "Niagara Purple Eagles",
+        "score": "75"
+      },
+      {
+        "name": "Fairfield Stags",
+        "score": "83"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "9f920497f9e90c7fa968398db0f5db36",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T20:01:56Z",
+    "completed": true,
+    "home_team": "Valparaiso Beacons",
+    "away_team": "UIC Flames",
+    "scores": [
+      {
+        "name": "Valparaiso Beacons",
+        "score": "66"
+      },
+      {
+        "name": "UIC Flames",
+        "score": "59"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "900530bda5062ae17bc07dd55be0c09a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T20:02:12Z",
+    "completed": true,
+    "home_team": "Oakland Golden Grizzlies",
+    "away_team": "Robert Morris Colonials",
+    "scores": [
+      {
+        "name": "Oakland Golden Grizzlies",
+        "score": "96"
+      },
+      {
+        "name": "Robert Morris Colonials",
+        "score": "73"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "70799ceb1b980098e5f8d4be19e13c45",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T20:02:17Z",
+    "completed": true,
+    "home_team": "Western Kentucky Hilltoppers",
+    "away_team": "Louisiana Tech Bulldogs",
+    "scores": [
+      {
+        "name": "Western Kentucky Hilltoppers",
+        "score": "66"
+      },
+      {
+        "name": "Louisiana Tech Bulldogs",
+        "score": "61"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "0bf1488b44ebc03661fe1a2d14c4ae81",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T20:02:44Z",
+    "completed": true,
+    "home_team": "Missouri St Bears",
+    "away_team": "New Mexico St Aggies",
+    "scores": [
+      {
+        "name": "Missouri St Bears",
+        "score": "89"
+      },
+      {
+        "name": "New Mexico St Aggies",
+        "score": "82"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "ebefbed41e2382e95bf28908c1a55395",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T20:07:34Z",
+    "completed": true,
+    "home_team": "Drake Bulldogs",
+    "away_team": "Indiana St Sycamores",
+    "scores": [
+      {
+        "name": "Drake Bulldogs",
+        "score": "74"
+      },
+      {
+        "name": "Indiana St Sycamores",
+        "score": "72"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "d8d4a8675785095127a715aff904bc29",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:18Z",
+    "completed": true,
+    "home_team": "Florida Int'l Golden Panthers",
+    "away_team": "UTEP Miners",
+    "scores": [
+      {
+        "name": "Florida Int'l Golden Panthers",
+        "score": "76"
+      },
+      {
+        "name": "UTEP Miners",
+        "score": "64"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "7967e4bf8a69c405dae2c19fafad39da",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:19Z",
+    "completed": true,
+    "home_team": "Evansville Purple Aces",
+    "away_team": "Northern Iowa Panthers",
+    "scores": [
+      {
+        "name": "Evansville Purple Aces",
+        "score": "48"
+      },
+      {
+        "name": "Northern Iowa Panthers",
+        "score": "62"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "86e22445f21b1382a6ed1ab0adc908ca",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:26Z",
+    "completed": true,
+    "home_team": "Northern Kentucky Norse",
+    "away_team": "Youngstown St Penguins",
+    "scores": [
+      {
+        "name": "Northern Kentucky Norse",
+        "score": "94"
+      },
+      {
+        "name": "Youngstown St Penguins",
+        "score": "79"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "978e8cc5c5e00895f39671ab83207e0c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:41Z",
+    "completed": false,
+    "home_team": "North Texas Mean Green",
+    "away_team": "Tulsa Golden Hurricane",
+    "scores": [
+      {
+        "name": "North Texas Mean Green",
+        "score": "69"
+      },
+      {
+        "name": "Tulsa Golden Hurricane",
+        "score": "67"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "abc64073efec343059057878d2e4b17c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:05:00Z",
+    "completed": false,
+    "home_team": "Belmont Bruins",
+    "away_team": "Southern Illinois Salukis",
+    "scores": [
+      {
+        "name": "Belmont Bruins",
+        "score": "22"
+      },
+      {
+        "name": "Southern Illinois Salukis",
+        "score": "26"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "f4fadac53aa0a93321fafe4e8e3a167c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:07:00Z",
+    "completed": false,
+    "home_team": "Murray St Racers",
+    "away_team": "Bradley Braves",
+    "scores": [
+      {
+        "name": "Murray St Racers",
+        "score": "50"
+      },
+      {
+        "name": "Bradley Braves",
+        "score": "32"
+      }
+    ],
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "a23acde025fe8ced9cf8293f5ce5c28c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "Pacific Tigers",
+    "away_team": "Pepperdine Waves",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "43c969ee85b4eb0826e028d73380ccfe",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "San Francisco Dons",
+    "away_team": "Portland Pilots",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "21f68b14344b13e5243b5bc283109157",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "completed": false,
+    "home_team": "Santa Clara Broncos",
+    "away_team": "San Diego Toreros",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "b67d8c7b2c4fc69b35c6042148e74111",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:30:00Z",
+    "completed": false,
+    "home_team": "Washington St Cougars",
+    "away_team": "Oregon St Beavers",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "0492ef4ede80dcc76d7732762527226a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Washington Huskies",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "b6bfc643d7bd18f239377411a34d2596",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "completed": false,
+    "home_team": "Saint Mary's Gaels",
+    "away_team": "Seattle Redhawks",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  },
+  {
+    "id": "848999e09117b96aade9deb7d95a420b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T02:00:00Z",
+    "completed": false,
+    "home_team": "Gonzaga Bulldogs",
+    "away_team": "Loyola Marymount Lions",
+    "scores": null,
+    "last_update": "2026-01-04T23:11:03Z"
+  }
+]

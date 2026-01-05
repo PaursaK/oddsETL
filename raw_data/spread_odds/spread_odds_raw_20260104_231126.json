@@ -1,0 +1,1539 @@
+[
+  {
+    "id": "d4675c9f1cfcd20cf9b1d9365d76498f",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-09T19:30:00Z",
+    "home_team": "Eintracht Frankfurt",
+    "away_team": "Borussia Dortmund",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -122,
+                "point": -0.25
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 102,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -121,
+                "point": -0.25
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 101,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -121,
+                "point": -0.25
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 101,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b8f9ad43df5e196ff495e727278f2d0e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "1. FC Heidenheim",
+    "away_team": "1. FC Köln",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -122,
+                "point": 0.25
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 102,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -121,
+                "point": 0.25
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 101,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -121,
+                "point": 0.25
+              },
+              {
+                "name": "1. FC Köln",
+                "price": 101,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:11:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:14Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": 125,
+                "point": 0.0
+              },
+              {
+                "name": "1. FC Köln",
+                "price": -145,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "89477275520541dc360c144b21984d12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "FC St. Pauli",
+    "away_team": "RB Leipzig",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -110,
+                "point": 0.5
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -110,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -111,
+                "point": 0.5
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -109,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -111,
+                "point": 0.5
+              },
+              {
+                "name": "RB Leipzig",
+                "price": -109,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c9d652b759ac3be46550709fa7b7055e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Union Berlin",
+    "away_team": "FSV Mainz 05",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 102,
+                "point": 0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -122,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 102,
+                "point": 0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -122,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "FSV Mainz 05",
+                "price": 102,
+                "point": 0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -122,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1bb8919c9b52a970dc7fa1cbd394cfe1",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "SC Freiburg",
+    "away_team": "Hamburger SV",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Hamburger SV",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ffbb747d1852f1c638ef4b248edec557",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Werder Bremen",
+    "away_team": "TSG Hoffenheim",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 102,
+                "point": -0.25
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -122,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 107,
+                "point": -0.25
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -127,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": 107,
+                "point": -0.25
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -127,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:11:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:14Z",
+            "outcomes": [
+              {
+                "name": "TSG Hoffenheim",
+                "price": -145,
+                "point": 0.0
+              },
+              {
+                "name": "Werder Bremen",
+                "price": 125,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fdaabc51d35000ac2c9c867a7a2d3b5d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "VfB Stuttgart",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -108,
+                "point": -0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -112,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -106,
+                "point": -0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -114,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -106,
+                "point": -0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -114,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:11:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:14Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": -110,
+                "point": -0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -110,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cdfb82b9061320bd6a62a98be790b34a",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T14:30:00Z",
+    "home_team": "Borussia Monchengladbach",
+    "away_team": "Augsburg",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": -115,
+                "point": 0.5
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": -118,
+                "point": 0.5
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -102,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": -118,
+                "point": 0.5
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -102,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:11:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:14Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": -115,
+                "point": 0.5
+              },
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3c7382bf19aacbed0fa1ea5c53769be4",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T16:30:00Z",
+    "home_team": "Bayern Munich",
+    "away_team": "VfL Wolfsburg",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -111,
+                "point": -2.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -109,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -111,
+                "point": -2.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -109,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:11:14Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:14Z",
+            "outcomes": [
+              {
+                "name": "Bayern Munich",
+                "price": -110,
+                "point": -2.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3937edff29d08a26dccdd8abb5030d89",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T17:30:00Z",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Eintracht Frankfurt",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 104,
+                "point": 0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -124,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 104,
+                "point": 0.5
+              },
+              {
+                "name": "VfB Stuttgart",
+                "price": -124,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c5bb74a25b74b505afda307b2c243469",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "FSV Mainz 05",
+    "away_team": "1. FC Heidenheim",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -110,
+                "point": 0.75
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -110,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -108,
+                "point": 0.75
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -112,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Heidenheim",
+                "price": -108,
+                "point": 0.75
+              },
+              {
+                "name": "FSV Mainz 05",
+                "price": -112,
+                "point": -0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3a298098241a4bfbf4eda0929537f063",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Hamburger SV",
+    "away_team": "Bayer Leverkusen",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 105,
+                "point": -0.5
+              },
+              {
+                "name": "Hamburger SV",
+                "price": -125,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 102,
+                "point": -0.5
+              },
+              {
+                "name": "Hamburger SV",
+                "price": -122,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Bayer Leverkusen",
+                "price": 102,
+                "point": -0.5
+              },
+              {
+                "name": "Hamburger SV",
+                "price": -122,
+                "point": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a97c467e9ff379af06f972ec25ddc407",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Borussia Dortmund",
+    "away_team": "Werder Bremen",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": 100,
+                "point": -1.5
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -120,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -104,
+                "point": -1.5
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -116,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Dortmund",
+                "price": -104,
+                "point": -1.5
+              },
+              {
+                "name": "Werder Bremen",
+                "price": -116,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "147176b65eecb7ca66d162dd93c39e12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T17:30:00Z",
+    "home_team": "VfL Wolfsburg",
+    "away_team": "FC St. Pauli",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -105,
+                "point": 0.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -115,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -104,
+                "point": 0.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -116,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "FC St. Pauli",
+                "price": -104,
+                "point": 0.5
+              },
+              {
+                "name": "VfL Wolfsburg",
+                "price": -116,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4881e0d69bec69bababecaa1e98b5dad",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "1. FC Köln",
+    "away_team": "Bayern Munich",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": -108,
+                "point": 1.75
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -112,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": -111,
+                "point": 1.75
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -109,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "1. FC Köln",
+                "price": -111,
+                "point": 1.75
+              },
+              {
+                "name": "Bayern Munich",
+                "price": -109,
+                "point": -1.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "61e314c2c7412ea1f19409f119f1e29d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "TSG Hoffenheim",
+    "away_team": "Borussia Monchengladbach",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -105,
+                "point": 0.5
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -115,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -104,
+                "point": 0.5
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -116,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Borussia Monchengladbach",
+                "price": -104,
+                "point": 0.5
+              },
+              {
+                "name": "TSG Hoffenheim",
+                "price": -116,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "51b47d6f758ef44421a635cfe2bd27da",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "RB Leipzig",
+    "away_team": "SC Freiburg",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "RB Leipzig",
+                "price": 102,
+                "point": -0.75
+              },
+              {
+                "name": "SC Freiburg",
+                "price": -122,
+                "point": 0.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dd9ffe0d93fe6332658ea6eba405e5e8",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-15T19:30:00Z",
+    "home_team": "Augsburg",
+    "away_team": "Union Berlin",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 108,
+                "point": -0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -128,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:48Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 106,
+                "point": -0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -126,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:11:01Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:11:01Z",
+            "outcomes": [
+              {
+                "name": "Augsburg",
+                "price": 106,
+                "point": -0.25
+              },
+              {
+                "name": "Union Berlin",
+                "price": -126,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

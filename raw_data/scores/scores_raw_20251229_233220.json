@@ -1,0 +1,13 @@
+[
+  {
+    "id": "70a4be80a3d808e9d070d82b2de22d3c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-30T01:10:00Z",
+    "completed": false,
+    "home_team": "San Antonio Spurs",
+    "away_team": "Cleveland Cavaliers",
+    "scores": null,
+    "last_update": null
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "bb59e483696f64601c76f17a8bf4dc97",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-01T17:30:00Z",
+    "completed": true,
+    "home_team": "Liverpool",
+    "away_team": "Leeds United",
+    "scores": [
+      {
+        "name": "Leeds United",
+        "score": "0"
+      },
+      {
+        "name": "Liverpool",
+        "score": "0"
+      }
+    ],
+    "last_update": "2026-01-02T03:25:17Z"
+  },
+  {
+    "id": "7abc36182b313c505fcdb6e1bd124ced",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-01T17:31:00Z",
+    "completed": true,
+    "home_team": "Crystal Palace",
+    "away_team": "Fulham",
+    "scores": [
+      {
+        "name": "Fulham",
+        "score": "1"
+      },
+      {
+        "name": "Crystal Palace",
+        "score": "1"
+      }
+    ],
+    "last_update": "2026-01-02T03:25:17Z"
+  },
+  {
+    "id": "85b782095a211e2b622f5f9a4d7c4eab",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-01T20:00:00Z",
+    "completed": true,
+    "home_team": "Brentford",
+    "away_team": "Tottenham Hotspur",
+    "scores": [
+      {
+        "name": "Tottenham Hotspur",
+        "score": "0"
+      },
+      {
+        "name": "Brentford",
+        "score": "0"
+      }
+    ],
+    "last_update": "2026-01-02T03:25:17Z"
+  },
+  {
+    "id": "4ba999c8e49f3425a61c9ba2058e45d8",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-01T20:00:00Z",
+    "completed": true,
+    "home_team": "Sunderland",
+    "away_team": "Manchester City",
+    "scores": [
+      {
+        "name": "Manchester City",
+        "score": "0"
+      },
+      {
+        "name": "Sunderland",
+        "score": "0"
+      }
+    ],
+    "last_update": "2026-01-02T03:25:17Z"
+  },
+  {
+    "id": "a40e631c634842e80f05ef44c374c45d",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-03T12:30:00Z",
+    "completed": true,
+    "home_team": "Aston Villa",
+    "away_team": "Nottingham Forest",
+    "scores": [
+      {
+        "name": "Nottingham Forest",
+        "score": "1"
+      },
+      {
+        "name": "Aston Villa",
+        "score": "3"
+      }
+    ],
+    "last_update": "2026-01-03T21:13:08Z"
+  },
+  {
+    "id": "77e2a1a9c947b7a77dcd8bfd70e3c4af",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-03T15:00:00Z",
+    "completed": true,
+    "home_team": "Brighton and Hove Albion",
+    "away_team": "Burnley",
+    "scores": [
+      {
+        "name": "Burnley",
+        "score": "0"
+      },
+      {
+        "name": "Brighton and Hove Albion",
+        "score": "2"
+      }
+    ],
+    "last_update": "2026-01-03T21:13:08Z"
+  },
+  {
+    "id": "17636c8f4de22b85b819971461b91013",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-03T15:00:00Z",
+    "completed": true,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "West Ham United",
+    "scores": [
+      {
+        "name": "West Ham United",
+        "score": "0"
+      },
+      {
+        "name": "Wolverhampton Wanderers",
+        "score": "3"
+      }
+    ],
+    "last_update": "2026-01-03T21:13:08Z"
+  },
+  {
+    "id": "fafed94acfa689bc28911f792f4f2969",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-03T17:30:00Z",
+    "completed": true,
+    "home_team": "Bournemouth",
+    "away_team": "Arsenal",
+    "scores": [
+      {
+        "name": "Arsenal",
+        "score": "3"
+      },
+      {
+        "name": "Bournemouth",
+        "score": "2"
+      }
+    ],
+    "last_update": "2026-01-03T21:13:08Z"
+  },
+  {
+    "id": "765de6e3204e70fb923dec0163cf513a",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T12:30:00Z",
+    "completed": false,
+    "home_team": "Leeds United",
+    "away_team": "Manchester United",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  },
+  {
+    "id": "b82564b1b4c38fbfa3d5a23213c33a0b",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "completed": false,
+    "home_team": "Everton",
+    "away_team": "Brentford",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  },
+  {
+    "id": "33e174d56928e320b3fdbac2510a1003",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "completed": false,
+    "home_team": "Newcastle United",
+    "away_team": "Crystal Palace",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  },
+  {
+    "id": "2cc637ccc2afe9fe4d335a36e9f3b284",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "completed": false,
+    "home_team": "Fulham",
+    "away_team": "Liverpool",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  },
+  {
+    "id": "88e36c01b6995b8ce39bde84a2f90fff",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "completed": false,
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Sunderland",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  },
+  {
+    "id": "3df0c39ee041a9f6aa78fa66ed05b38f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "completed": false,
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "scores": null,
+    "last_update": "2026-01-03T12:31:31Z"
+  }
+]

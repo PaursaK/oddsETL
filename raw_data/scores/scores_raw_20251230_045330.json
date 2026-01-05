@@ -1,0 +1,328 @@
+[
+  {
+    "id": "e2fc9dc3d8e8843558714718fb506809",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T03:00:00Z",
+    "completed": false,
+    "home_team": "Auburn Tigers",
+    "away_team": "Queens University Royals",
+    "scores": [
+      {
+        "name": "Auburn Tigers",
+        "score": "95"
+      },
+      {
+        "name": "Queens University Royals",
+        "score": "58"
+      }
+    ],
+    "last_update": "2025-12-30T04:53:28Z"
+  },
+  {
+    "id": "1590f7a83f760a9fbbbc1dfb72a49e9b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T04:10:03Z",
+    "completed": false,
+    "home_team": "Washington Huskies",
+    "away_team": "Utah Utes",
+    "scores": [
+      {
+        "name": "Washington Huskies",
+        "score": "34"
+      },
+      {
+        "name": "Utah Utes",
+        "score": "36"
+      }
+    ],
+    "last_update": "2025-12-30T04:53:28Z"
+  },
+  {
+    "id": "11f249a37c582f3954c01f392ffc53bc",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T20:00:00Z",
+    "completed": false,
+    "home_team": "Central Michigan Chippewas",
+    "away_team": "Ohio Bobcats",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ce08bcd11b13e014db95980f103654ab",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T21:00:00Z",
+    "completed": false,
+    "home_team": "Air Force Falcons",
+    "away_team": "Wyoming Cowboys",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "0b6db8dfea9cbf934dd1546b2b54752c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T23:00:00Z",
+    "completed": false,
+    "home_team": "The Citadel Bulldogs",
+    "away_team": "East Tennessee St Buccaneers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ec570957764b7c8be9aea9d77fe2f658",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-30T23:30:00Z",
+    "completed": false,
+    "home_team": "Toledo Rockets",
+    "away_team": "Western Michigan Broncos",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "2d2181267b0321ca06a96aa49ab5f58c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Bowling Green Falcons",
+    "away_team": "Miami (OH) RedHawks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "c0b6e14085e7e3f459e566e22858c4f7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Charlotte 49ers",
+    "away_team": "Temple Owls",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "d5e774798e28f17f153fbc43352c4001",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Davidson Wildcats",
+    "away_team": "Duquesne Dukes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "95630b352573eab5a7cad917cc9d930e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "North Carolina Tar Heels",
+    "away_team": "Florida St Seminoles",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "071c3dd1c2bd9e92a6b27602f683704d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Marquette Golden Eagles",
+    "away_team": "Seton Hall Pirates",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "55d86f709f217d486954985fbcd0e30b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Miami Hurricanes",
+    "away_team": "Pittsburgh Panthers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "754c5dea3a0ec212b94b0db06dbd4e87",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:00:00Z",
+    "completed": false,
+    "home_team": "Wisconsin Badgers",
+    "away_team": "Milwaukee Panthers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "1503d6b383af350f728c2f16f8c73b86",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T00:30:00Z",
+    "completed": false,
+    "home_team": "Eastern Michigan Eagles",
+    "away_team": "Massachusetts Minutemen",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "550bd9f2ee315237b88921c3c3548b30",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T01:30:00Z",
+    "completed": false,
+    "home_team": "Tennessee Tech Golden Eagles",
+    "away_team": "Tennessee St Tigers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "eade6e24501de36f3117f74d9a3f9480",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "Creighton Bluejays",
+    "away_team": "Butler Bulldogs",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f9e419c93ba5daa9b39f2651b732009f",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "California Golden Bears",
+    "away_team": "Louisville Cardinals",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b3690adfa9d9246dfc87e9269b93f34d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "Colorado St Rams",
+    "away_team": "Nevada Wolf Pack",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "d9a19c07bfd63c1d31ca93c22bac9a53",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "Fresno St Bulldogs",
+    "away_team": "Utah State Aggies",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "3c294a030f08eabd427672a7131b7179",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "Stanford Cardinal",
+    "away_team": "Notre Dame Fighting Irish",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "29fe9bff796f9f54eb1f83d0e468ebf8",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:00:00Z",
+    "completed": false,
+    "home_team": "Pepperdine Waves",
+    "away_team": "Saint Mary's Gaels",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "f6fd27e3a3eaaeb7e157848a4eaa4b1e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T02:30:00Z",
+    "completed": false,
+    "home_team": "San Diego Toreros",
+    "away_team": "Gonzaga Bulldogs",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b063602c0775740442ea9993d49c5a59",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T03:00:00Z",
+    "completed": false,
+    "home_team": "Loyola Marymount Lions",
+    "away_team": "Pacific Tigers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "2ec1821ab9a2c74ea4f046e3523bd01a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T03:00:00Z",
+    "completed": false,
+    "home_team": "Oregon St Beavers",
+    "away_team": "San Francisco Dons",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "794895ddfbd438baca0626aa24c7dd7e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T03:00:00Z",
+    "completed": false,
+    "home_team": "Portland Pilots",
+    "away_team": "Santa Clara Broncos",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "102671e5d33777780d1e15b1ef4403a0",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T03:00:00Z",
+    "completed": false,
+    "home_team": "San José St Spartans",
+    "away_team": "San Diego St Aztecs",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "243efc5a643b63ba2542958aa310d13b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T03:00:00Z",
+    "completed": false,
+    "home_team": "Seattle Redhawks",
+    "away_team": "Washington St Cougars",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ae4e1fd173d7643bf07431c1aeba51fa",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T04:00:00Z",
+    "completed": false,
+    "home_team": "Boise State Broncos",
+    "away_team": "New Mexico Lobos",
+    "scores": null,
+    "last_update": null
+  }
+]

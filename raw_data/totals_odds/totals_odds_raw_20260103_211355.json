@@ -1,0 +1,538 @@
+[
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 57.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 57.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 57.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 57.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 57.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 57.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 56.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 56.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 56.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 56.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 52.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 52.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 51.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 51.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 52.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 52.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 52.0
+              },
+              {
+                "name": "Under",
+                "price": -109,
+                "point": 52.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 51.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 51.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 52.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 52.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:12:48Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 52.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 52.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:23Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 52.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 52.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 47.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 47.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 46.5
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 46.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -114,
+                "point": 46.5
+              },
+              {
+                "name": "Under",
+                "price": -103,
+                "point": 46.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 46.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 46.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 47.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 47.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:23Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:23Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 47.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 47.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 46.5
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 46.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 47.0
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 47.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:12:48Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2026-01-03T21:12:48Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -115,
+                "point": 47.0
+              },
+              {
+                "name": "Under",
+                "price": -105,
+                "point": 47.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

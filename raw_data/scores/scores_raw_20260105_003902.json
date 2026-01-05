@@ -1,0 +1,179 @@
+[
+  {
+    "id": "7203b3b2119a74b5e3506cbba10db3ef",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T01:11:00Z",
+    "completed": true,
+    "home_team": "Georgia Bulldogs",
+    "away_team": "Ole Miss Rebels",
+    "scores": [
+      {
+        "name": "Georgia Bulldogs",
+        "score": "34"
+      },
+      {
+        "name": "Ole Miss Rebels",
+        "score": "39"
+      }
+    ],
+    "last_update": "2026-01-03T10:29:24Z"
+  },
+  {
+    "id": "930671ccd2f2eb35afc046e27c999b03",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T18:03:18Z",
+    "completed": true,
+    "home_team": "Texas State Bobcats",
+    "away_team": "Rice Owls",
+    "scores": [
+      {
+        "name": "Texas State Bobcats",
+        "score": "41"
+      },
+      {
+        "name": "Rice Owls",
+        "score": "10"
+      }
+    ],
+    "last_update": "2026-01-03T10:29:24Z"
+  },
+  {
+    "id": "5bb624eddcdb91f1604d15e869b67fe6",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-02T21:38:55Z",
+    "completed": true,
+    "home_team": "Cincinnati Bearcats",
+    "away_team": "Navy Midshipmen",
+    "scores": [
+      {
+        "name": "Cincinnati Bearcats",
+        "score": "13"
+      },
+      {
+        "name": "Navy Midshipmen",
+        "score": "35"
+      }
+    ],
+    "last_update": "2026-01-03T10:29:24Z"
+  },
+  {
+    "id": "485c875626910603ddd6d457d9f97e43",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-03T01:05:20Z",
+    "completed": true,
+    "home_team": "SMU Mustangs",
+    "away_team": "Arizona Wildcats",
+    "scores": [
+      {
+        "name": "SMU Mustangs",
+        "score": "24"
+      },
+      {
+        "name": "Arizona Wildcats",
+        "score": "19"
+      }
+    ],
+    "last_update": "2026-01-03T10:29:24Z"
+  },
+  {
+    "id": "bd6818aa5f43e7496cc108c90adf335d",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-03T01:11:08Z",
+    "completed": true,
+    "home_team": "Mississippi State Bulldogs",
+    "away_team": "Wake Forest Demon Deacons",
+    "scores": [
+      {
+        "name": "Mississippi State Bulldogs",
+        "score": "29"
+      },
+      {
+        "name": "Wake Forest Demon Deacons",
+        "score": "43"
+      }
+    ],
+    "last_update": "2026-01-03T10:29:24Z"
+  },
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "completed": false,
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "completed": false,
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b9d4c49ff5254d29e970cbb40bb6b2ea",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Miami Hurricanes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "23a8a77339e637f439bd73791b4e22af",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Ole Miss Rebels",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ecf29901db3fe15c0e5eae32f0390c51",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "completed": false,
+    "home_team": "Oregon Ducks",
+    "away_team": "Miami Hurricanes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "6af6623a038f6add7f026fc913e24356",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "completed": false,
+    "home_team": "Oregon Ducks",
+    "away_team": "Ole Miss Rebels",
+    "scores": null,
+    "last_update": null
+  }
+]

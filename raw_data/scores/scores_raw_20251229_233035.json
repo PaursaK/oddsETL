@@ -1,0 +1,212 @@
+[
+  {
+    "id": "165e61e1090ba87ea4f25df528ab0752",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2025-12-28T11:30:00Z",
+    "completed": true,
+    "home_team": "AC Milan",
+    "away_team": "Hellas Verona",
+    "scores": [
+      {
+        "name": "AC Milan",
+        "score": "3"
+      },
+      {
+        "name": "Hellas Verona",
+        "score": "0"
+      }
+    ],
+    "last_update": "2025-12-29T19:56:15Z"
+  },
+  {
+    "id": "7983d49e7e5d485fbb9d78d1cbb7ccfc",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2025-12-28T14:00:00Z",
+    "completed": true,
+    "home_team": "Cremonese",
+    "away_team": "Napoli",
+    "scores": [
+      {
+        "name": "Cremonese",
+        "score": "0"
+      },
+      {
+        "name": "Napoli",
+        "score": "2"
+      }
+    ],
+    "last_update": "2025-12-29T19:56:15Z"
+  },
+  {
+    "id": "fc0ddc4a4702d0342a950f604fe78724",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2025-12-28T17:01:00Z",
+    "completed": true,
+    "home_team": "Bologna",
+    "away_team": "Sassuolo",
+    "scores": [
+      {
+        "name": "Bologna",
+        "score": "1"
+      },
+      {
+        "name": "Sassuolo",
+        "score": "1"
+      }
+    ],
+    "last_update": "2025-12-29T19:56:15Z"
+  },
+  {
+    "id": "6c0da471fd8f605e4f8dfe4a78f5d3fa",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2025-12-28T19:45:00Z",
+    "completed": true,
+    "home_team": "Atalanta BC",
+    "away_team": "Inter Milan",
+    "scores": [
+      {
+        "name": "Atalanta BC",
+        "score": "0"
+      },
+      {
+        "name": "Inter Milan",
+        "score": "1"
+      }
+    ],
+    "last_update": "2025-12-29T19:56:15Z"
+  },
+  {
+    "id": "942486f31d318619301607694540dd1f",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2025-12-29T19:45:00Z",
+    "completed": true,
+    "home_team": "AS Roma",
+    "away_team": "Genoa",
+    "scores": [
+      {
+        "name": "Genoa",
+        "score": "1"
+      },
+      {
+        "name": "AS Roma",
+        "score": "3"
+      }
+    ],
+    "last_update": "2025-12-29T23:30:29Z"
+  },
+  {
+    "id": "c4a6fcc303c95fbd25352b5df36a283a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-02T19:45:00Z",
+    "completed": false,
+    "home_team": "Cagliari",
+    "away_team": "AC Milan",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "1910284c44dd8157621a1fdb5f9ddb38",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T11:30:00Z",
+    "completed": false,
+    "home_team": "Como",
+    "away_team": "Udinese",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "616bf5829bd49ea9c3150596515369ad",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T14:00:00Z",
+    "completed": false,
+    "home_team": "Genoa",
+    "away_team": "Pisa",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "204633cbc6f1aad036913e7380f74702",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T14:00:00Z",
+    "completed": false,
+    "home_team": "Sassuolo",
+    "away_team": "Parma",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "07d992fc9817e0b8bd4d3a90709abae4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T17:00:00Z",
+    "completed": false,
+    "home_team": "Juventus",
+    "away_team": "Lecce",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "880d8a227739e3348f6fffe775054852",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T19:45:00Z",
+    "completed": false,
+    "home_team": "Atalanta BC",
+    "away_team": "AS Roma",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "e9eff9b9406b79de7d2fc06a6eb1bf4f",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T11:30:00Z",
+    "completed": false,
+    "home_team": "Lazio",
+    "away_team": "Napoli",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "fbcdf6d351b7db4c595b9f58def36613",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T14:00:00Z",
+    "completed": false,
+    "home_team": "Fiorentina",
+    "away_team": "Cremonese",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "502d5b37d57fbde9e6f098fe40550262",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T17:00:00Z",
+    "completed": false,
+    "home_team": "Hellas Verona",
+    "away_team": "Torino",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "8b034e2eba4bb0170b1579ffcb2f0e65",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T19:45:00Z",
+    "completed": false,
+    "home_team": "Inter Milan",
+    "away_team": "Bologna",
+    "scores": null,
+    "last_update": null
+  }
+]

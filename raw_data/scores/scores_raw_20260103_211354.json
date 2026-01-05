@@ -1,0 +1,35 @@
+[
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "completed": false,
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "completed": false,
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "completed": false,
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks",
+    "scores": null,
+    "last_update": null
+  }
+]

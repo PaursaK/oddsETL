@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "c4a6fcc303c95fbd25352b5df36a283a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-02T19:45:00Z",
+    "home_team": "Cagliari",
+    "away_team": "AC Milan",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1910284c44dd8157621a1fdb5f9ddb38",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T11:30:00Z",
+    "home_team": "Como",
+    "away_team": "Udinese",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -116,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -116,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -137,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "616bf5829bd49ea9c3150596515369ad",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T14:00:00Z",
+    "home_team": "Genoa",
+    "away_team": "Pisa",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 140,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -200,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -116,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -104,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -210,
+                "point": 1.5
+              },
+              {
+                "name": "Under",
+                "price": 155,
+                "point": 1.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "204633cbc6f1aad036913e7380f74702",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T14:00:00Z",
+    "home_team": "Sassuolo",
+    "away_team": "Parma",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -145,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -118,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -106,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -127,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 117,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -137,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "07d992fc9817e0b8bd4d3a90709abae4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T17:00:00Z",
+    "home_team": "Juventus",
+    "away_team": "Lecce",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -108,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "880d8a227739e3348f6fffe775054852",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T19:45:00Z",
+    "home_team": "Atalanta BC",
+    "away_team": "AS Roma",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -140,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 108,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -143,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -122,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 102,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e9eff9b9406b79de7d2fc06a6eb1bf4f",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T11:30:00Z",
+    "home_team": "Lazio",
+    "away_team": "Napoli",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 145,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -200,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 155,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -205,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fbcdf6d351b7db4c595b9f58def36613",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T14:00:00Z",
+    "home_team": "Fiorentina",
+    "away_team": "Cremonese",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -135,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 106,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -141,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "502d5b37d57fbde9e6f098fe40550262",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T17:00:00Z",
+    "home_team": "Hellas Verona",
+    "away_team": "Torino",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -124,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 104,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -124,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 104,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 138,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -200,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 148,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -200,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 2.0
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 2.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8b034e2eba4bb0170b1579ffcb2f0e65",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T19:45:00Z",
+    "home_team": "Inter Milan",
+    "away_team": "Bologna",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -107,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": -113,
+                "point": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-31T02:49:38Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:38Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -140,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -141,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 107,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2025-12-31T02:48:45Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:45Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -108,
+                "point": 2.75
+              },
+              {
+                "name": "Under",
+                "price": -112,
+                "point": 2.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3ef452727d1dbb6295a27d1b76eab880",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T14:00:00Z",
+    "home_team": "Pisa",
+    "away_team": "Como",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -125,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 105,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 108,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -143,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9314be4eb0a4f1a1094d4d19ce6f3658",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T17:00:00Z",
+    "home_team": "Lecce",
+    "away_team": "AS Roma",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 135,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -182,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a344837a502a1079b9b86ef01cefd1c3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T19:45:00Z",
+    "home_team": "Sassuolo",
+    "away_team": "Juventus",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -115,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -102,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -118,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -129,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bb851b5abe60d9906ee775bd4f682ace",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Bologna",
+    "away_team": "Atalanta BC",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -112,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d7c371529e9be91f6d5cc1d2bc73d0a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Napoli",
+    "away_team": "Hellas Verona",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -123,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 103,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -120,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": 100,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 102,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -136,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1911775aa84bf778126a7a6a1c61a188",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Lazio",
+    "away_team": "Fiorentina",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -113,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -107,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 110,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -143,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "494261cb09d86dfd909684a93847faf3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Parma",
+    "away_team": "Inter Milan",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 102,
+                "point": 3.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -175,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": 128,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 102,
+                "point": 3.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 102,
+                "point": 3.0
+              },
+              {
+                "name": "Under",
+                "price": -122,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "103fb449c751da1dea5d42fc8a45b94d",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Torino",
+    "away_team": "Udinese",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 100,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -120,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 132,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -177,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "49de426e3e52510371c75329757210a4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T17:30:00Z",
+    "home_team": "Cremonese",
+    "away_team": "Cagliari",
+    "bookmakers": [
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -109,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -111,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": -110,
+                "point": 2.25
+              },
+              {
+                "name": "Under",
+                "price": -110,
+                "point": 2.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 118,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -159,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52353b6172b3b45e014a449098fea935",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T19:45:00Z",
+    "home_team": "AC Milan",
+    "away_team": "Genoa",
+    "bookmakers": [
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2025-12-31T02:49:27Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:27Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -124,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -124,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-31T02:48:57Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:48:57Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 105,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -125,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-31T02:49:39Z",
+        "markets": [
+          {
+            "key": "totals",
+            "last_update": "2025-12-31T02:49:39Z",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 104,
+                "point": 2.5
+              },
+              {
+                "name": "Under",
+                "price": -137,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

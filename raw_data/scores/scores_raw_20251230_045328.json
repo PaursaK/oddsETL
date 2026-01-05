@@ -1,0 +1,22 @@
+[
+  {
+    "id": "afc40574e2fee874a032127e20c2dd0e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-30T03:49:00Z",
+    "completed": false,
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Dallas Mavericks",
+    "scores": [
+      {
+        "name": "Portland Trail Blazers",
+        "score": "75"
+      },
+      {
+        "name": "Dallas Mavericks",
+        "score": "63"
+      }
+    ],
+    "last_update": "2025-12-30T04:53:18Z"
+  }
+]

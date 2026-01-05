@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "2f4cf01e2db22ed928eb8f0357a74007",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Arizona Cardinals",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:44Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -188,
+                "point": 10.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": 145,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -105,
+                "point": 6.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -125,
+                "point": -6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": 120,
+                "point": 9.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -160,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": 125,
+                "point": 9.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -165,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": 121,
+                "point": 9.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -160,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -117,
+                "point": 10.0
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -121,
+                "point": -10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -180,
+                "point": 10.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": 130,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Arizona Cardinals",
+                "price": -105,
+                "point": 13.5
+              },
+              {
+                "name": "Los Angeles Rams",
+                "price": -115,
+                "point": -13.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1a5451b8f0d74f90937c52bec447dc40",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "home_team": "Chicago Bears",
+    "away_team": "Detroit Lions",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:44Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": 100,
+                "point": 2.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -130,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -110,
+                "point": 2.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -118,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -133,
+                "point": 5.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": 110,
+                "point": -5.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -112,
+                "point": 2.0
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -127,
+                "point": -2.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -125,
+                "point": 2.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -103,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -140,
+                "point": 2.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": 105,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Chicago Bears",
+                "price": 105,
+                "point": 2.5
+              },
+              {
+                "name": "Detroit Lions",
+                "price": -140,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b6eb23d78a4e1b3bf9946be7cfac0e6b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:25Z",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Washington Commanders",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -120,
+                "point": -3.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -118,
+                "point": -6.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": -105,
+                "point": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -170,
+                "point": -2.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": 133,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -170,
+                "point": -2.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": 130,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -174,
+                "point": -2.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": 130,
+                "point": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": 104,
+                "point": -3.0
+              },
+              {
+                "name": "Washington Commanders",
+                "price": -148,
+                "point": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Washington Commanders",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:48:20Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:20Z",
+            "outcomes": [
+              {
+                "name": "Philadelphia Eagles",
+                "price": -135,
+                "point": -3.5
+              },
+              {
+                "name": "Washington Commanders",
+                "price": 100,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "de4ae000f7f94eecf9d827eabff2991b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:26Z",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Kansas City Chiefs",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 130,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -166,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 124,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -166,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 165,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -222,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": -155,
+                "point": 3.0
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": 110,
+                "point": -3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 135,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -175,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 131,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -170,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": -110,
+                "point": -4.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -110,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Kansas City Chiefs",
+                "price": 130,
+                "point": 2.5
+              },
+              {
+                "name": "Las Vegas Raiders",
+                "price": -180,
+                "point": -2.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bd5134e8440a2b12cc8ac98ab4f18093",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:28Z",
+    "home_team": "Buffalo Bills",
+    "away_team": "New York Jets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": 154,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -200,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": -235,
+                "point": -34.5
+              },
+              {
+                "name": "New York Jets",
+                "price": 172,
+                "point": 34.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": -105,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -125,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": 160,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -210,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": 120,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -167,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": 138,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -179,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": -110,
+                "point": -8.0
+              },
+              {
+                "name": "New York Jets",
+                "price": -110,
+                "point": 8.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Buffalo Bills",
+                "price": 140,
+                "point": -35.5
+              },
+              {
+                "name": "New York Jets",
+                "price": -195,
+                "point": 35.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d242576b25f56b3f598044c9abfb4df0",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:35Z",
+    "home_team": "New England Patriots",
+    "away_team": "Miami Dolphins",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -135,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": 105,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -130,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": -102,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -121,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": -117,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -140,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": 105,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -127,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": 100,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -110,
+                "point": 11.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": -110,
+                "point": -11.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Miami Dolphins",
+                "price": -140,
+                "point": 28.5
+              },
+              {
+                "name": "New England Patriots",
+                "price": 105,
+                "point": -28.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "30621f6a1072712bee795c15eafe9768",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:37Z",
+    "home_team": "Denver Broncos",
+    "away_team": "Los Angeles Chargers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -135,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 105,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -114,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": -114,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -154,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 120,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -103,
+                "point": -13.0
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": -139,
+                "point": 13.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -132,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 103,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -150,
+                "point": -12.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 115,
+                "point": 12.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -110,
+                "point": -14.0
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": -110,
+                "point": 14.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Denver Broncos",
+                "price": -135,
+                "point": -11.5
+              },
+              {
+                "name": "Los Angeles Chargers",
+                "price": 100,
+                "point": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f609b38fe2bf0687644ad8603e28220b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-05T01:20:00Z",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Baltimore Ravens",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-04T23:48:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:45Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": 100,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:49:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:34Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-04T23:48:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:48:47Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-04T23:49:32Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:32Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-04T23:49:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:23Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -114,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -106,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-04T23:49:33Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:33Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -109,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-04T23:49:46Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:46Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:49:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:47Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -105,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-04T23:49:09Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:49:09Z",
+            "outcomes": [
+              {
+                "name": "Baltimore Ravens",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Pittsburgh Steelers",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

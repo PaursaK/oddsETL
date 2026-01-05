@@ -1,0 +1,3552 @@
+[
+  {
+    "id": "880d8a227739e3348f6fffe775054852",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-03T19:45:00Z",
+    "home_team": "Atalanta BC",
+    "away_team": "AS Roma",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 1900
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -425
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 2500
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -475
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 2000
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -450
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 2200
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -400
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 2000
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -400
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:28:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:35Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 2000
+              },
+              {
+                "name": "Atalanta BC",
+                "price": -425
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e9eff9b9406b79de7d2fc06a6eb1bf4f",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T11:30:00Z",
+    "home_team": "Lazio",
+    "away_team": "Napoli",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 260
+              },
+              {
+                "name": "Napoli",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 235
+              },
+              {
+                "name": "Napoli",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 250
+              },
+              {
+                "name": "Napoli",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 276
+              },
+              {
+                "name": "Napoli",
+                "price": 122
+              },
+              {
+                "name": "Draw",
+                "price": 213
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 276
+              },
+              {
+                "name": "Napoli",
+                "price": 122
+              },
+              {
+                "name": "Draw",
+                "price": 213
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 230
+              },
+              {
+                "name": "Napoli",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 240
+              },
+              {
+                "name": "Napoli",
+                "price": 134
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 255
+              },
+              {
+                "name": "Napoli",
+                "price": 123
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 250
+              },
+              {
+                "name": "Napoli",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:28:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:35Z",
+            "outcomes": [
+              {
+                "name": "Lazio",
+                "price": 240
+              },
+              {
+                "name": "Napoli",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fbcdf6d351b7db4c595b9f58def36613",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T14:00:00Z",
+    "home_team": "Fiorentina",
+    "away_team": "Cremonese",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 400
+              },
+              {
+                "name": "Fiorentina",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 400
+              },
+              {
+                "name": "Fiorentina",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 360
+              },
+              {
+                "name": "Fiorentina",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 404
+              },
+              {
+                "name": "Fiorentina",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 404
+              },
+              {
+                "name": "Fiorentina",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 360
+              },
+              {
+                "name": "Fiorentina",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 365
+              },
+              {
+                "name": "Fiorentina",
+                "price": -130
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 400
+              },
+              {
+                "name": "Fiorentina",
+                "price": -148
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 395
+              },
+              {
+                "name": "Fiorentina",
+                "price": -136
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:28:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:35Z",
+            "outcomes": [
+              {
+                "name": "Cremonese",
+                "price": 400
+              },
+              {
+                "name": "Fiorentina",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "502d5b37d57fbde9e6f098fe40550262",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T17:00:00Z",
+    "home_team": "Hellas Verona",
+    "away_team": "Torino",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 165
+              },
+              {
+                "name": "Torino",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 160
+              },
+              {
+                "name": "Torino",
+                "price": 180
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 165
+              },
+              {
+                "name": "Torino",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 174
+              },
+              {
+                "name": "Torino",
+                "price": 203
+              },
+              {
+                "name": "Draw",
+                "price": 194
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 174
+              },
+              {
+                "name": "Torino",
+                "price": 203
+              },
+              {
+                "name": "Draw",
+                "price": 194
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 160
+              },
+              {
+                "name": "Torino",
+                "price": 190
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 166
+              },
+              {
+                "name": "Torino",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 160
+              },
+              {
+                "name": "Torino",
+                "price": 185
+              },
+              {
+                "name": "Draw",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 170
+              },
+              {
+                "name": "Torino",
+                "price": 195
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:28:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:35Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 170
+              },
+              {
+                "name": "Torino",
+                "price": 190
+              },
+              {
+                "name": "Draw",
+                "price": 190
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8b034e2eba4bb0170b1579ffcb2f0e65",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-04T19:45:00Z",
+    "home_team": "Inter Milan",
+    "away_team": "Bologna",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 650
+              },
+              {
+                "name": "Inter Milan",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 600
+              },
+              {
+                "name": "Inter Milan",
+                "price": -265
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 650
+              },
+              {
+                "name": "Inter Milan",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 690
+              },
+              {
+                "name": "Inter Milan",
+                "price": -239
+              },
+              {
+                "name": "Draw",
+                "price": 390
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 690
+              },
+              {
+                "name": "Inter Milan",
+                "price": -239
+              },
+              {
+                "name": "Draw",
+                "price": 390
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 575
+              },
+              {
+                "name": "Inter Milan",
+                "price": -235
+              },
+              {
+                "name": "Draw",
+                "price": 375
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 675
+              },
+              {
+                "name": "Inter Milan",
+                "price": -265
+              },
+              {
+                "name": "Draw",
+                "price": 405
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 700
+              },
+              {
+                "name": "Inter Milan",
+                "price": -275
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 650
+              },
+              {
+                "name": "Inter Milan",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:28:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:35Z",
+            "outcomes": [
+              {
+                "name": "Bologna",
+                "price": 650
+              },
+              {
+                "name": "Inter Milan",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3ef452727d1dbb6295a27d1b76eab880",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T14:00:00Z",
+    "home_team": "Pisa",
+    "away_team": "Como",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -145
+              },
+              {
+                "name": "Pisa",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -130
+              },
+              {
+                "name": "Pisa",
+                "price": 375
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -136
+              },
+              {
+                "name": "Pisa",
+                "price": 399
+              },
+              {
+                "name": "Draw",
+                "price": 252
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -136
+              },
+              {
+                "name": "Pisa",
+                "price": 399
+              },
+              {
+                "name": "Draw",
+                "price": 252
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -135
+              },
+              {
+                "name": "Pisa",
+                "price": 405
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -140
+              },
+              {
+                "name": "Pisa",
+                "price": 380
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -143
+              },
+              {
+                "name": "Pisa",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -130
+              },
+              {
+                "name": "Pisa",
+                "price": 360
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": -135
+              },
+              {
+                "name": "Pisa",
+                "price": 405
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9314be4eb0a4f1a1094d4d19ce6f3658",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T17:00:00Z",
+    "home_team": "Lecce",
+    "away_team": "AS Roma",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -145
+              },
+              {
+                "name": "Lecce",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -140
+              },
+              {
+                "name": "Lecce",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -140
+              },
+              {
+                "name": "Lecce",
+                "price": 420
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -140
+              },
+              {
+                "name": "Lecce",
+                "price": 420
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -139
+              },
+              {
+                "name": "Lecce",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -145
+              },
+              {
+                "name": "Lecce",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -150
+              },
+              {
+                "name": "Lecce",
+                "price": 460
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -135
+              },
+              {
+                "name": "Lecce",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": -134
+              },
+              {
+                "name": "Lecce",
+                "price": 415
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a344837a502a1079b9b86ef01cefd1c3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T19:45:00Z",
+    "home_team": "Sassuolo",
+    "away_team": "Juventus",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -140
+              },
+              {
+                "name": "Sassuolo",
+                "price": 360
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -135
+              },
+              {
+                "name": "Sassuolo",
+                "price": 375
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -137
+              },
+              {
+                "name": "Sassuolo",
+                "price": 365
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -137
+              },
+              {
+                "name": "Sassuolo",
+                "price": 365
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -131
+              },
+              {
+                "name": "Sassuolo",
+                "price": 365
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -135
+              },
+              {
+                "name": "Sassuolo",
+                "price": 340
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -143
+              },
+              {
+                "name": "Sassuolo",
+                "price": 380
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -135
+              },
+              {
+                "name": "Sassuolo",
+                "price": 350
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Juventus",
+                "price": -131
+              },
+              {
+                "name": "Sassuolo",
+                "price": 365
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bb851b5abe60d9906ee775bd4f682ace",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Bologna",
+    "away_team": "Atalanta BC",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:44Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 155
+              },
+              {
+                "name": "Bologna",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 160
+              },
+              {
+                "name": "Bologna",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 154
+              },
+              {
+                "name": "Bologna",
+                "price": 169
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 150
+              },
+              {
+                "name": "Bologna",
+                "price": 155
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 160
+              },
+              {
+                "name": "Bologna",
+                "price": 160
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 148
+              },
+              {
+                "name": "Bologna",
+                "price": 172
+              },
+              {
+                "name": "Draw",
+                "price": 247
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 148
+              },
+              {
+                "name": "Bologna",
+                "price": 172
+              },
+              {
+                "name": "Draw",
+                "price": 247
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 155
+              },
+              {
+                "name": "Bologna",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 154
+              },
+              {
+                "name": "Bologna",
+                "price": 169
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d7c371529e9be91f6d5cc1d2bc73d0a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Napoli",
+    "away_team": "Hellas Verona",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 700
+              },
+              {
+                "name": "Napoli",
+                "price": -270
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 700
+              },
+              {
+                "name": "Napoli",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 640
+              },
+              {
+                "name": "Napoli",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 355
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 640
+              },
+              {
+                "name": "Napoli",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 355
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 650
+              },
+              {
+                "name": "Napoli",
+                "price": -235
+              },
+              {
+                "name": "Draw",
+                "price": 355
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 600
+              },
+              {
+                "name": "Napoli",
+                "price": -245
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 800
+              },
+              {
+                "name": "Napoli",
+                "price": -278
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 675
+              },
+              {
+                "name": "Napoli",
+                "price": -225
+              },
+              {
+                "name": "Draw",
+                "price": 333
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Hellas Verona",
+                "price": 650
+              },
+              {
+                "name": "Napoli",
+                "price": -240
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1911775aa84bf778126a7a6a1c61a188",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Lazio",
+    "away_team": "Fiorentina",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 250
+              },
+              {
+                "name": "Lazio",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 250
+              },
+              {
+                "name": "Lazio",
+                "price": 110
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 264
+              },
+              {
+                "name": "Lazio",
+                "price": 113
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 264
+              },
+              {
+                "name": "Lazio",
+                "price": 113
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 270
+              },
+              {
+                "name": "Lazio",
+                "price": 113
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 245
+              },
+              {
+                "name": "Lazio",
+                "price": 105
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 255
+              },
+              {
+                "name": "Lazio",
+                "price": 106
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 240
+              },
+              {
+                "name": "Lazio",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Fiorentina",
+                "price": 270
+              },
+              {
+                "name": "Lazio",
+                "price": 113
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "494261cb09d86dfd909684a93847faf3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Parma",
+    "away_team": "Inter Milan",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -310
+              },
+              {
+                "name": "Parma",
+                "price": 700
+              },
+              {
+                "name": "Draw",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -250
+              },
+              {
+                "name": "Parma",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -270
+              },
+              {
+                "name": "Parma",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 420
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -260
+              },
+              {
+                "name": "Parma",
+                "price": 550
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -265
+              },
+              {
+                "name": "Parma",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -260
+              },
+              {
+                "name": "Parma",
+                "price": 630
+              },
+              {
+                "name": "Draw",
+                "price": 397
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -260
+              },
+              {
+                "name": "Parma",
+                "price": 630
+              },
+              {
+                "name": "Draw",
+                "price": 397
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -250
+              },
+              {
+                "name": "Parma",
+                "price": 625
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": -245
+              },
+              {
+                "name": "Parma",
+                "price": 625
+              },
+              {
+                "name": "Draw",
+                "price": 390
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "103fb449c751da1dea5d42fc8a45b94d",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Torino",
+    "away_team": "Udinese",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 130
+              },
+              {
+                "name": "Udinese",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 135
+              },
+              {
+                "name": "Udinese",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 127
+              },
+              {
+                "name": "Udinese",
+                "price": 269
+              },
+              {
+                "name": "Draw",
+                "price": 187
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 127
+              },
+              {
+                "name": "Udinese",
+                "price": 269
+              },
+              {
+                "name": "Draw",
+                "price": 187
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 137
+              },
+              {
+                "name": "Udinese",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 193
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 125
+              },
+              {
+                "name": "Udinese",
+                "price": 235
+              },
+              {
+                "name": "Draw",
+                "price": 185
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 117
+              },
+              {
+                "name": "Udinese",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 125
+              },
+              {
+                "name": "Udinese",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Torino",
+                "price": 137
+              },
+              {
+                "name": "Udinese",
+                "price": 245
+              },
+              {
+                "name": "Draw",
+                "price": 193
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "49de426e3e52510371c75329757210a4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T17:30:00Z",
+    "home_team": "Cremonese",
+    "away_team": "Cagliari",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 230
+              },
+              {
+                "name": "Cremonese",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 230
+              },
+              {
+                "name": "Cremonese",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 232
+              },
+              {
+                "name": "Cremonese",
+                "price": 123
+              },
+              {
+                "name": "Draw",
+                "price": 222
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 232
+              },
+              {
+                "name": "Cremonese",
+                "price": 123
+              },
+              {
+                "name": "Draw",
+                "price": 222
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 235
+              },
+              {
+                "name": "Cremonese",
+                "price": 124
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 220
+              },
+              {
+                "name": "Cremonese",
+                "price": 115
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 230
+              },
+              {
+                "name": "Cremonese",
+                "price": 120
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 230
+              },
+              {
+                "name": "Cremonese",
+                "price": 125
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "Cagliari",
+                "price": 225
+              },
+              {
+                "name": "Cremonese",
+                "price": 131
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52353b6172b3b45e014a449098fea935",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T19:45:00Z",
+    "home_team": "AC Milan",
+    "away_team": "Genoa",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:45Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -270
+              },
+              {
+                "name": "Genoa",
+                "price": 700
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:34Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -240
+              },
+              {
+                "name": "Genoa",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:29:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:10Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -247
+              },
+              {
+                "name": "Genoa",
+                "price": 685
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:07Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:07Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -247
+              },
+              {
+                "name": "Genoa",
+                "price": 685
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:13Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -240
+              },
+              {
+                "name": "Genoa",
+                "price": 675
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:32Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -255
+              },
+              {
+                "name": "Genoa",
+                "price": 600
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:33Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -250
+              },
+              {
+                "name": "Genoa",
+                "price": 750
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:29:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:46Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -225
+              },
+              {
+                "name": "Genoa",
+                "price": 650
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:08Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": -244
+              },
+              {
+                "name": "Genoa",
+                "price": 693
+              },
+              {
+                "name": "Draw",
+                "price": 351
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "2f4cf01e2db22ed928eb8f0357a74007",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "home_team": "Los Angeles Rams",
+    "away_team": "Arizona Cardinals"
+  },
+  {
+    "id": "1a5451b8f0d74f90937c52bec447dc40",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "home_team": "Chicago Bears",
+    "away_team": "Detroit Lions"
+  },
+  {
+    "id": "b6eb23d78a4e1b3bf9946be7cfac0e6b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:25Z",
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Washington Commanders"
+  },
+  {
+    "id": "de4ae000f7f94eecf9d827eabff2991b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:26Z",
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Kansas City Chiefs"
+  },
+  {
+    "id": "bd5134e8440a2b12cc8ac98ab4f18093",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:28Z",
+    "home_team": "Buffalo Bills",
+    "away_team": "New York Jets"
+  },
+  {
+    "id": "d242576b25f56b3f598044c9abfb4df0",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:35Z",
+    "home_team": "New England Patriots",
+    "away_team": "Miami Dolphins"
+  },
+  {
+    "id": "30621f6a1072712bee795c15eafe9768",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:37Z",
+    "home_team": "Denver Broncos",
+    "away_team": "Los Angeles Chargers"
+  },
+  {
+    "id": "f609b38fe2bf0687644ad8603e28220b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-05T01:20:00Z",
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Baltimore Ravens"
+  },
+  {
+    "id": "0eceedf0cb9a125174e2637be71b5b5e",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-06T20:00:00Z",
+    "home_team": "West Ham United",
+    "away_team": "Nottingham Forest"
+  },
+  {
+    "id": "0046d433de17c04fda742abb44115cc5",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa"
+  },
+  {
+    "id": "ee1c8cb920aaccb5b8633c1439a80c9f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Bournemouth",
+    "away_team": "Tottenham Hotspur"
+  },
+  {
+    "id": "7aad89e786152573dbae24579424d5a4",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Brentford",
+    "away_team": "Sunderland"
+  },
+  {
+    "id": "414d33bfae971dcca5cc1dc88cf3d39e",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Manchester City",
+    "away_team": "Brighton and Hove Albion"
+  },
+  {
+    "id": "defce9389e30580564673598c7dfe2bd",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Fulham",
+    "away_team": "Chelsea"
+  },
+  {
+    "id": "fe8ff2153a8750e71031c5d1926733b6",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Everton",
+    "away_team": "Wolverhampton Wanderers"
+  },
+  {
+    "id": "aa95c1a94f6a92f52335db7a98f008e5",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T20:15:00Z",
+    "home_team": "Burnley",
+    "away_team": "Manchester United"
+  },
+  {
+    "id": "0296fdce51c7a30498c51a7d11a920f9",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T20:15:00Z",
+    "home_team": "Newcastle United",
+    "away_team": "Leeds United"
+  },
+  {
+    "id": "a6c0bc6a4f6e057c0775ee57f36ed679",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-08T20:00:00Z",
+    "home_team": "Arsenal",
+    "away_team": "Liverpool"
+  },
+  {
+    "id": "3fd1e970c718bfc0f99a7e4575e46f49",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T12:30:00Z",
+    "home_team": "Manchester United",
+    "away_team": "Manchester City"
+  },
+  {
+    "id": "876bd00ab1c4cff1c6635a8ac7f93d75",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Chelsea",
+    "away_team": "Brentford"
+  },
+  {
+    "id": "80cf233ec08173f3d8cf4645b687589d",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Liverpool",
+    "away_team": "Burnley"
+  },
+  {
+    "id": "aa16a48d5e016963e076f7f5ecfc2f68",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Sunderland",
+    "away_team": "Crystal Palace"
+  },
+  {
+    "id": "86609aa022312a15ec01d5bc0c172dbc",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Leeds United",
+    "away_team": "Fulham"
+  },
+  {
+    "id": "47e36aed7df3160f584a73fbd1fd0830",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Tottenham Hotspur",
+    "away_team": "West Ham United"
+  },
+  {
+    "id": "b145d15344a4fca80d42b39faa58a050",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T17:30:00Z",
+    "home_team": "Nottingham Forest",
+    "away_team": "Arsenal"
+  },
+  {
+    "id": "e15eb2362921b16a6b6a0397ce607a11",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-18T14:00:00Z",
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Newcastle United"
+  },
+  {
+    "id": "80b312e80c4c6e8f267a99606665ac8c",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-18T16:30:00Z",
+    "home_team": "Aston Villa",
+    "away_team": "Everton"
+  },
+  {
+    "id": "342788786c22e570ed2da53a9608113f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-19T20:00:00Z",
+    "home_team": "Brighton and Hove Albion",
+    "away_team": "Bournemouth"
+  },
+  {
+    "id": "202bec44cb17b3fe31e1d47a35bb4311",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:10:00Z",
+    "home_team": "Washington Wizards",
+    "away_team": "Minnesota Timberwolves"
+  },
+  {
+    "id": "e565e947367f2a97276b2b942efec009",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T23:13:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "New Orleans Pelicans"
+  },
+  {
+    "id": "608ad59d278d1266aefcb70a1e1bcfea",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T01:10:00Z",
+    "home_team": "Phoenix Suns",
+    "away_team": "Oklahoma City Thunder"
+  },
+  {
+    "id": "649a52d549fd66b3f04c0eb6a5bceea0",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:10:00Z",
+    "home_team": "Sacramento Kings",
+    "away_team": "Milwaukee Bucks"
+  },
+  {
+    "id": "85525b53f1abd7179f60a447bad2579b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-05T02:40:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Memphis Grizzlies"
+  },
+  {
+    "id": "86e22445f21b1382a6ed1ab0adc908ca",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:26Z",
+    "home_team": "Northern Kentucky Norse",
+    "away_team": "Youngstown St Penguins"
+  },
+  {
+    "id": "978e8cc5c5e00895f39671ab83207e0c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:02:41Z",
+    "home_team": "North Texas Mean Green",
+    "away_team": "Tulsa Golden Hurricane"
+  },
+  {
+    "id": "83c4ca9b8f5a4c82887add5bf0510a01",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T21:03:23Z",
+    "home_team": "St. Francis (PA) Red Flash",
+    "away_team": "Fairleigh Dickinson Knights"
+  },
+  {
+    "id": "abc64073efec343059057878d2e4b17c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:05:00Z",
+    "home_team": "Belmont Bruins",
+    "away_team": "Southern Illinois Salukis"
+  },
+  {
+    "id": "f4fadac53aa0a93321fafe4e8e3a167c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-04T22:07:00Z",
+    "home_team": "Murray St Racers",
+    "away_team": "Bradley Braves"
+  },
+  {
+    "id": "a23acde025fe8ced9cf8293f5ce5c28c",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "home_team": "Pacific Tigers",
+    "away_team": "Pepperdine Waves"
+  },
+  {
+    "id": "43c969ee85b4eb0826e028d73380ccfe",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "home_team": "San Francisco Dons",
+    "away_team": "Portland Pilots"
+  },
+  {
+    "id": "21f68b14344b13e5243b5bc283109157",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:00:00Z",
+    "home_team": "Santa Clara Broncos",
+    "away_team": "San Diego Toreros"
+  },
+  {
+    "id": "b67d8c7b2c4fc69b35c6042148e74111",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T00:30:00Z",
+    "home_team": "Washington St Cougars",
+    "away_team": "Oregon St Beavers"
+  },
+  {
+    "id": "0492ef4ede80dcc76d7732762527226a",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Washington Huskies"
+  },
+  {
+    "id": "b6bfc643d7bd18f239377411a34d2596",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T01:00:00Z",
+    "home_team": "Saint Mary's Gaels",
+    "away_team": "Seattle Redhawks"
+  },
+  {
+    "id": "848999e09117b96aade9deb7d95a420b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T02:00:00Z",
+    "home_team": "Gonzaga Bulldogs",
+    "away_team": "Loyola Marymount Lions"
+  },
+  {
+    "id": "f2b81a5d915a2e46a5d9acfa2b2dbde4",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T22:00:00Z",
+    "home_team": "Cornell Big Red",
+    "away_team": "Columbia Lions"
+  },
+  {
+    "id": "9ab36d72278bdbbda627e8d8b25c38c5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T23:30:00Z",
+    "home_team": "Arkansas-Pine Bluff Golden Lions",
+    "away_team": "Alabama St Hornets"
+  },
+  {
+    "id": "dfb4201cacb016c40ebe45bc2998c2ac",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-05T23:30:23Z",
+    "home_team": "Ohio State Buckeyes",
+    "away_team": "Nebraska Cornhuskers"
+  },
+  {
+    "id": "16ff1cb4fca0f3948434c66deb14a906",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Brown Bears",
+    "away_team": "Yale Bulldogs"
+  },
+  {
+    "id": "1ceece750c7d7f879a521f8a072271a9",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Charleston Cougars",
+    "away_team": "William & Mary Tribe"
+  },
+  {
+    "id": "955a67941c3dad843ecc525c70205060",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Harvard Crimson",
+    "away_team": "Dartmouth Big Green"
+  },
+  {
+    "id": "b3923bd5fbc91b4c32557c77ccdcb1b7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Green Bay Phoenix",
+    "away_team": "Milwaukee Panthers"
+  },
+  {
+    "id": "c4edd83dd4ec467bcb6c829250ecf620",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "SE Louisiana Lions",
+    "away_team": "Lamar Cardinals"
+  },
+  {
+    "id": "3ba4bc74fa6c54be35fb1a3ddb4b868e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Rutgers Scarlet Knights",
+    "away_team": "Oregon Ducks"
+  },
+  {
+    "id": "5cf11cbc5b77d58ef3ad4e6089a19377",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Princeton Tigers",
+    "away_team": "Pennsylvania Quakers"
+  },
+  {
+    "id": "0e2307755cf1242c4596871c8965279b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:00:00Z",
+    "home_team": "Southern Jaguars",
+    "away_team": "Prairie View Panthers"
+  },
+  {
+    "id": "b5cb554c821156ebe1553b06af87e250",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Grambling St Tigers",
+    "away_team": "Texas Southern Tigers"
+  },
+  {
+    "id": "2b65e6db3073e9fb59a8693c8c92244d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "UT Rio Grande Valley Vaqueros",
+    "away_team": "Incarnate Word Cardinals"
+  },
+  {
+    "id": "2ef6071212e6be9357bea5c386946ff1",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "McNeese Cowboys",
+    "away_team": "Stephen F. Austin Lumberjacks"
+  },
+  {
+    "id": "c97ee405e02f09116fa108615005b29e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Nicholls St Colonels",
+    "away_team": "Northwestern St Demons"
+  },
+  {
+    "id": "174052b1708a2765b1a4a0f1a3a1b5ea",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "Miss Valley St Delta Devils",
+    "away_team": "Alabama A&M Bulldogs"
+  },
+  {
+    "id": "1249723cc4eb70b2e564146177e44c2d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "New Orleans Privateers",
+    "away_team": "East Texas A&M Lions"
+  },
+  {
+    "id": "e1405c0269b8be5430d28a8405bd338e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:00:00Z",
+    "home_team": "Houston Christian Huskies",
+    "away_team": "Texas A&M-CC Islanders"
+  },
+  {
+    "id": "95c4fa67fab50d74ee59ff1b20831e1f",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-06T01:30:11Z",
+    "home_team": "Michigan St Spartans",
+    "away_team": "USC Trojans"
+  },
+  {
+    "id": "d4675c9f1cfcd20cf9b1d9365d76498f",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-09T19:30:00Z",
+    "home_team": "Eintracht Frankfurt",
+    "away_team": "Borussia Dortmund"
+  },
+  {
+    "id": "b8f9ad43df5e196ff495e727278f2d0e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "1. FC Heidenheim",
+    "away_team": "1. FC Köln"
+  },
+  {
+    "id": "89477275520541dc360c144b21984d12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "FC St. Pauli",
+    "away_team": "RB Leipzig"
+  },
+  {
+    "id": "c9d652b759ac3be46550709fa7b7055e",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Union Berlin",
+    "away_team": "FSV Mainz 05"
+  },
+  {
+    "id": "1bb8919c9b52a970dc7fa1cbd394cfe1",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "SC Freiburg",
+    "away_team": "Hamburger SV"
+  },
+  {
+    "id": "ffbb747d1852f1c638ef4b248edec557",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T14:30:00Z",
+    "home_team": "Werder Bremen",
+    "away_team": "TSG Hoffenheim"
+  },
+  {
+    "id": "fdaabc51d35000ac2c9c867a7a2d3b5d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Bayer Leverkusen",
+    "away_team": "VfB Stuttgart"
+  },
+  {
+    "id": "cdfb82b9061320bd6a62a98be790b34a",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T14:30:00Z",
+    "home_team": "Borussia Monchengladbach",
+    "away_team": "Augsburg"
+  },
+  {
+    "id": "3c7382bf19aacbed0fa1ea5c53769be4",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-11T16:30:00Z",
+    "home_team": "Bayern Munich",
+    "away_team": "VfL Wolfsburg"
+  },
+  {
+    "id": "3937edff29d08a26dccdd8abb5030d89",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T17:30:00Z",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Eintracht Frankfurt"
+  },
+  {
+    "id": "c5bb74a25b74b505afda307b2c243469",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "FSV Mainz 05",
+    "away_team": "1. FC Heidenheim"
+  },
+  {
+    "id": "3a298098241a4bfbf4eda0929537f063",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Hamburger SV",
+    "away_team": "Bayer Leverkusen"
+  },
+  {
+    "id": "a97c467e9ff379af06f972ec25ddc407",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-13T19:30:00Z",
+    "home_team": "Borussia Dortmund",
+    "away_team": "Werder Bremen"
+  },
+  {
+    "id": "147176b65eecb7ca66d162dd93c39e12",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T17:30:00Z",
+    "home_team": "VfL Wolfsburg",
+    "away_team": "FC St. Pauli"
+  },
+  {
+    "id": "4881e0d69bec69bababecaa1e98b5dad",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "1. FC Köln",
+    "away_team": "Bayern Munich"
+  },
+  {
+    "id": "61e314c2c7412ea1f19409f119f1e29d",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "TSG Hoffenheim",
+    "away_team": "Borussia Monchengladbach"
+  },
+  {
+    "id": "51b47d6f758ef44421a635cfe2bd27da",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-14T19:30:00Z",
+    "home_team": "RB Leipzig",
+    "away_team": "SC Freiburg"
+  },
+  {
+    "id": "dd9ffe0d93fe6332658ea6eba405e5e8",
+    "sport_key": "soccer_germany_bundesliga",
+    "sport_title": "Bundesliga - Germany",
+    "commence_time": "2026-01-15T19:30:00Z",
+    "home_team": "Augsburg",
+    "away_team": "Union Berlin"
+  },
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds"
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes"
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks"
+  },
+  {
+    "id": "b9d4c49ff5254d29e970cbb40bb6b2ea",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Miami Hurricanes"
+  },
+  {
+    "id": "23a8a77339e637f439bd73791b4e22af",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Ole Miss Rebels"
+  },
+  {
+    "id": "ecf29901db3fe15c0e5eae32f0390c51",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "home_team": "Oregon Ducks",
+    "away_team": "Miami Hurricanes"
+  },
+  {
+    "id": "6af6623a038f6add7f026fc913e24356",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-20T00:30:00Z",
+    "home_team": "Oregon Ducks",
+    "away_team": "Ole Miss Rebels"
+  },
+  {
+    "id": "6d0ae596c4bec15e99e4e791aeb8c503",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-09T20:00:00Z",
+    "home_team": "Getafe",
+    "away_team": "Real Sociedad"
+  },
+  {
+    "id": "ae717a6e4141ae3cc154c976538cc78a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T13:00:00Z",
+    "home_team": "Oviedo",
+    "away_team": "Real Betis"
+  },
+  {
+    "id": "33adb7f62df9e1843f4c64c960d9c895",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T15:15:00Z",
+    "home_team": "Villarreal",
+    "away_team": "Alavés"
+  },
+  {
+    "id": "e2fa0c69e407576a1beac74b13074ec2",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Girona",
+    "away_team": "CA Osasuna"
+  },
+  {
+    "id": "ac7fdf3f88257521894bf1895af2fc3e",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T20:00:00Z",
+    "home_team": "Valencia",
+    "away_team": "Elche CF"
+  },
+  {
+    "id": "8ecd2a8b4db1916e9aa1fff560810fa8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T13:00:00Z",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Mallorca"
+  },
+  {
+    "id": "cd15bfc6667962f56247207f3abd6291",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T15:15:00Z",
+    "home_team": "Levante",
+    "away_team": "Espanyol"
+  },
+  {
+    "id": "7cdfdb81a5bdb695c97d08daf34478b7",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Madrid"
+  },
+  {
+    "id": "95909c45c3ee5420fe50e8f035167bc9",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid"
+  },
+  {
+    "id": "30f6f08d42940047b836af2153d681bd",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-12T20:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Celta Vigo"
+  },
+  {
+    "id": "92d36e6b5b03266bf386354eb489ad97",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-16T20:00:00Z",
+    "home_team": "Espanyol",
+    "away_team": "Girona"
+  },
+  {
+    "id": "794960888cc173eb96cc55dad0dd8d2a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-17T13:00:00Z",
+    "home_team": "Real Madrid",
+    "away_team": "Levante"
+  },
+  {
+    "id": "81eeaa276b0f874eee70a3cc0e2c039a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-17T15:15:00Z",
+    "home_team": "Mallorca",
+    "away_team": "Athletic Bilbao"
+  },
+  {
+    "id": "a87f04984f0a2d9b361da24ff21178b8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-17T17:30:00Z",
+    "home_team": "CA Osasuna",
+    "away_team": "Oviedo"
+  },
+  {
+    "id": "42414e1da7f830259646d76907dd1269",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-17T20:00:00Z",
+    "home_team": "Real Betis",
+    "away_team": "Villarreal"
+  },
+  {
+    "id": "137fef737a82bc36ead5fb9442f68eaf",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-18T13:00:00Z",
+    "home_team": "Getafe",
+    "away_team": "Valencia"
+  },
+  {
+    "id": "5a54196ed79c9ce5e335d59a40e41a32",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-18T15:15:00Z",
+    "home_team": "Atlético Madrid",
+    "away_team": "Alavés"
+  },
+  {
+    "id": "691835b0e7a9385fccf0b29bd3492a08",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-18T17:30:00Z",
+    "home_team": "Celta Vigo",
+    "away_team": "Rayo Vallecano"
+  },
+  {
+    "id": "3d4889892d426e9a6f98f7ff0dd775b2",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-18T20:00:00Z",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona"
+  },
+  {
+    "id": "6076a8b61a97dd15f216e348fdba88b8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-19T20:00:00Z",
+    "home_team": "Elche CF",
+    "away_team": "Sevilla"
+  },
+  {
+    "id": "3ef452727d1dbb6295a27d1b76eab880",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T14:00:00Z",
+    "home_team": "Pisa",
+    "away_team": "Como"
+  },
+  {
+    "id": "9314be4eb0a4f1a1094d4d19ce6f3658",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T17:00:00Z",
+    "home_team": "Lecce",
+    "away_team": "AS Roma"
+  },
+  {
+    "id": "a344837a502a1079b9b86ef01cefd1c3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-06T19:45:00Z",
+    "home_team": "Sassuolo",
+    "away_team": "Juventus"
+  },
+  {
+    "id": "bb851b5abe60d9906ee775bd4f682ace",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Bologna",
+    "away_team": "Atalanta BC"
+  },
+  {
+    "id": "3d7c371529e9be91f6d5cc1d2bc73d0a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T17:30:00Z",
+    "home_team": "Napoli",
+    "away_team": "Hellas Verona"
+  },
+  {
+    "id": "1911775aa84bf778126a7a6a1c61a188",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Lazio",
+    "away_team": "Fiorentina"
+  },
+  {
+    "id": "494261cb09d86dfd909684a93847faf3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Parma",
+    "away_team": "Inter Milan"
+  },
+  {
+    "id": "103fb449c751da1dea5d42fc8a45b94d",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-07T19:45:00Z",
+    "home_team": "Torino",
+    "away_team": "Udinese"
+  },
+  {
+    "id": "49de426e3e52510371c75329757210a4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T17:30:00Z",
+    "home_team": "Cremonese",
+    "away_team": "Cagliari"
+  },
+  {
+    "id": "52353b6172b3b45e014a449098fea935",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-08T19:45:00Z",
+    "home_team": "AC Milan",
+    "away_team": "Genoa"
+  },
+  {
+    "id": "0b55d463b885859c77825781292237d2",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T14:00:00Z",
+    "home_team": "Como",
+    "away_team": "Bologna"
+  },
+  {
+    "id": "697869ca5876855cf7a185f7dad738ef",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T14:00:00Z",
+    "home_team": "Udinese",
+    "away_team": "Pisa"
+  },
+  {
+    "id": "8a8c6213efddb8a91e079cfbbe47813c",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T17:00:00Z",
+    "home_team": "AS Roma",
+    "away_team": "Sassuolo"
+  },
+  {
+    "id": "c886a9c8d2c702269e9f17b6d7469977",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-10T19:45:00Z",
+    "home_team": "Atalanta BC",
+    "away_team": "Torino"
+  },
+  {
+    "id": "d3b1c2fe05ddcffc704a6495d8268971",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T11:30:00Z",
+    "home_team": "Lecce",
+    "away_team": "Parma"
+  },
+  {
+    "id": "32a86b2b69ba8c8749861199a8fdc52a",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T14:00:00Z",
+    "home_team": "Fiorentina",
+    "away_team": "AC Milan"
+  },
+  {
+    "id": "5be8dbb3ee9d2c2d09a813a73fe73a34",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T17:00:00Z",
+    "home_team": "Hellas Verona",
+    "away_team": "Lazio"
+  },
+  {
+    "id": "36412b11274ae69ce0b6b60075df28b3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-11T19:45:00Z",
+    "home_team": "Inter Milan",
+    "away_team": "Napoli"
+  },
+  {
+    "id": "d66ea58ddb00d545b4d31988f2632b84",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-12T17:30:00Z",
+    "home_team": "Genoa",
+    "away_team": "Cagliari"
+  },
+  {
+    "id": "daa2bb9fe4c0697c33a13df8bdf388d2",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2026-01-12T19:45:00Z",
+    "home_team": "Juventus",
+    "away_team": "Cremonese"
+  },
+  {
+    "id": "8db02bc3086459d6f01e3fae5eebde04",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T18:00:00Z",
+    "home_team": "AS Monaco",
+    "away_team": "Lorient"
+  },
+  {
+    "id": "81c8d8f5a9c64d4f79302689372beb61",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T20:00:00Z",
+    "home_team": "Paris Saint Germain",
+    "away_team": "Lille"
+  },
+  {
+    "id": "7c31284c2c36f12fd3cdce8b23ac9ee2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T16:00:00Z",
+    "home_team": "RC Lens",
+    "away_team": "Auxerre"
+  },
+  {
+    "id": "540a9a67c337cf21bee313e260efaf69",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T18:00:00Z",
+    "home_team": "Toulouse",
+    "away_team": "Nice"
+  },
+  {
+    "id": "ffe24fdea2d5ad6483292eb749b97506",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T20:05:00Z",
+    "home_team": "Angers",
+    "away_team": "Marseille"
+  },
+  {
+    "id": "890935e813405256ab29af3d12eab246",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T14:00:00Z",
+    "home_team": "Strasbourg",
+    "away_team": "Metz"
+  },
+  {
+    "id": "70790674ffb1f584124b617bbb1f3dfa",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "home_team": "Rennes",
+    "away_team": "Le Havre"
+  },
+  {
+    "id": "0d51cc2b1f298a9974fc19f6c5692ad2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "home_team": "Nantes",
+    "away_team": "Paris FC"
+  },
+  {
+    "id": "b8268290e25d0cf4b9aa64b521c3ad5a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T19:45:00Z",
+    "home_team": "Lyon",
+    "away_team": "Brest"
+  },
+  {
+    "id": "5151344c7feddd635e13fe24d63bbddc",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-23T19:00:00Z",
+    "home_team": "Auxerre",
+    "away_team": "Paris Saint Germain"
+  },
+  {
+    "id": "f6c5f7f92c41d6c12e55870819dd419d",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T16:00:00Z",
+    "home_team": "Rennes",
+    "away_team": "Lorient"
+  },
+  {
+    "id": "70515793c70633c192edc4f52444db3b",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T18:00:00Z",
+    "home_team": "Le Havre",
+    "away_team": "AS Monaco"
+  },
+  {
+    "id": "98e55b8d48476f5c58e3e3e525907a7a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-24T20:05:00Z",
+    "home_team": "Marseille",
+    "away_team": "RC Lens"
+  },
+  {
+    "id": "798588eee18cc212f748c619f024a1d8",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T14:00:00Z",
+    "home_team": "Nantes",
+    "away_team": "Nice"
+  },
+  {
+    "id": "259ba4ae53e75f1718871fe49017d240",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Paris FC",
+    "away_team": "Angers"
+  },
+  {
+    "id": "4e68520a4a47d11007f23dc29f08eea4",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Brest",
+    "away_team": "Toulouse"
+  },
+  {
+    "id": "b12927a56bc19fb041ef8131b7610f23",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T16:15:00Z",
+    "home_team": "Metz",
+    "away_team": "Lyon"
+  },
+  {
+    "id": "87e6aa9bade1d15a02900e9dbd73d6d5",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-25T19:45:00Z",
+    "home_team": "Lille",
+    "away_team": "Strasbourg"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bf731d1bdca3b4b13794fb2cf636054d",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-03T22:10:00Z",
+    "completed": false,
+    "home_team": "Miami Heat",
+    "away_team": "Minnesota Timberwolves",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "37cc8f43c363f1d128d628902c096c2e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T00:40:00Z",
+    "completed": false,
+    "home_team": "Toronto Raptors",
+    "away_team": "Atlanta Hawks",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "a2d14bdf31312a6dc0ff70ca56894e69",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T00:40:00Z",
+    "completed": false,
+    "home_team": "New York Knicks",
+    "away_team": "Philadelphia 76ers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "fd9969a95c7308e171377cdc5445be4c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:10:00Z",
+    "completed": false,
+    "home_team": "Chicago Bulls",
+    "away_team": "Charlotte Hornets",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "4e5f1567c38f897e5cb4a4fa445d0f3c",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:10:00Z",
+    "completed": false,
+    "home_team": "San Antonio Spurs",
+    "away_team": "Portland Trail Blazers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "d35c2f55df0ee7e2b6ea6b57f58d50bf",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T01:40:00Z",
+    "completed": false,
+    "home_team": "Dallas Mavericks",
+    "away_team": "Houston Rockets",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "014f7ba8cfa9a886677dda52ff776544",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T03:10:00Z",
+    "completed": false,
+    "home_team": "Golden State Warriors",
+    "away_team": "Utah Jazz",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "951987d285edeebef57679583da56cba",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-01-04T03:40:00Z",
+    "completed": false,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Boston Celtics",
+    "scores": null,
+    "last_update": null
+  }
+]

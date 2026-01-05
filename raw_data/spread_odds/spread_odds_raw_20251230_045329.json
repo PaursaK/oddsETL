@@ -1,0 +1,196 @@
+[
+  {
+    "id": "afc40574e2fee874a032127e20c2dd0e",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-30T03:49:00Z",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2025-12-30T04:52:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:52:38Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -106,
+                "point": 8.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -125,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2025-12-30T04:53:02Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:53:02Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -115,
+                "point": 9.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -105,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2025-12-30T04:51:27Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:51:27Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -105,
+                "point": 9.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -118,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2025-12-30T04:53:02Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:53:02Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": 100,
+                "point": 8.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -130,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2025-12-30T04:51:44Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:51:44Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -125,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2025-12-30T04:53:24Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:53:24Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -117,
+                "point": 9.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -117,
+                "point": -9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2025-12-30T04:53:02Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:53:02Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -105,
+                "point": 8.5
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -125,
+                "point": -8.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2025-12-30T04:53:02Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2025-12-30T04:53:02Z",
+            "outcomes": [
+              {
+                "name": "Dallas Mavericks",
+                "price": -125,
+                "point": 8.0
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "price": -105,
+                "point": -8.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

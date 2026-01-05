@@ -1,0 +1,5137 @@
+[
+  {
+    "id": "765de6e3204e70fb923dec0163cf513a",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T12:30:00Z",
+    "home_team": "Leeds United",
+    "away_team": "Manchester United",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 155
+              },
+              {
+                "name": "Manchester United",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 152
+              },
+              {
+                "name": "Manchester United",
+                "price": 167
+              },
+              {
+                "name": "Draw",
+                "price": 236
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 150
+              },
+              {
+                "name": "Manchester United",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 155
+              },
+              {
+                "name": "Manchester United",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 155
+              },
+              {
+                "name": "Manchester United",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 157
+              },
+              {
+                "name": "Manchester United",
+                "price": 176
+              },
+              {
+                "name": "Draw",
+                "price": 252
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 157
+              },
+              {
+                "name": "Manchester United",
+                "price": 176
+              },
+              {
+                "name": "Draw",
+                "price": 252
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 151
+              },
+              {
+                "name": "Manchester United",
+                "price": 174
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 150
+              },
+              {
+                "name": "Manchester United",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 150
+              },
+              {
+                "name": "Manchester United",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 150
+              },
+              {
+                "name": "Manchester United",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b82564b1b4c38fbfa3d5a23213c33a0b",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "home_team": "Everton",
+    "away_team": "Brentford",
+    "bookmakers": [
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 216
+              },
+              {
+                "name": "Everton",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 212
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 230
+              },
+              {
+                "name": "Everton",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 220
+              },
+              {
+                "name": "Everton",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 225
+              },
+              {
+                "name": "Everton",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 230
+              },
+              {
+                "name": "Everton",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 238
+              },
+              {
+                "name": "Everton",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 219
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 238
+              },
+              {
+                "name": "Everton",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 219
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 225
+              },
+              {
+                "name": "Everton",
+                "price": 132
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 225
+              },
+              {
+                "name": "Everton",
+                "price": 135
+              },
+              {
+                "name": "Draw",
+                "price": 215
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 210
+              },
+              {
+                "name": "Everton",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 220
+              },
+              {
+                "name": "Everton",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33e174d56928e320b3fdbac2510a1003",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "home_team": "Newcastle United",
+    "away_team": "Crystal Palace",
+    "bookmakers": [
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 390
+              },
+              {
+                "name": "Newcastle United",
+                "price": -155
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 430
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 425
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 400
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 420
+              },
+              {
+                "name": "Newcastle United",
+                "price": -152
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 412
+              },
+              {
+                "name": "Newcastle United",
+                "price": -148
+              },
+              {
+                "name": "Draw",
+                "price": 312
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 412
+              },
+              {
+                "name": "Newcastle United",
+                "price": -148
+              },
+              {
+                "name": "Draw",
+                "price": 312
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 390
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 400
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 375
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 400
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2cc637ccc2afe9fe4d335a36e9f3b284",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "home_team": "Fulham",
+    "away_team": "Liverpool",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 280
+              },
+              {
+                "name": "Liverpool",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 275
+              },
+              {
+                "name": "Liverpool",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 260
+              },
+              {
+                "name": "Liverpool",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 285
+              },
+              {
+                "name": "Liverpool",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 285
+              },
+              {
+                "name": "Liverpool",
+                "price": -113
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 300
+              },
+              {
+                "name": "Liverpool",
+                "price": -107
+              },
+              {
+                "name": "Draw",
+                "price": 273
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 300
+              },
+              {
+                "name": "Liverpool",
+                "price": -107
+              },
+              {
+                "name": "Draw",
+                "price": 273
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 270
+              },
+              {
+                "name": "Liverpool",
+                "price": -108
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 290
+              },
+              {
+                "name": "Liverpool",
+                "price": -110
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 270
+              },
+              {
+                "name": "Liverpool",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 280
+              },
+              {
+                "name": "Liverpool",
+                "price": -105
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "88e36c01b6995b8ce39bde84a2f90fff",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T15:00:00Z",
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Sunderland",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 360
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 330
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -123
+              },
+              {
+                "name": "Draw",
+                "price": 248
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 350
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 340
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 370
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 364
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 272
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 364
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 272
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 345
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -122
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 335
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 274
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 333
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -120
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Sunderland",
+                "price": 360
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": -125
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3df0c39ee041a9f6aa78fa66ed05b38f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-04T17:30:00Z",
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "bookmakers": [
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 375
+              },
+              {
+                "name": "Manchester City",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 350
+              },
+              {
+                "name": "Manchester City",
+                "price": -161
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 400
+              },
+              {
+                "name": "Manchester City",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 380
+              },
+              {
+                "name": "Manchester City",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 380
+              },
+              {
+                "name": "Manchester City",
+                "price": -159
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 393
+              },
+              {
+                "name": "Manchester City",
+                "price": -155
+              },
+              {
+                "name": "Draw",
+                "price": 345
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 393
+              },
+              {
+                "name": "Manchester City",
+                "price": -155
+              },
+              {
+                "name": "Draw",
+                "price": 345
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 375
+              },
+              {
+                "name": "Manchester City",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 340
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 380
+              },
+              {
+                "name": "Manchester City",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 362
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 360
+              },
+              {
+                "name": "Manchester City",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:25:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:25:42Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 380
+              },
+              {
+                "name": "Manchester City",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0eceedf0cb9a125174e2637be71b5b5e",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-06T20:00:00Z",
+    "home_team": "West Ham United",
+    "away_team": "Nottingham Forest",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 125
+              },
+              {
+                "name": "West Ham United",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 122
+              },
+              {
+                "name": "West Ham United",
+                "price": 208
+              },
+              {
+                "name": "Draw",
+                "price": 238
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 130
+              },
+              {
+                "name": "West Ham United",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 128
+              },
+              {
+                "name": "West Ham United",
+                "price": 200
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 125
+              },
+              {
+                "name": "West Ham United",
+                "price": 212
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 130
+              },
+              {
+                "name": "West Ham United",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 128
+              },
+              {
+                "name": "West Ham United",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 253
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 128
+              },
+              {
+                "name": "West Ham United",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 253
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 125
+              },
+              {
+                "name": "West Ham United",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Nottingham Forest",
+                "price": 128
+              },
+              {
+                "name": "West Ham United",
+                "price": 215
+              },
+              {
+                "name": "Draw",
+                "price": 235
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0046d433de17c04fda742abb44115cc5",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 155
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 147
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 236
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 150
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 152
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 176
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 150
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 150
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 170
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 153
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 243
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 153
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 175
+              },
+              {
+                "name": "Draw",
+                "price": 243
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 155
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 165
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": 152
+              },
+              {
+                "name": "Crystal Palace",
+                "price": 176
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ee1c8cb920aaccb5b8633c1439a80c9f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Bournemouth",
+    "away_team": "Tottenham Hotspur",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 110
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 101
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 226
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": -107
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 255
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 236
+              },
+              {
+                "name": "Draw",
+                "price": 279
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 236
+              },
+              {
+                "name": "Draw",
+                "price": 279
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 110
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 105
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7aad89e786152573dbae24579424d5a4",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Brentford",
+    "away_team": "Sunderland",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -120
+              },
+              {
+                "name": "Sunderland",
+                "price": 320
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -115
+              },
+              {
+                "name": "Sunderland",
+                "price": 290
+              },
+              {
+                "name": "Draw",
+                "price": 246
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -110
+              },
+              {
+                "name": "Sunderland",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -110
+              },
+              {
+                "name": "Sunderland",
+                "price": 320
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -114
+              },
+              {
+                "name": "Sunderland",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -115
+              },
+              {
+                "name": "Sunderland",
+                "price": 310
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -112
+              },
+              {
+                "name": "Sunderland",
+                "price": 332
+              },
+              {
+                "name": "Draw",
+                "price": 243
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -112
+              },
+              {
+                "name": "Sunderland",
+                "price": 332
+              },
+              {
+                "name": "Draw",
+                "price": 243
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -110
+              },
+              {
+                "name": "Sunderland",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": -110
+              },
+              {
+                "name": "Sunderland",
+                "price": 320
+              },
+              {
+                "name": "Draw",
+                "price": 240
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "414d33bfae971dcca5cc1dc88cf3d39e",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Manchester City",
+    "away_team": "Brighton and Hove Albion",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 600
+              },
+              {
+                "name": "Manchester City",
+                "price": -270
+              },
+              {
+                "name": "Draw",
+                "price": 410
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 520
+              },
+              {
+                "name": "Manchester City",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 390
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 550
+              },
+              {
+                "name": "Manchester City",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 575
+              },
+              {
+                "name": "Manchester City",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 420
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 650
+              },
+              {
+                "name": "Manchester City",
+                "price": -265
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 550
+              },
+              {
+                "name": "Manchester City",
+                "price": -255
+              },
+              {
+                "name": "Draw",
+                "price": 425
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 575
+              },
+              {
+                "name": "Manchester City",
+                "price": -252
+              },
+              {
+                "name": "Draw",
+                "price": 435
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 575
+              },
+              {
+                "name": "Manchester City",
+                "price": -252
+              },
+              {
+                "name": "Draw",
+                "price": 435
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 525
+              },
+              {
+                "name": "Manchester City",
+                "price": -235
+              },
+              {
+                "name": "Draw",
+                "price": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 575
+              },
+              {
+                "name": "Manchester City",
+                "price": -250
+              },
+              {
+                "name": "Draw",
+                "price": 420
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "defce9389e30580564673598c7dfe2bd",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Fulham",
+    "away_team": "Chelsea",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 105
+              },
+              {
+                "name": "Fulham",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 105
+              },
+              {
+                "name": "Fulham",
+                "price": 228
+              },
+              {
+                "name": "Draw",
+                "price": 248
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 108
+              },
+              {
+                "name": "Fulham",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 235
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 242
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 242
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 230
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Chelsea",
+                "price": 110
+              },
+              {
+                "name": "Fulham",
+                "price": 240
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fe8ff2153a8750e71031c5d1926733b6",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T19:30:00Z",
+    "home_team": "Everton",
+    "away_team": "Wolverhampton Wanderers",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -140
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 360
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -133
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 350
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -135
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -128
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -139
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -135
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 255
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -130
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 395
+              },
+              {
+                "name": "Draw",
+                "price": 253
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -130
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 395
+              },
+              {
+                "name": "Draw",
+                "price": 253
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -135
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 360
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Everton",
+                "price": -128
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 245
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aa95c1a94f6a92f52335db7a98f008e5",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T20:15:00Z",
+    "home_team": "Burnley",
+    "away_team": "Manchester United",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 350
+              },
+              {
+                "name": "Manchester United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 330
+              },
+              {
+                "name": "Manchester United",
+                "price": -140
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 350
+              },
+              {
+                "name": "Manchester United",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 355
+              },
+              {
+                "name": "Manchester United",
+                "price": -136
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:05Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 375
+              },
+              {
+                "name": "Manchester United",
+                "price": -148
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 350
+              },
+              {
+                "name": "Manchester United",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 360
+              },
+              {
+                "name": "Manchester United",
+                "price": -136
+              },
+              {
+                "name": "Draw",
+                "price": 289
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 360
+              },
+              {
+                "name": "Manchester United",
+                "price": -136
+              },
+              {
+                "name": "Draw",
+                "price": 289
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 340
+              },
+              {
+                "name": "Manchester United",
+                "price": -135
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 355
+              },
+              {
+                "name": "Manchester United",
+                "price": -136
+              },
+              {
+                "name": "Draw",
+                "price": 285
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0296fdce51c7a30498c51a7d11a920f9",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-07T20:15:00Z",
+    "home_team": "Newcastle United",
+    "away_team": "Leeds United",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 410
+              },
+              {
+                "name": "Newcastle United",
+                "price": -165
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 370
+              },
+              {
+                "name": "Newcastle United",
+                "price": -150
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 425
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 260
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 400
+              },
+              {
+                "name": "Newcastle United",
+                "price": -142
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:06Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 420
+              },
+              {
+                "name": "Newcastle United",
+                "price": -157
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 390
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 420
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 420
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 375
+              },
+              {
+                "name": "Newcastle United",
+                "price": -145
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Leeds United",
+                "price": 400
+              },
+              {
+                "name": "Newcastle United",
+                "price": -142
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a6c0bc6a4f6e057c0775ee57f36ed679",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-08T20:00:00Z",
+    "home_team": "Arsenal",
+    "away_team": "Liverpool",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -170
+              },
+              {
+                "name": "Liverpool",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -170
+              },
+              {
+                "name": "Liverpool",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -166
+              },
+              {
+                "name": "Liverpool",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -158
+              },
+              {
+                "name": "Liverpool",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:29:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:06Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -162
+              },
+              {
+                "name": "Liverpool",
+                "price": 430
+              },
+              {
+                "name": "Draw",
+                "price": 295
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -165
+              },
+              {
+                "name": "Liverpool",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:29:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:31Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -164
+              },
+              {
+                "name": "Liverpool",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 327
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:28:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:38Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -164
+              },
+              {
+                "name": "Liverpool",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 327
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:27:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:27:34Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -160
+              },
+              {
+                "name": "Liverpool",
+                "price": 400
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:29:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:04Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -162
+              },
+              {
+                "name": "Liverpool",
+                "price": 415
+              },
+              {
+                "name": "Draw",
+                "price": 315
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3fd1e970c718bfc0f99a7e4575e46f49",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T12:30:00Z",
+    "home_team": "Manchester United",
+    "away_team": "Manchester City",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": -120
+              },
+              {
+                "name": "Manchester United",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": -123
+              },
+              {
+                "name": "Manchester United",
+                "price": 285
+              },
+              {
+                "name": "Draw",
+                "price": 275
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": -120
+              },
+              {
+                "name": "Manchester United",
+                "price": 300
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "876bd00ab1c4cff1c6635a8ac7f93d75",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Chelsea",
+    "away_team": "Brentford",
+    "bookmakers": [
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 430
+              },
+              {
+                "name": "Chelsea",
+                "price": -169
+              },
+              {
+                "name": "Draw",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 440
+              },
+              {
+                "name": "Chelsea",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Brentford",
+                "price": 425
+              },
+              {
+                "name": "Chelsea",
+                "price": -160
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "80cf233ec08173f3d8cf4645b687589d",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Liverpool",
+    "away_team": "Burnley",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 1300
+              },
+              {
+                "name": "Liverpool",
+                "price": -475
+              },
+              {
+                "name": "Draw",
+                "price": 550
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 1275
+              },
+              {
+                "name": "Liverpool",
+                "price": -490
+              },
+              {
+                "name": "Draw",
+                "price": 470
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Burnley",
+                "price": 1300
+              },
+              {
+                "name": "Liverpool",
+                "price": -450
+              },
+              {
+                "name": "Draw",
+                "price": 500
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aa16a48d5e016963e076f7f5ecfc2f68",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Sunderland",
+    "away_team": "Crystal Palace",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 140
+              },
+              {
+                "name": "Sunderland",
+                "price": 210
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 129
+              },
+              {
+                "name": "Sunderland",
+                "price": 218
+              },
+              {
+                "name": "Draw",
+                "price": 204
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Crystal Palace",
+                "price": 135
+              },
+              {
+                "name": "Sunderland",
+                "price": 220
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "86609aa022312a15ec01d5bc0c172dbc",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Leeds United",
+    "away_team": "Fulham",
+    "bookmakers": [
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 216
+              },
+              {
+                "name": "Leeds United",
+                "price": 127
+              },
+              {
+                "name": "Draw",
+                "price": 210
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 230
+              },
+              {
+                "name": "Leeds United",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Fulham",
+                "price": 230
+              },
+              {
+                "name": "Leeds United",
+                "price": 130
+              },
+              {
+                "name": "Draw",
+                "price": 220
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "47e36aed7df3160f584a73fbd1fd0830",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T15:00:00Z",
+    "home_team": "Tottenham Hotspur",
+    "away_team": "West Ham United",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Tottenham Hotspur",
+                "price": -200
+              },
+              {
+                "name": "West Ham United",
+                "price": 550
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Tottenham Hotspur",
+                "price": -198
+              },
+              {
+                "name": "West Ham United",
+                "price": 460
+              },
+              {
+                "name": "Draw",
+                "price": 320
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Tottenham Hotspur",
+                "price": -200
+              },
+              {
+                "name": "West Ham United",
+                "price": 500
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b145d15344a4fca80d42b39faa58a050",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-17T17:30:00Z",
+    "home_team": "Nottingham Forest",
+    "away_team": "Arsenal",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -190
+              },
+              {
+                "name": "Nottingham Forest",
+                "price": 550
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -194
+              },
+              {
+                "name": "Nottingham Forest",
+                "price": 480
+              },
+              {
+                "name": "Draw",
+                "price": 310
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": -200
+              },
+              {
+                "name": "Nottingham Forest",
+                "price": 550
+              },
+              {
+                "name": "Draw",
+                "price": 330
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e15eb2362921b16a6b6a0397ce607a11",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-18T14:00:00Z",
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Newcastle United",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Newcastle United",
+                "price": -155
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 410
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Newcastle United",
+                "price": -165
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 390
+              },
+              {
+                "name": "Draw",
+                "price": 290
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Newcastle United",
+                "price": -160
+              },
+              {
+                "name": "Wolverhampton Wanderers",
+                "price": 425
+              },
+              {
+                "name": "Draw",
+                "price": 300
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "80b312e80c4c6e8f267a99606665ac8c",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-18T16:30:00Z",
+    "home_team": "Aston Villa",
+    "away_team": "Everton",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": -120
+              },
+              {
+                "name": "Everton",
+                "price": 350
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": -126
+              },
+              {
+                "name": "Everton",
+                "price": 330
+              },
+              {
+                "name": "Draw",
+                "price": 246
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Aston Villa",
+                "price": -120
+              },
+              {
+                "name": "Everton",
+                "price": 350
+              },
+              {
+                "name": "Draw",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "342788786c22e570ed2da53a9608113f",
+    "sport_key": "soccer_epl",
+    "sport_title": "EPL",
+    "commence_time": "2026-01-19T20:00:00Z",
+    "home_team": "Brighton and Hove Albion",
+    "away_team": "Bournemouth",
+    "bookmakers": [
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2026-01-03T21:28:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:28:53Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 232
+              },
+              {
+                "name": "Brighton and Hove Albion",
+                "price": -101
+              },
+              {
+                "name": "Draw",
+                "price": 265
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:29:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-01-03T21:29:29Z",
+            "outcomes": [
+              {
+                "name": "Bournemouth",
+                "price": 240
+              },
+              {
+                "name": "Brighton and Hove Albion",
+                "price": 105
+              },
+              {
+                "name": "Draw",
+                "price": 270
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

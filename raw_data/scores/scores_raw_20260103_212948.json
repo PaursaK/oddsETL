@@ -1,0 +1,176 @@
+[
+  {
+    "id": "002dd130b61480a22861fa67dcbec408",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-03T20:05:00Z",
+    "completed": false,
+    "home_team": "Lille",
+    "away_team": "Rennes",
+    "scores": [
+      {
+        "name": "Rennes",
+        "score": "2"
+      },
+      {
+        "name": "Lille",
+        "score": "0"
+      }
+    ],
+    "last_update": "2026-01-03T21:29:33Z"
+  },
+  {
+    "id": "154535112b2bfc394f4e9eb3a36ddf90",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-04T14:00:00Z",
+    "completed": false,
+    "home_team": "Marseille",
+    "away_team": "Nantes",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "32000299c7428556982002f99e48c66a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-04T16:15:00Z",
+    "completed": false,
+    "home_team": "Le Havre",
+    "away_team": "Angers",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "aca3bd59cfaba5ec17559d10df8d9917",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-04T16:15:00Z",
+    "completed": false,
+    "home_team": "Brest",
+    "away_team": "Auxerre",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "55a5faa0107c5e1f842a7aaf57fd10b6",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-04T16:15:00Z",
+    "completed": false,
+    "home_team": "Lorient",
+    "away_team": "Metz",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "05dce73db8ddec80e833832df1425e57",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-04T19:45:00Z",
+    "completed": false,
+    "home_team": "Paris Saint Germain",
+    "away_team": "Paris FC",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "8db02bc3086459d6f01e3fae5eebde04",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T18:00:00Z",
+    "completed": false,
+    "home_team": "AS Monaco",
+    "away_team": "Lorient",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "81c8d8f5a9c64d4f79302689372beb61",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-16T20:00:00Z",
+    "completed": false,
+    "home_team": "Paris Saint Germain",
+    "away_team": "Lille",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "7c31284c2c36f12fd3cdce8b23ac9ee2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T16:00:00Z",
+    "completed": false,
+    "home_team": "RC Lens",
+    "away_team": "Auxerre",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "540a9a67c337cf21bee313e260efaf69",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T18:00:00Z",
+    "completed": false,
+    "home_team": "Toulouse",
+    "away_team": "Nice",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "ffe24fdea2d5ad6483292eb749b97506",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-17T20:05:00Z",
+    "completed": false,
+    "home_team": "Angers",
+    "away_team": "Marseille",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "890935e813405256ab29af3d12eab246",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T14:00:00Z",
+    "completed": false,
+    "home_team": "Strasbourg",
+    "away_team": "Metz",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "70790674ffb1f584124b617bbb1f3dfa",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "completed": false,
+    "home_team": "Rennes",
+    "away_team": "Le Havre",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "0d51cc2b1f298a9974fc19f6c5692ad2",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T16:15:00Z",
+    "completed": false,
+    "home_team": "Nantes",
+    "away_team": "Paris FC",
+    "scores": null,
+    "last_update": null
+  },
+  {
+    "id": "b8268290e25d0cf4b9aa64b521c3ad5a",
+    "sport_key": "soccer_france_ligue_one",
+    "sport_title": "Ligue 1 - France",
+    "commence_time": "2026-01-18T19:45:00Z",
+    "completed": false,
+    "home_team": "Lyon",
+    "away_team": "Brest",
+    "scores": null,
+    "last_update": null
+  }
+]

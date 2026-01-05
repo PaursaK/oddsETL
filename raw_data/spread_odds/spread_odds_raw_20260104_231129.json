@@ -1,0 +1,652 @@
+[
+  {
+    "id": "6d0ae596c4bec15e99e4e791aeb8c503",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-09T20:00:00Z",
+    "home_team": "Getafe",
+    "away_team": "Real Sociedad",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": 110,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -130,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": -101,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -119,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Getafe",
+                "price": -101,
+                "point": 0.0
+              },
+              {
+                "name": "Real Sociedad",
+                "price": -119,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ae717a6e4141ae3cc154c976538cc78a",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T13:00:00Z",
+    "home_team": "Oviedo",
+    "away_team": "Real Betis",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -115,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -105,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -116,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -104,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Oviedo",
+                "price": -116,
+                "point": 0.5
+              },
+              {
+                "name": "Real Betis",
+                "price": -104,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33adb7f62df9e1843f4c64c960d9c895",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T15:15:00Z",
+    "home_team": "Villarreal",
+    "away_team": "Alavés",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": -102,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": -102,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Alavés",
+                "price": -118,
+                "point": 1.0
+              },
+              {
+                "name": "Villarreal",
+                "price": -102,
+                "point": -1.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2fa0c69e407576a1beac74b13074ec2",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T17:30:00Z",
+    "home_team": "Girona",
+    "away_team": "CA Osasuna",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -125,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 105,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -124,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 104,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "CA Osasuna",
+                "price": -124,
+                "point": 0.25
+              },
+              {
+                "name": "Girona",
+                "price": 104,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac7fdf3f88257521894bf1895af2fc3e",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-10T20:00:00Z",
+    "home_team": "Valencia",
+    "away_team": "Elche CF",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -102,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -118,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -104,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -116,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Elche CF",
+                "price": -104,
+                "point": 0.25
+              },
+              {
+                "name": "Valencia",
+                "price": -116,
+                "point": -0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8ecd2a8b4db1916e9aa1fff560810fa8",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T13:00:00Z",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Mallorca",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Mallorca",
+                "price": 102,
+                "point": 0.5
+              },
+              {
+                "name": "Rayo Vallecano",
+                "price": -122,
+                "point": -0.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cd15bfc6667962f56247207f3abd6291",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T15:15:00Z",
+    "home_team": "Levante",
+    "away_team": "Espanyol",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 102,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -122,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 100,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -120,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Espanyol",
+                "price": 100,
+                "point": -0.25
+              },
+              {
+                "name": "Levante",
+                "price": -120,
+                "point": 0.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7cdfdb81a5bdb695c97d08daf34478b7",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "95909c45c3ee5420fe50e8f035167bc9",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-11T18:00:00Z",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "bookmakers": []
+  },
+  {
+    "id": "30f6f08d42940047b836af2153d681bd",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_title": "La Liga - Spain",
+    "commence_time": "2026-01-12T20:00:00Z",
+    "home_team": "Sevilla",
+    "away_team": "Celta Vigo",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-04T23:10:38Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:38Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 102,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -122,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-04T23:10:50Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:50Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 102,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -122,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-04T23:10:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-04T23:10:54Z",
+            "outcomes": [
+              {
+                "name": "Celta Vigo",
+                "price": 102,
+                "point": 0.0
+              },
+              {
+                "name": "Sevilla",
+                "price": -122,
+                "point": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2645cf99b94b2d0cc4ecbfed1cf56bdf",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-31T01:12:00Z",
+    "completed": false,
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Philadelphia 76ers",
+    "scores": null,
+    "last_update": "2025-12-31T01:01:15Z"
+  },
+  {
+    "id": "5748aa8ead4679a8d9afe966bc5e844b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-31T02:10:00Z",
+    "completed": false,
+    "home_team": "Utah Jazz",
+    "away_team": "Boston Celtics",
+    "scores": null,
+    "last_update": "2025-12-31T01:01:15Z"
+  },
+  {
+    "id": "12a69f98068c9e1b277528c3f7dfed72",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-31T03:40:00Z",
+    "completed": false,
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Detroit Pistons",
+    "scores": null,
+    "last_update": "2025-12-31T01:01:15Z"
+  },
+  {
+    "id": "80726b18a644735592fda8cea0575612",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2025-12-31T04:10:00Z",
+    "completed": false,
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Sacramento Kings",
+    "scores": null,
+    "last_update": "2025-12-31T01:01:15Z"
+  }
+]

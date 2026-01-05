@@ -1,0 +1,162 @@
+[
+  {
+    "id": "6dc8656c59eb8feae81aba0679b20351",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T21:35:01Z",
+    "completed": true,
+    "home_team": "Texas A&M-CC Islanders",
+    "away_team": "New Orleans Privateers",
+    "scores": [
+      {
+        "name": "Texas A&M-CC Islanders",
+        "score": "83"
+      },
+      {
+        "name": "New Orleans Privateers",
+        "score": "69"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "831aa98d8108541ec02827cfc575e318",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T21:50:59Z",
+    "completed": true,
+    "home_team": "Northwestern St Demons",
+    "away_team": "Stephen F. Austin Lumberjacks",
+    "scores": [
+      {
+        "name": "Northwestern St Demons",
+        "score": "64"
+      },
+      {
+        "name": "Stephen F. Austin Lumberjacks",
+        "score": "74"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "6c049e001e802beedfb0f71b99235de2",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T22:00:32Z",
+    "completed": true,
+    "home_team": "Xavier Musketeers",
+    "away_team": "UConn Huskies",
+    "scores": [
+      {
+        "name": "Xavier Musketeers",
+        "score": "67"
+      },
+      {
+        "name": "UConn Huskies",
+        "score": "90"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "e82c35ac959c4b3da8e26e3b4f3c94ac",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T22:06:01Z",
+    "completed": true,
+    "home_team": "North Dakota St Bison",
+    "away_team": "South Dakota Coyotes",
+    "scores": [
+      {
+        "name": "North Dakota St Bison",
+        "score": "84"
+      },
+      {
+        "name": "South Dakota Coyotes",
+        "score": "61"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "9cc018d40a32673ecd1d80a809a0d250",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T22:44:16Z",
+    "completed": true,
+    "home_team": "UT Rio Grande Valley Vaqueros",
+    "away_team": "Nicholls St Colonels",
+    "scores": [
+      {
+        "name": "UT Rio Grande Valley Vaqueros",
+        "score": "69"
+      },
+      {
+        "name": "Nicholls St Colonels",
+        "score": "71"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "81014deeedb536bf1dfe6bb0a10b5635",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2025-12-31T23:02:19Z",
+    "completed": true,
+    "home_team": "Villanova Wildcats",
+    "away_team": "DePaul Blue Demons",
+    "scores": [
+      {
+        "name": "Villanova Wildcats",
+        "score": "71"
+      },
+      {
+        "name": "DePaul Blue Demons",
+        "score": "66"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "75f5866a019b86e7264f355bd306321b",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-01T00:06:00Z",
+    "completed": true,
+    "home_team": "UNC Wilmington Seahawks",
+    "away_team": "Drexel Dragons",
+    "scores": [
+      {
+        "name": "UNC Wilmington Seahawks",
+        "score": "65"
+      },
+      {
+        "name": "Drexel Dragons",
+        "score": "53"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  },
+  {
+    "id": "5d2a78e6a7b982c2915030b09fa717be",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2026-01-01T01:15:07Z",
+    "completed": true,
+    "home_team": "Georgetown Hoyas",
+    "away_team": "St. John's Red Storm",
+    "scores": [
+      {
+        "name": "Georgetown Hoyas",
+        "score": "83"
+      },
+      {
+        "name": "St. John's Red Storm",
+        "score": "95"
+      }
+    ],
+    "last_update": "2026-01-01T08:55:47Z"
+  }
+]

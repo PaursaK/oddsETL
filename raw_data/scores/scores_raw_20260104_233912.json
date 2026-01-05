@@ -1,0 +1,153 @@
+[
+  {
+    "id": "2f4cf01e2db22ed928eb8f0357a74007",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "completed": false,
+    "home_team": "Los Angeles Rams",
+    "away_team": "Arizona Cardinals",
+    "scores": [
+      {
+        "name": "Arizona Cardinals",
+        "score": "20"
+      },
+      {
+        "name": "Los Angeles Rams",
+        "score": "23"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "1a5451b8f0d74f90937c52bec447dc40",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:16Z",
+    "completed": false,
+    "home_team": "Chicago Bears",
+    "away_team": "Detroit Lions",
+    "scores": [
+      {
+        "name": "Detroit Lions",
+        "score": "16"
+      },
+      {
+        "name": "Chicago Bears",
+        "score": "8"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "b6eb23d78a4e1b3bf9946be7cfac0e6b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:25Z",
+    "completed": false,
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Washington Commanders",
+    "scores": [
+      {
+        "name": "Washington Commanders",
+        "score": "10"
+      },
+      {
+        "name": "Philadelphia Eagles",
+        "score": "17"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "de4ae000f7f94eecf9d827eabff2991b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:26Z",
+    "completed": false,
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Kansas City Chiefs",
+    "scores": [
+      {
+        "name": "Kansas City Chiefs",
+        "score": "6"
+      },
+      {
+        "name": "Las Vegas Raiders",
+        "score": "9"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "bd5134e8440a2b12cc8ac98ab4f18093",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:28Z",
+    "completed": false,
+    "home_team": "Buffalo Bills",
+    "away_team": "New York Jets",
+    "scores": [
+      {
+        "name": "New York Jets",
+        "score": "0"
+      },
+      {
+        "name": "Buffalo Bills",
+        "score": "29"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "d242576b25f56b3f598044c9abfb4df0",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:35Z",
+    "completed": false,
+    "home_team": "New England Patriots",
+    "away_team": "Miami Dolphins",
+    "scores": [
+      {
+        "name": "Miami Dolphins",
+        "score": "10"
+      },
+      {
+        "name": "New England Patriots",
+        "score": "31"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "30621f6a1072712bee795c15eafe9768",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-04T21:25:37Z",
+    "completed": false,
+    "home_team": "Denver Broncos",
+    "away_team": "Los Angeles Chargers",
+    "scores": [
+      {
+        "name": "Los Angeles Chargers",
+        "score": "3"
+      },
+      {
+        "name": "Denver Broncos",
+        "score": "13"
+      }
+    ],
+    "last_update": "2026-01-04T23:39:03Z"
+  },
+  {
+    "id": "f609b38fe2bf0687644ad8603e28220b",
+    "sport_key": "americanfootball_nfl",
+    "sport_title": "NFL",
+    "commence_time": "2026-01-05T01:20:00Z",
+    "completed": false,
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Baltimore Ravens",
+    "scores": null,
+    "last_update": null
+  }
+]

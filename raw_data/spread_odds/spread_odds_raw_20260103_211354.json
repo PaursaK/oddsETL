@@ -1,0 +1,584 @@
+[
+  {
+    "id": "56504eac7bbc625f7316c6bad4354b93",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-06T00:30:00Z",
+    "home_team": "Montana State Bobcats",
+    "away_team": "Illinois State Redbirds",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -110,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -110,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -113,
+                "point": 10.0
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -107,
+                "point": -10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -113,
+                "point": 10.0
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -107,
+                "point": -10.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -115,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -105,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Illinois State Redbirds",
+                "price": -117,
+                "point": 10.5
+              },
+              {
+                "name": "Montana State Bobcats",
+                "price": -104,
+                "point": -10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "169eeab0821162439c0ecf53db53f018",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-09T00:30:00Z",
+    "home_team": "Ole Miss Rebels",
+    "away_team": "Miami Hurricanes",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -108,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -112,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -105,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -115,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -108,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -112,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:47Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -113,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -115,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -105,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:12:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:48Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:23Z",
+            "outcomes": [
+              {
+                "name": "Miami Hurricanes",
+                "price": -110,
+                "point": -3.5
+              },
+              {
+                "name": "Ole Miss Rebels",
+                "price": -110,
+                "point": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cb32b2b0ea14036d2aa37918891ded69",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2026-01-10T00:30:00Z",
+    "home_team": "Indiana Hoosiers",
+    "away_team": "Oregon Ducks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -112,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -108,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2026-01-03T21:13:45Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:45Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -105,
+                "point": -4.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -115,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2026-01-03T21:12:54Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:54Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -108,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -104,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2026-01-03T21:13:21Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:21Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -112,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -108,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2026-01-03T21:11:17Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:11:17Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -115,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -105,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanatics",
+        "title": "Fanatics",
+        "last_update": "2026-01-03T21:13:23Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:23Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2026-01-03T21:13:47Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:47Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -109,
+                "point": -4.5
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -114,
+                "point": 4.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2026-01-03T21:13:34Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:13:34Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -115,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -105,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2026-01-03T21:12:55Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:55Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2026-01-03T21:12:48Z",
+        "markets": [
+          {
+            "key": "spreads",
+            "last_update": "2026-01-03T21:12:48Z",
+            "outcomes": [
+              {
+                "name": "Indiana Hoosiers",
+                "price": -110,
+                "point": -4.0
+              },
+              {
+                "name": "Oregon Ducks",
+                "price": -110,
+                "point": 4.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+#### EVENTS FETCH
+# - step 1: fetch raw json and save to raw_data directory for processing - DONE
+# - step 2: grab data from raw_data directory and load to dataframe - DONE
+# - step 3: 3NF the table, swap home_team and away_team with participant_ids - DONE
+# - step 4: save .csv to processed_data (this is the final state before upsertion/replacement) - DONE
+# - step 5: collect event_ids to pass to the other endpoints for fetching - DONE
+
+#### SCORES FETCH (this will need to be fetched very often)
+# - step 1: fetch raw json and save to raw_data directory for processing - DONE
+# - step 2: grab data from raw_data directory - DONE
+# - step 3: Format data to fit desired schema - DONE
+#          - flatten score structure (if available) - DONE
+#          - load to dataframe - DONE
+# - step 4: 3NF the table, swap home_team and away_team with participant_ids
+# - step 5: save .csv to processed_data (this is the final state before upsertion/replacement)
+
+#### HEAD 2 HEAD FETCH
+# - step 1: fetch raw json and save to raw_data directory for processing
+# - step 2: grab data from raw_data directory
+# - step 3: Format data to fit desired schema
+#          - for every bookmaker we need to grab the market_key
+#          - flatten the outcome odds structure ('price', compare 'name' to home and away to assign cost)
+#          - load to dataframe
+# - step 4: concatenate all sports for one master table
+# - step 5: Build consensus odds
+#          - convert american odds to probability
+#          - devig the probabilities
+#          - aggregate all odds from different bookmakers (group by event_id)
+#          - drop bookmakers column and round probabilities to nearest hundredth
+# - step 6: 3NF the table, swap home_team/away_team with participant_ids
+# - step 7: save .csv to processed_data (this is the final state before upsertion/replacement)
+
+#### SPREADS FETCH
+# - step 1: fetch raw json and save to raw_data directory for processing
+# - step 2: grab data from raw_data directory
+# - step 3: Format data to fit desired schema
+#          - for every bookmaker we need to grab the market_key
+#          - flatten the outcome odds structure (collect price and spread value, compare 'name' to home and away to assign cost)
+#          - load to dataframe
+# - step 4: concatenate all sports for one master table
+# - step 5: Build consensus odds
+#          - convert american odds to probability
+#          - devig the probabilities
+#          - build weighted average spread (group by event_id)
+#               - set handicaps to the same magnitude but opposite sign
+#               - fix spreads by rounding to nearest something that ends in 0.5 to avoid pushes
+#          - drop bookmakers column and round probabilities to nearest hundredth
+# - step 6: 3NF the table, swap home_team/away_team with participant_ids
+# - step 7: save .csv to processed_data (this is the final state before upsertion/replacement)
+
+#### TOTALS FETCH
+# - step 1: fetch raw json and save to raw_data directory for processing
+# - step 2: grab data from raw_data directory
+# - step 3: Format data to fit desired schema
+#          - for every bookmaker we need to grab the market_key
+#          - flatten the outcome odds structure (collect name 'Over' or 'Under', price, and total point value)
+#          - load to dataframe
+# - step 4: concatenate all sports for one master table
+# - step 5: Build consensus odds
+#          - convert american odds to probability
+#          - devig the probabilities
+#          - create average under/over probabilities
+#          - take average of total and force total to end in X.5 
+#          - drop bookmakers column and round probabilities to nearest hundredth
+# - step 6: 3NF the table, swap home_team/away_team with participant_ids
+# - step 7: save .csv to processed_data (this is the final state before upsertion/replacement)
